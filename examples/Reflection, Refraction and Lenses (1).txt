@@ -1,0 +1,2027 @@
+
+
+--- Page 1 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Reflection, Refraction and Lenses
+Q1.
+Lighthouses are located along coastlines to aid navigation. A lighthouse emits an intense
+beam of light. In clear weather the beam is visible for long distances, but in foggy weather
+the visibility of the beam is limited.
+The beam is refracted by water droplets in the air.
+A light ray in the beam is incident on a spherical water droplet with an angle of incidence of
+40.0°. The ray passes through the droplet and meets the water-air boundary at X as shown.
+Thiagram NOT to scale
+_..  le
+Deduce whether the ray leaves the water droplet at point X.
+speed of light in water = 2.25 x 10° ms"
+(4)
+(Total for question = 4 marks)
+
+
+--- Page 2 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q2.
+The power of the lens in the human eye changes as the lens changes shape. This enables a
+person to see objects at different distances clearly. To change the shape, muscles in the eye
+put the lens under stress.
+A teacher was modelling the human eye. He placed an object 60 cm from a converging lens
+system. A real image of the object was observed with a magnification of 0.5
+The converging lenses that were available to the teacher had powers of 2D, 3D and 4D.
+Deduce which lens, or combination of lenses, the teacher used.
+(4)
+(Total for question = 4 marks)
+Q3.
+A student investigated how a converging lens can be used to project a magnified image onto
+a whiteboard.
+In a darkened room, the student placed a smartphone 9.0 cm from the converging lens. The
+phone's display was projected onto the whiteboard. The converging lens was 75.0 cm from
+the whiteboard when a clear image was produced.
+The image projected onto the whiteboard was real.
+State what is meant by a real image.
+(1)
+(Total for question = 71 mark)
+
+
+--- Page 3 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q4.
+A simple astronomical refracting telescope consists of two converging lenses. Light from a
+star is brought to a focus by the objective lens and then viewed through an eyepiece lens as
+shown.
+light from a                       |  |        a
+a ster          | tr— ; — _                 I 1]    ys Oe. -
+objective lens                          ee       . '
+eyepiece lens
+(i) In the arrangement shown, the final image is formed at infinity.
+Explain why the separation of the objective and eyepiece lenses is equal to the sum of
+their focal lengths.
+(2)
+(ii) State why the final image is inverted.
+(1)
+(Total for question = 3 marks)
+
+
+--- Page 4 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q5.
+Converging and diverging lenses may be used in glasses to correct problems with eyesight.
+A person who is long-sighted cannot clearly see objects that are close to the eye.
+Rays of light from an object 25 cm in front of the eye would converge to a point behind the
+retina as shown in the diagram.
+                               a                              ;               ;     Diagram mot
+e                                     cm                                    =      to scale
+_—        \ petina
+front of eye —
+This may be corrected by using an additional converging lens.
+State how an additional converging lens would enable the light rays from an object 25 cm in
+front of the eye to converge at a point on the retina.
+(1)
+(Total for question = 1 mark)
+Q6.
+Light travelling in glass of refractive index ng is incident at a boundary with water of refractive
+index nw. The critical angle for the boundary is C.
+Which of the following expressions is correct for this boundary?
+1
+    A sin C= —
+£
+    B snC=—
+fl
+£
+cal
+    C sin C=
+i                                            (Total for question = 1 mark)
+    D sin C= —
+
+
+--- Page 5 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q7.
+A motorist pays for petrol at a filling station using a bank card for which a personal
+identification number must be entered on a key pad.
+There is a thick sheet of glass between the cashier and the motorist, with a gap at the
+bottom to give access to the key pad.
+glass security barrier —_        -
+A_| “fF ff
+Ieexr aansd               a te ee AA
+ao
+
+When standing as shown in the diagram, refraction of light through the glass means that the
+motorist is unable to see the key pad without moving his head to see under the glass.
+
+
+--- Page 6 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+glass barrier                                              eye
+Ltt tee a
+hey pad                |x
+The diagram shows rays from the key pad. The light travelling initially along the path XA,
+which then passes through the glass, does not reach the motorist's eye. Assume no light
+passes through the surface AB.
+(i) Measure the angle of incidence for the ray travelling along XA and calculate the
+angle of refraction in the glass.
+refractive index of glass = 1.5
+(3)
+(ii) Add to the diagram to show that light travelling initially along the path XA does
+not reach the eye of the motorist.
+(1)
+(Total for question = 4 marks)
+
+
+--- Page 7 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q8.
+A ray of light, in air, is incident on the edge of a triangular glass prism as shown. The critical
+angle for a light ray meeting a glass to air boundary is 35°.
+x\
+/              a tl \  Cc
+Which of the following gives the value of the refractive index of the glass?
+    A sim35
+gin 3.5
+    C si! &
+(Total for question = 1 mark)
+
+
+--- Page 8 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q9.
+Converging and diverging lenses may be used in glasses to correct problems with eyesight.
+The eye acts as a converging lens system.
+The diagram shows light rays from an object 25 cm in front of an eye converging to a point
+on the retina at the back of the eye. The eye has a depth of 2.4 cm.
+Diagram wat
+25 cm                                      |. 24cm               to scale
+front of eye —
+Calculate the optical power of the eye.
+(3)
+ek) (5) ee
+(Total for question = 3 marks)
+
+
+--- Page 9 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+
+Q10.
+
+The photograph shows a child's nature observation kit used for observing small creatures
+
+such as flies.
+The lid has a built-in lens and an additional optional lens to allow the magnification to be
+increased.
+The photographs below show the appearance of a fly using no lens, a single lens and two
+lenses respectively.
+.  |  ao m a a a       |  | _ - aT Sx : :       ;         eee . oe :
+A student reads that the power of a combination of lenses is equal to the sum of the powers
+of the individual lenses.
+DOWEl combination = DOW€EfTliens1 + DOW€ETlens2
+
+The student investigates this relationship using the lenses in the observation kit.
+
+
+--- Page 10 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+The student records the method and measurements as shown below.
+Method
+Set up a bulb on one side of the laboratory.
+Hold the lens near the opposite wall and vary the
+distance from the wall until a clear image of the
+bulb is seen on the wall.                                |
+With the other hand, use a ruler to measure the
+distance of the lens from the clear image formed.
+This is the focal length.
+Results
+Optional lens
+Combination of              >
+both lenses
+The distance between the light and the opposite wall was 6 m.
+The distance of an object from the combined lenses is 5.0 cm.
+Calculate the magnification of the lens.
+Focal length = 7.0 cm.
+(3)
+MagQnifiCation = .........cccccccseccccseeeeeneeeeeeeeeeeeeeeeeesseeeeseees
+(Total for question = 3 marks)
+
+
+--- Page 11 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+A ray of light travelling through water strikes the surface at angle of 43° as shown in the
+diagram.
+
+fol                                        water
+.                      I
+|
+I
+Determine whether the ray will undergo total internal reflection.
+speed of light in water = 2.25 x 108 ms"
+speed of light in air = 3.00 x 108 ms"
+(Total for question = # marks)
+A camera uses a converging lens to produce an image.
+The diagram represents an object O and a converging lens.
+eT WE SE EEC SCE, REE
+{ES 8 PE, “ESE
+Ca a
+PERE a NC
+AE 8 ee
+FORCE CECE EEE. pC G Grr ere mr ‘iE EEE EERE PEPER EEE Se ee Tart
+He fae | a jet each TL oe ag!
+RS a ee BEC RICCI ICE OEE) a EP EP el
+(ART IP TTI Ral Tt eid oT Al VI a II We Wee eta Rall Mel fede Colt WW Pedi WaT A MHD ell oH
+REE, ak Bt da dd a
+ERE 9 a dC SEDGGSEDOCE Ene SEED ER eee SEC CES CEC ooc oe
+ES a
+Etsy? BEGEE CAREER Sg UES Oa ee BAD OEE Pe eT ar ry
+Bu sce a a, {AE
+FORE CECE GU COIRC OES R CEC GGGe CEO ‘BB
+HO RR RR ROR Dee Pe a eae a PR RRR PRR ee ee ee ee
+He fa eh ad) tl aC a,
+Ee ke a =, RC  ec eM |
+PVE A
+ESS SARE ee ee ied: cee Ae I (ECE EEE CREEL AOC Ce Hera!
+FEV ak PN YN Ol 2k Os ES eg OS tS, wes oo
+fn de |
+(i) Complete the ray diagram to determine the position of the image.
+
+
+--- Page 12 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+(ii) Determine the magnification of this image.
+(2)
+MagQnifiCation = ............ccccsseeeccceseeeeeeeeeeseeeeeeseeeeeeeeeeeeens
+(iii) State, with justification, whether the image is real or virtual.
+(1)
+(Total for question = 6 marks)
+Q13.
+The photograph shows a sample of the mineral selenite. Selenite is made up of many long,
+narrow crystals.
+  Lal ule ay | Pe
+Selenite has a refractive index of 1.52
+(i) State what is meant by critical angle.
+(1)
+
+
+--- Page 13 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+(ii) Calculate the critical angle for light in selenite.
+(2)
+Critical angle for light in Selenite = 2.0... ce eeccceeecceseceeeeeeeeeeeeeeesseaeessaeeees
+(Total for question = 3 marks)
+Q14.
+The human eye acts as a converging lens system that produces an image on the retina at
+the back of the eye as shown.
+|                                                    |          Diagram NOT to scale
+ etina
+                  front of eye   :       |
+A person with eyesight problems may wear either diverging or converging contact lenses.
+A short-sighted eye cannot focus on distant objects, because the power of the eye is too
+great.
+One student with short sight cannot focus on objects further than 1.5 m without wearing her
+contact lenses.
+To view distant objects, it is determined that the combined power of her eye and her contact
+lens should be 41.7 D.
+Determine the power and type of lens needed to correct her vision. Assume the equations
+for thin lens apply to both lenses.
+distance from eye lens to retina = 2.4 cm
+(4)
+
+
+--- Page 14 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+ek) (5) ee
+Type Of IONS ..........cccccccsseeeeeeeeeeeeeeeeeeeeeeeeseeseeeeeeeeeeas
+(Total for question = 4 marks)
+Q15.
+Converging and diverging lenses may be used in glasses to correct problems with eyesight.
+The diagram shows three parallel rays of light incident on a diverging lens and the path of
+the rays after passing through the lens. The diagram is drawn to actual size.
+Add to the diagram to determine the focal length of the lens.
+(2)
+FOCAal IOngth = ...........ccccecccseceeceeeceeeeeceeeeeeeeesseeeeeeeeenees
+(Total for question = 2 marks)
+
+
+--- Page 15 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q16.
+A camera uses a converging lens to produce an image.
+In some cameras, lenses of different focal lengths can be used. A particular camera can use
+a lens of focal length 50 mm or a lens of focal length 200 mm. Both lenses are made from
+the same material.
+(i) Describe a method to determine an approximate value for the focal length of a
+converging lens.
+(2)
+(ii) Explain why the lens with the shorter focal length is thicker at its centre.
+(2)
+
+
+--- Page 16 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+(iii) Both photographs show the same scene photographed from the same position.
+= ee eS
+Pees OP oc We egy aces:
+aoa oe Le oe etna ae    ee en eee
+ee eee eee ee     ee ee
+ee RE ie eee
+goo rae a eC a
+Nope ee) ee
+fo ee ee re |
+ee ee
+‘Phovography |                   “Photosraph 2.
+One photograph was taken using the lens of focal length 50 mm and the other was
+taken using the lens of focal length 200 mm.
+Deduce which lens was used to take photograph 2.
+(5)
+(Total for question = 9 marks)
+
+
+--- Page 17 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q17.
+Light entering a normal eye is refracted by both the cornea and the lens before a focused
+image is formed on the retina.
+People swimming under water often wear goggles. The goggles enable them to see objects
+under water clearly whereas without goggles objects appear blurred.
+Explain why wearing goggles has this effect.
+speed of light in water = 2.25 x 10®ms71
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 18 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q18.
+An object is placed 6.5 cm from a lens of focal length 3.9 cm. An image is formed 9.8 cm
+behind the lens.
+Which of the following expressions is equal to the magnification?
+  a 32
+  BR —
+(Total for question = 1 mark)
+Q19.
+A student carried out an experiment to determine the focal length of a converging lens. The
+student used a bulb to illuminate an object as shown. The converging lens produced an
+image of the object on a screen. The student adjusted the position of the screen until the
+image was in focus.
+He repeated the procedure for different distances between the object and the lens. The
+distance v from the lens to the screen was measured for each lens position.
+( 7 ‘                (\                                        _on SCT@CD
+bulb Nl ii—object  \f-—lens
+-
+The student measured the height ho of the object and the height h; of the corresponding
+image on the screen for each lens position. The magnification m was calculated.
+To determine the focal length f of the lens the student used the equation
+i =— —I
+
+
+--- Page 19 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+lf the distance from object to the lens is less than a certain value, no image is produced on
+the screen.
+
+Explain why.
+(3)
+(Total for question = 3 marks)
+Q20.
+A telescope consists of a convex lens (objective) of power 0.820 D and a second lens
+(eyepiece) as shown.
+rays from
+distant object              objective                                              eyepiece
+!       ——y_ | Le    observer
+Q
+final image
+The objective produces an image at P. This image becomes the object of the eyepiece,
+which produces a final image at Q.
+Show that the focal length of the objective lens is about 1200 mm.
+(2)
+(Total for question = 2 marks)
+
+
+--- Page 20 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q21.
+The photograph shows a child's nature observation kit used for observing small creatures
+such as flies.
+pes A ee ie
+The lid has a built-in lens and an additional optional lens to allow the magnification to be
+Increased.
+The photographs below show the appearance of a fly using no lens, a single lens and two
+lenses respectively.
+eee ee ee ae)     aaa ee ie an     CARS I
+A student reads that the power of a combination of lenses is equal to the sum of the powers
+of the individual lenses.
+DOWEl combination = DOW€EfTliens1 + DOW€ETlens2
+
+
+--- Page 21 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+The student investigates this relationship using the lenses in the observation kit.
+The student records the method and measurements as shown below.
+3999999999999
+
+Method
+Set up a bulb on one side of the laboratory.
+Hold the lens near the opposite wall and vary the
+distance from the wall until a clear image of the
+bulb is seen on the wall.
+With the other hand, use a ruler to measure the
+distance of the lens from the clear image formed.
+This is the focal length.
+Results
+ Focal length/cm
+Lens in the lid
+Optional lens
+both lenses
+
+The distance between the light and the opposite wall was 6 m.
+
+(i) Explain one way of improving the value obtained for the focal length of the lens.
+(2)
+(ii) Determine whether the data from this experiment supports the conclusion.
+DOWEl combination = DOW€ETliens1 + DOW€ETl\ens2
+Support your answer with a calculation.
+(4)
+
+
+--- Page 22 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+(Total for question = 6 marks)
+Q22.
+A student investigated how a converging lens can be used to project a magnified image onto
+a whiteboard.
+In a darkened room, the student placed a smartphone 9.0 cm from the converging lens. The
+phone's display was projected onto the whiteboard. The converging lens was 75.0 cm from
+the whiteboard when a clear image was produced.
+Calculate the focal length of the lens.
+(2)
+FOCAal IOngth = ...........ccccecccseceeceeeceeeeeceeeeeeeeesseeeeeeeeenees
+(Total for question = 2 marks)
+
+
+--- Page 23 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q23.
+The lens of a mobile phone camera has a focal length of 4.25 mm. Light is focused onto light
+sensors at the back of the camera, as shown.
+lens
+|      .  \                     _~ light sensors
+State why the lens and the light sensors in a mobile phone camera can be positioned a fixed
+distance apart.
+(1)
+(Total for question = 1 mark)
+Q24.
+An object is placed in front of a lens.
+Which row of the table shows a combination that will produce a real image of the object?
+| Focal length of |        Object        |
+lens cm,                            tlistamce / cm
+    D
+(Total for question = 1 mark)
+
+
+--- Page 24 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q25.
+The lens in the eye of an octopus focuses light onto the retina at the back of the eye.
+The octopus focuses on objects at different distances from the eye by changing the shape of
+the eye to move the lens closer or further from the retina.
+(i) The power of an octopus lens is 118 D.
+Show that the focal length of the lens is about 8.5 mm.
+(2)
+(ii) Calculate the shortest distance from the eye at which an object may be focused clearly
+on the retina.
+maximum distance from lens to retina = 2.0 cm
+(2)
+Shortest distance from the CYC = .........ccccccseececseeeeeeeeeeeeeeeseeeeeeeeeeseneeeeeaes
+(iii) The lens in the eye of an octopus is in contact with seawater. The refractive index of
+freshwater is less than the refractive index of seawater.
+Deduce what would happen to the shortest distance from the eye at which an object may
+be focused clearly if the octopus was in freshwater.
+(3)
+
+
+--- Page 25 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+(iv) Calculate the speed of light in seawater.
+refractive index of seawater = 1.37
+(2)
+Speed of light in SeAWatEr = 2... ee cccceeecceeeeeeeeeeteeeeeeeeeseeeeseeeeees
+(Total for question = 9 marks)
+Q26.
+The diagram shows how an image is formed by an object that is placed a small distance
+from a thin converging lens.
+object
+lens,                                                                                   ~ i
+Which of the labels A, B, C or D represents the focal point of the lens?
+Ey A
+Ee]
+EE] C
+fe]
+(Total for question = 71 mark)
+
+
+--- Page 26 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q27.
+The photograph shows a man wearing a virtual reality (VR) headset.
+So a eos a
+A RRM. | Se EE a ae.
+The VR headset gives the illusion of three-dimensional vision.
+Inside the VR headset a pair of lenses is used to enable the user to focus on a magnified
+virtual image of a screen. The lenses can be changed to suit the vision of the user.
+A eee aN Elie re ee
+(et 8 a
+NSS eee a ee |
+| a ss
+In the VR headset the lens is between the eye and the screen, as shown below.
+|                                                              Mot to scale
+|
+|               }                    Bye
+SCTeen,          Lens
+For a particular user of the headset, the image of the screen must be at least 16 cm from the
+eye and have a magnification of at least 3.0.
+
+
+--- Page 27 ---
+
+Reflection, Refraction and Lenses                                                                                                                                      PhysicsAndMaths Tutor.com
+
+Determine whether this would be possible with a lens of focal length 3.8 cm.
+
+Your answer should include a full-scale ray diagram drawn on the grid provided.
+
+di        m                   m
+
+istance from screen to lens = 2.8 c
+di        m                m
+istance from lens to eye = 2.2 c
+ee Em a fl lo eal AE ll
+SSSR EERE Eee Be ee ee ee ee a ee ee ee eee ee SCE COC CE Oo rh
+PE Sete ett * PSRR RRR RE SRE Oe ee
+WS al Et ll) hh lO ly  a a a
+OUP PEER Ee CO OGRE Re ee CO ee  Deena ee Le ese
+1 aH OO a a
+[PASS S OSE OS aOR ERR eo Re eR
+{a 8 a 8 eT td i
+WWW ls DO OE DO: EO eT OE OG eG TT
+Fission Dy Eo a es roe Aol Tem Ce a a a pect mec tem arom a i a So a a ee cen aa a te        pata Bad Ce re a CS i a ee peal
+Host HL Hed HH A ss Che a en a a a Ok SO
+2 ey ee eee a ss  PEC CMECR CC SE GcChOce Ce Utce eb rrrrrs
+ER SS PSE EL POT TIT SIE IE I GG EIGC LICE CIE I
+SEES SERGE POOR a See oe ER ee oe ee TCI RII TITTY WW Hele
+$0 Eg) Co eC eT PHT EC eG ACG Ee
+leat Co | a A a STE  OY ot a ee | er ee a,
+CAP o CoP RAC Ae oo Cee a Re
+PREC CIRO SD GORE EER ee  SY, le sk a
+GR ES 8 5
+I Sooo osc S Sess ease eae BR a
+Bao i ON i i
+BERGE Ear AE ARSE m ARERR OAR SE ear amine ane aera a ra OE OO
+Sh a i, a 8. lt 8 8 8
+(i
+BEY) OY
+HEE) 8 8 8, ed
+Qa an ee ta Oa dt a
+(8 a NP mf
+Ht AM EL B.S Ek ak ald 5 eo) en  ca ot eke
+ESE EEE Ae EA See eRe ee a ee ee ee ee bs 9
+Se a
+Fs ie Ca A a M,N Ne
+ICT EOE PO eRe rar icel el
+a YY EP tls) Pl, lO
+DO OGOCG CO OGE: DOCE CBSE Cor omcoccco SECC ICC COCCI OC OOO. CTC ORCOICTE DCS COOGEE GCC GOO
+Su a em mm PG
+Ly  5 i TE ce os fm  =  te a a es Lo a a oat =o fF ee  == oot  a ?  ere a as   a caeret  Ba a 5 uaa ry
+(Se 8  CEE CEE ee eee eee
+eee en nde en tt ee et or a
+PEE the ee Ee SET CE eC We STC PA ee PEL  in|
+8: a A a
+HOSS C SOG SEE Sane aoe ee ee eee aes BE dr
+HB 3, 6 8, Rm acm 8
+PSR Se0 RR Cee ee ee OO  2
+(20RD SERRE SC CRU RAR SE BESO be Ee SPB Se ee Pe PERRO RRB EEEee ee eae
+a ad ta a a lh Yk:
+(ASSP GR ESAS SR Ee A eS ee ee EE DGR Ek
+Ea eS DY EO 9 NN Pl SH fg STE SD
+Sa ea eC i
+em, ee em, a le 8 lc, ea
+{0B a
+ES ay, E20 Ea 8 FEY,
+YRS Sa 5
+OS 6h Ge A ON 8 a a
+FSIS SRI ES Ce eGR See ee ett “ PSSR SOE ee ee
+SE yk 9 aE lh ll 8 ls Bl  sa a
+iP cP Oe eC Pe ee ee  PSR RAE AE ee
+PQ tO, A YO Dl Ca
+int Ge eo oe ee ee ae Bo oe SE es ee ee
+lB RB nh DP hk: YP Sh
+1 OY a | NN
+(i EN OE Ga BG Ge ee
+CI LITT GAAP ICT TIC IP Cn CI er CEI IGP a aT
+ets SOIC IGGL HEerer ra cas yaa thease ee en a rok mcm bernie dans eS HC ec Se Yon‘ Cay v E Ce A Be ad ad ae Se oe
+ja a TESS SSS Se SSS eee Bee ee =  a ss
+Hee PP Te Bi 0 A ee ee
+A SN
+a 8 a 8 (a a
+PASSE EAR Ee ES BEBO Oe Pe E ERB eS eRe eee Ree Pee Re eee Ee eR eS Bee ead eee eS eee
+ARAB RECEDES GE GEE EO EARE RIGGS RSET CE SPEER Te oer er rrrr a a
+G2 a a a i a
+CREO OEE COSC GTC OR GCE oer PEPE Oe ACE CA a ein)
+a a a BS A
+i Ce tN a. a 9), CN
+ga a eS ta al 8, i a i a  fs a 8
+iam ea et an a A a ad ara da i
+FSGS AOE BRE eee Sees peeraeass aeeee EGR BER BE eRe ee eee ee ee ee ee
+a
+=
+(Total for question = 4 marks)
+
+
+--- Page 28 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+
+Q28.
+A diverging lens is used to produce an image of a real object.
+Select the row of the table that correctly identifies the nature of the image produced.
+   °
+   °
+
+(Total for question = 71 mark)
+Q29.
+A ray of light, in air, is incident on the edge of a triangular glass prism as shown.
+The critical angle for a light ray meeting a glass to air boundary is 35°.
+
+A\
+/              a i \  c
+
+Which path, A, B, C or D, will the ray follow?
+BA
+oc
+
+(Total for question = 71 mark)
+
+
+--- Page 29 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q30.
+The photograph shows a sample of the mineral selenite. Selenite is made up of many long,
+narrow crystals.
+etl i él) i Ws |  we   5 i Loe
+Selenite has a refractive index of 1.52
+Selenite can act as a collection of optical fibres, so that an image of writing beneath the
+mineral sample appears as if it is at the upper surface as shown.
+Tate
+aul oe ee i he Py   ea
+i ee oe ee
+      a3 4 © oF     a
+\, DAR coin eee
+Explain how light travels through a selenite crystal.
+(2)
+(Total for question = 2 marks)
+
+
+--- Page 30 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q31.
+A telescope consists of a convex lens (objective) of power 0.820 D and a second lens
+(eyepiece) as shown.
+rays from
+distant object              objective                                              eyepiece
+!       —Sy |    observer
+Q
+final image
+
+The objective produces an image at P. This image becomes the object of the eyepiece,
+which produces a final image at Q.
+The eyepiece is at a distance of 100 mm from the image at P. To give a reasonable
+magnification, the final image at Q should be a virtual image at a distance of 300 mm from
+the eyepiece.
+The following lenses are available:
+
+diverging lens focal length 150 mm,
+
+converging lens focal length 150 mm,
+
+diverging lens focal length 100 mm,
+
+converging lens focal length 100 mm.
+Deduce which lens should be used for the eyepiece.
+
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 31 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q32.
+The distance of the near point from the eye increases as people get older. Because of this,
+older people use reading glasses to enable objects closer than the near point to be seen
+clearly.
+A person wants to buy reading glasses so that they can read text clearly at a distance of
+27.5 cm from their eye. The minimum focal length for this person's eye is 1.93 cm and the
+distance from the centre of the lens to the retina is 2.0 cm.
+The available powers of lenses are +1.0 D, +1.5 D, +2.0 D, +2.5 D, +3.0 D and +3.5 D.
+Show that the appropriate lens needed has a power of +2.0 D. You may ignore the distance
+between the lens of the glasses and the eye.
+
+(4)
+
+
+--- Page 32 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q33.
+Light entering a normal eye is refracted by both the cornea and the lens before a focused
+image is formed on the retina.
+Light from a point object forms a focused image on the retina.
+The cornea and lens may be treated as a single lens of focal length 1.6 cm that is 2.4 cm
+from the retina.
+(i) Calculate the distance from the point object to this single lens when a focused image is
+formed on the retina.
+(2)
+DISTANCE = oo... cece ceccc cece ececeeeeeeeceeeeeueseeeeaseesaeeeaaes
+(ii) A ray of light strikes the front of the cornea at an angle to the normal in air of 15°.
+Calculate the angle of the ray to the normal in the cornea.
+speed of light in air = 3.00 x 108 ms“
+speed of light in cornea = 2.18 x 10®ms“"
+(3)
+
+
+--- Page 33 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Angle to normal in COMM = ..........cccsceeccseeeeeeeeeneeeeceeeeeneeeenseeesseeeenes
+(Total for question = 5 marks)
+Q34.
+Light entering a normal eye is refracted by both the cornea and the lens before a focused
+image is formed on the retina.
+It is suggested that the cornea provides 80% of the focusing power of the eye.
+Determine whether this is correct.
+focal length of cornea = 2.23 cm
+focal length of lens for near object = 5.27 cm
+(4)
+(Total for question = 4 marks)
+
+
+--- Page 34 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+A student is carrying out an experiment to identify which type of glass a rectangular block is
+made from.
+
+The student shines a ray of light onto one surface of the rectangular block.
+ait           Kee
+\
+1}
+glass         rt
+4, |
+ |
+1 |
+I
+|      oy
+        *,
+The student marks the path of the ray on paper. He takes corresponding measurements of
+the angle of incidence / and the angle of refraction r at the air-glass interface.
+The student plots his results on a graph of sin / against sin r.
+wen atemed Yates Se oe ke i Wie i dd ee UD Sn a ee Sa ea eee
+wee DRAGS CAAA SRE EO SE APO RRA ca OGRA oe
+tee SDORDODET ISG BEC CCO COO COC Ce pO GSO Oe Sp cC CO reece
+Oe URE EEE ee cugs uaa GUCuE TEESE AEC EERE"
+{0 ai:c GEE CC DG0 CO ESOC RSCG re Sr cers,
+ppereeemee(E N ) i
+106 GRRE EERE ORE RE Cer CE BEC Een CEES RRO c eR nCE EE TECEREE
+STL Bs           : NP
+     fie           POOC DOC SOG TECHIMO le) GOOG PICT CbIG Dt rt:
+BN anes hk
+ak ec D8 Ra 9 AO
+Meee PAAR Rane ee Ha BSE COS See oe ee ee Ee
+py
+o TOGEICOE DOCU EICEE ICE CIG EI EDIGOI DOCG IESE IGE OGIIGr
+age Peaeso aoe te cece ccs ce aeecan est oses i sess sacs]
+Seem (ON, OG A a AG
+Ati PCP BR OREO SCRE ORR CERO R EEO ee
+DE ES ee ee ae oe
+aces 0a ed al al, a, le a,
+ PRG CES ROR eS Pe OES eee eR eo oe ee
+0: 05 (ee 008. Se ee Dee Ue: aes) ee:
+tee  Maan  Weta UMAa avis  Ericmeeti]  Sowa Saat  Hee  ania?
+The refractive index for three types of glass is shown.
+Type of glass | Retractive meex
+Silica              1.458
+Crown             L335
+Flint              1.925
+(i) Draw a line of best fit.
+
+
+--- Page 35 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+(ii) Deduce which type of glass the rectangular block is made from.
+(3)
+Type Of QIASS ........cccccseeececceeeeeeseeseeeeeeeeeseeaeeesaeeeeesaees
+(Total for question = 4 marks)
+Q36.
+An object is placed 6.5 cm away from a lens of focal length 3.9 cm. An image is formed 9.8
+cm from the lens.
+Which of the following is the magnification?
+(1)
+fl A 0.60
+Ee    0.66
+fal Cc 1.5
+eg    1.7
+(Total for question = 71 mark)
+
+
+--- Page 36 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q37.
+The photograph shows a school spectrometer.
+sodmit lamp                           ‘diiivaction. grating,                          telescopes
+on, ga ae                   ;
+fee tl rere: ie Oe |e) ie ee a ee ee
+a  (| “Sl See sa (fs ee eee ai) a ee eg ae PIece
+The spectrometer allows parallel rays of light to be passed through a diffraction grating and
+the resulting angles of diffraction to be measured.
+In the telescope, light from the grating is focused to make a real image 16.7 mm in front of
+the eyepiece lens. The eyepiece lens then uses this real image as an object to produce a
+magnified virtual image for the observer.
+Calculate the magnification produced by the eyepiece lens.
+focal length of eyepiece lens = 17.9 mm
+(3)
+MagQnifiCation = .........cccccccseccccseeeeeneeeeeeeeeeeeeeeeeesseeeeseees
+(Total for question = 3 marks)
+
+
+--- Page 37 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q38.
+A student investigated how a converging lens can be used to project a magnified image onto
+a whiteboard.
+In a darkened room, the student placed a smartphone 9.0 cm from the converging lens. The
+phone's display was projected onto the whiteboard. The converging lens was 75.0 cm from
+the whiteboard when a clear image was produced.
+The display on the phone contained two dots that were 5.0 mm apart. The student stood 4.5
+m from the whiteboard and viewed the image of the dots.
+Rays of light from the images of the two dots on the whiteboard were incident at the
+student's eye with an angle 8 between them as shown.
+——-
+whiteboard
+
+The student could distinguish the two dots if the angle 9 was greater than 0.0003 radians.
+Deduce whether the student could distinguish the two dots clearly.
+
+(5)
+
+
+--- Page 38 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+(Total for question = 5 marks)
+
+Q39.
+
+A converging lens is used as a magnifying glass. An image is produced that is 30 cm away
+
+from the lens and twice as big as the object.
+
+Choose the row that correctly identifies the nature of the image and the object distance.
+(Total for question = 71 mark)
+
+Q40.
+
+The diagram shows a ray of light travelling from a transparent medium into air.
+
+The refractive index of the transparent medium is given by
+
+  A sin 48° / sin 29°
+
+    sin 42° / sin 29°
+
+  C sin 61°/sin 48°
+
+    sin 61° / sin 42°
+(Total for question = 71 mark)
+
+
+--- Page 39 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q41.
+A wave of wavelength A and frequency f is travelling ina medium with wave speed v1.
+The wave passes into another medium with wave speed v2.
+The wavelength of the wave in the second medium is
+   a
+Va
+(Total for question = 1 mark)
+
+Q42.
+On sunny days a mirage can sometimes be observed when a virtual image of the sky is
+seen on the surface of a road.
+
+Le On,     a                :            amate
+
+; Badia _         |  Se
+
+eet eee en
+
+eee aera fe hee. ee SS cee ER
+The Sun's rays heat up the surface of the road. The heated road then heats the surrounding
+air so that the layer of air just above the road is at a higher temperature than the air above it.
+Warm air has a lower refractive index than cool air.
+
+
+--- Page 40 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+The diagram represents a simple model which is sometimes used to explain how a mirage is
+formed. The three layers, each with a different refractive index, represent air at three
+different temperatures. Layer 3 represents the air at the highest temperature closest to the
+road. A light ray is shown incident at the interface between layer 1 and layer 2.
+
+layer 3
+a
+murage                                              road
+      eritical angle for light travelling trom layer 1 to layer 2 = 89.64°
+      critical angle for lieht travellime from layer 2 to layer 3 = 89.64°
+Use the information to discuss whether the observer sees a mirage on the road in the
+position shown.
+(6)
+(Total for question = 6 marks)
+
+
+--- Page 41 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q43.
+The photograph shows a man wearing a virtual reality (VR) headset.
+Oe
+Oe a eos =
+The VR headset gives the illusion of three-dimensional vision.
+Inside the VR headset a pair of lenses is used to enable the user to focus on a magnified
+virtual image of a screen. The lenses can be changed to suit the vision of the user.
+| a ss
+|                 a
+Plastic Fresnel lenses are used in the VR headset because they are thinner and lighter than
+traditional glass lenses.
+Instead of the continuous curved surface of a converging lens the Fresnel lens has circular
+ridges, each with an edge at a different angle to the adjacent ridge, as shown in the
+simplified cross-section in Figure 1. Figure 2 shows a ray of light entering a section of the
+lens.
+.                                                                                                                                                     fs? A
+:                                 ws                            -       (\  -------- vodeviated path
+Figure |                                           Figuwe 2
+
+
+--- Page 42 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+(i) Calculate the angle through which the ray has been deviated as it emerges from the
+plastic.
+(4)
+refractive index of plastic = 1.47
+ANGIE = 0... cecccceeecceeeeeseeeeceeeeeseeeeseeeeneeeeenaeeeseneens
+(ii) Explain how the lens focuses a beam of light travelling parallel to the principal axis.
+(3)
+(Total for question = 7 marks)
+
+
+--- Page 43 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q44.
+A magnifying glass consists of a converging lens and is used to magnify the details of an
+object.
+A biologist is studying a flower using a magnifying glass. The anther of the flower has a
+width of 0.2 mm. The magnifying glass is placed 5.0 cm from the flower and an image of the
+anther is produced that is 3.5 mm wide.
+Calculate the power of the lens in the magnifying glass.
+(5)
+Power Of IONS = ........ceecccecccceececeeeeeceeeecaeceseeeseeeeeseeeeeees
+(Total for question = 5 marks)
+Q45.
+A system of lenses consists of a converging lens and a diverging lens in contact.
+The magnitude of the power of the converging lens is 9.4 D and the magnitude of the power
+of the diverging lens is 4.2 D.
+Which of the following is the power of this system of lenses?
+fl A 13.6D
+Ee    5.2 D
+ll C -5.2D
+4    -13.6D
+(Total for question = 1 mark)
+
+
+--- Page 44 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q46.
+Total internal reflection occurs when light is incident on the boundary between medium 1 and
+medium 2, as shown.
+medium 2       |
+medium 1    hs »
+The refractive index of medium 1 is n; and the refractive index of medium 2 is no.
+The critical angle for the boundary is C.
+Which row of the table is correct?
+(Total for question = 71 mark)
+Q47.
+A converging lens has a focal length of less than 20 cm. The lens can be used to produce
+real images of an illuminated object. You are required to investigate how the image distance
+from the lens depends upon the object distance from the lens. Your method should lead to a
+graphical method to determine the focal length of the lens.
+(a) Describe how you would obtain the data.
+(4)
+
+
+--- Page 45 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+(6) Explain how you would use your results to determine a value for the focal length of the
+lens.
+(3)
+(Total for question = 7 marks)
+
+
+--- Page 46 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+
+Q48.
+A ray of light travels through medium 1 of refractive index n, and is incident at an interface
+with medium 2 of refractive index nz. The ray is totally internally reflected at the interface.
+
+Mednun 2                           |
+
+Medium. 1                   , L a      !      ~ —
+speed of the light in medium 1 = v1
+speed of the light in medium 2 = v2
+Which row of the table is correct for this situation?
+
+(Total for question = 1 mark)
+
+
+--- Page 47 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q49.
+The diagram shows a transparent tank, with thin plastic sides, that can be used to determine
+the refractive index of a transparent liquid.
+transparent
+_“ plastic tank
+ seale
+Th
+light source                i                                       é
+A rectangle of opaque card is stuck on the side of the tank containing the liquid. A light
+source is placed in front of the tank and the width s of the shadow of the card, which is
+formed on the back of the tank, is measured. The width f¢ of the card and the width w of the
+tank are also measured.
+The angle of incidence of the light as it enters the tank is 7.2°
+Show that the refractive index of the liquid is about 1.4
+w = 35.0cm
+t=4.0cm
+s=10.2cm
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 48 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+The focal length and power of a converging glass lens are determined for the lens in air.
+The lens is then immersed in water.
+
+Which row in the table shows how the focal length and power of the lens change?
+Focal length.          Power of lems
+2                     a                     7
+    A        decreases           decreases
+h                     +
+    B        decreases            mcreases
+'                     ,
+    Cc        inereases            decreases
+h                     +                     7
+    D        imereases            imereases
+(Total for question = 1 mark)
+A student carried out an experiment to determine the focal length of a converging lens.
+He placed the lens a distance u from an illuminated object. He placed a screen on the other
+side of the lens and moved the screen until a sharp image of the object was produced. He
+measured the corresponding image distance v.
+The student repeated the procedure for four more values of u.
+In his lab report he wrote:
+I made an initial determination of the focal length of the lens and
+concluded that it was about 15cm. When [ plotted a graph it confirmed my
+initial determination of the lens focal length."
+The student's graph is shown.
+ee JRE So ee es ee eel
+ifs SSESSSSG0)40002= 555 SER ERGoa HE SSG SS CGE PRA ec Anaa SEE ESSE ECE a ESE
+1S
+«ete asv  AE PERE CER SSSR EGER CREEP SRE CREE R GEESE eer ee eeeEer reece
+OSE  {ed a aE
+Passages | NRC: OO
+EERE Om
+4, DO) a) 8
+wee             paprvemrmprnmmmms 02 -oca Gan ER El Gt GN: ek GC a de
+“ila.          She PORE ER EOe Be RRR ee SEER SE Ar SEER CARR AP Eee De aR Peo ee RP Eee ee
+et       aie near) EG CN a SC a Gd
+a                                    | EG AS a dl
+OO a:              Rrra oe, a Ea a Oa i
+spo         s anes 8 Ek 8 a SE GRGUeeSHSnRaeGGansasCece@ceccn san eee
+seas Tce       cm gets | NO ed dF, ek
+| "Joe ie ee i = OO C ELC oe BAA Bee
+iE ESC BSE GS Roe PPP RoR
+[ESOS SECS de ROR O OR Oe ee ee mS
+| EO aig ele EOEEREG ca Ene i a ae BC
+ee BADD ERR Eo a
+iam LE Gt, 9 ca
+aah ern
+i
+
+
+--- Page 49 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+
+Comment on whether the student's data is consistent with his initial determination of the
+focal length of the lens.
+
+(5)
+
+(Total for question = 5 marks)
+
+Q52.
+A simple optical fibre consists of a core surrounded by cladding. The refractive index of the
+core is 1.56 and the refractive index of the cladding is 1.20.
+(a) Show that the critical angle for light between these two media is about 50°.
+
+(3)
+
+
+--- Page 50 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+(ob) The diagram shows a diverging beam of light incident on the boundary between the
+core and the cladding. One side of the beam strikes the boundary at 60° and the other side
+at 30° as shown.
+
+|                                                  cladding  |
+60} J  30 +
+A   ae                  core
+| |          cladding                                          |
+Three students each suggest a different outcome for the beam of light at the boundary.
+Student A says “all the beam will totally internally reflect".
+Student B says “all the beam will refract".
+Student C says "some of the beam will totally internally reflect and some will refract".
+State which student is correct, adding to the diagram to illustrate your answer.
+(3)
+(Total for question = 6 marks)
+Q53.
+For total internal reflection to take place, the angle of incidence must be
+Ek] A — greater than or equal to the critical angle.
+a]    greater than the critical angle.
+fl C less than or equal to the critical angle.
+Ee    less than the critical angle.
+(Total for question = 1 mark)
+
+
+--- Page 51 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Mark Scheme — Reflection, Refraction and Lenses
+Qi.
+Onestion    _                            Prete      .               lav
+             : pceptable Amswers                               dditional guidamce
+Example of Calculation
+ace gyi —                   al            2.0 <0
+» Useoln= >                                   (1)     #2 aie-watee) = ae =1.33
+» Use of msind, = nesind,           B              oe
+e Uses sini? i                            “      sit = 1.33 Siti,     ,=25"
+e Comparison of C= 50°            MM) | a.
+tatth 30° and conclusion                    Fut   1
+sinC=—-  C=49" > 29° so                    4
+retracted.
+Q2.
+Question           Acceptable Amewers                      4 dditianal euidanc:           ware.
+           Acceptable Amswers                          Aulditional guidance             Mark
+o [se of =                             (1)   Example of Calculation
+o Teeor tata?
+° Use ot va                              () | v=05x06m=03m
+0 Useof P ==                          @My1 1 1                               4
+» DUseotP = 2 + P, = 45D therefor    (1)   Ff @6m 03m
+use one lens with power of 2 (D)       )      f = 0.2 TL      _
+and one with power of 3 (1D)                     P= 1/02 m=5D
+Q3.
+Question                           Acceptable Answers                                                         Additional guidamece                        Klar:
+Number
+e Lightrays pass through the
+ima
+Light rays converge to a point                il)                                                                                            1
+whee the image is. fomned
+
+
+--- Page 52 ---
+
+Reflection, Refraction and Lenses                                                                                   PhysicsAndMaths Tutor.com
+Q4.
+Question                                                                                                     Acdirtional guidance            Mark
+Number             Acceptable answers
+i) | Objectstar is at miimity, so     (1) ,                  Appropriate references        2
+Gtennediate) mage formed at                                                ito parallel
+focal lensth of objective lens                                             mays may be equivalent
+a as      oe mm         .                                 te obpectimace at miimity
+o (Pinal image at minty), so object                             Exemul:
+be at focal length of eyepiece lens                                     w= co, 80 Liv-+ Lio = Lif
+0                                                                                                                 livt+O= Li
+& Obiective Tens, My eee                                Eyepiece: I/v + I/e= Lif
+u= minty, so ¥ =F                                     v=o, so [foot Iu = Lif
+o Eyepoece lens, Liv t+ Tie = Lif                                  0 ae =i
+¥ = imnmty sow —f                                                                :
+Note: both lenses
+are comsidered,
+Liv+ Lie = Lif does
+not have to be quoted tice
+Cmestion                                                                                        a nea          .          Mark
+                                Acceptable answers                     Adcitional guidance “=
+(mu) |° Therays cross over after the objective lens                                                          I
+°° The objective lens inverts the image
+6 The mage formed by the eyepiece lens is on the same side
+as its object, so remaime the same way up
+Q5.
+Ouestiom,                             Aoceptahle Answers                                                       Additional suidamce                        Mark
+im er
+° imereases the power (of the eye)                                Ifa candidate states that the image
+Or to decrease the. image distance                       1s tome! at the focal pont. or that
+Or to shorten the focal lensth (of the                       the retwa.is at the focal point do
+eve and Jens)                                                                    not award this mark
+(Or te the eye it makes the rays appear        a)                                                                                1
+fo come from an object further away         “
+
+
+--- Page 53 ---
+
+Reflection, Refraction and Lenses                                                                                   PhysicsAndMaths Tutor.com
+Q6.
+Question                                        .                                                                              ae
+a                                            Answers                                                                   Mark
+Number                                              =
+The only correct answer is B                                                                              1
+A is incorrect because fhe relative refractive index for light travelling from
+glass fo water is required
+iC is incerrect because fhe relative refractive index for light travelling jrom
+glass to water is required
+  is incorrect because fhe relative refractive index jor light trawelling jrom
+glass fo water is required
+Q7.
+ie esto                                           Acceptable Answers                                                       Additional Guidamce                    Mark.
+Number
+(i)                o measure angle of medence at edge (53°) (1)                 *1° tolerance
+op om me  a                                  Allon ect tor candidate's value
+o nse of my sind) = msi (1)
+o value of angle in glass = 32° (1)                                  Example of calculation:
+(ii)              o «show refraction towards normal entering glass and                                                                    1
+how retraction away trom normal exiting glass (1)
+Q8.
+Question       Answer                                                                                                Mark
+Number
+B    ll
+™ sin 35
+Tncorrect Answers:
+A —imeorrect arrangement of equation
+C—imecorrect arrangement of equation
+D— mcorrect arrangement of equation
+
+
+--- Page 54 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q9.
+Question                      Acceptable Answers                                                           Additional, quidamce                               Mark
+Simmer
+o Use of+2-2               (1)
+eee            an)    heme MATEO afer eco eee te fer
+o UseofP= :                jl     Accept MP? if you see x ia for —
+° P=46D/ Dioptre/diopire ©                                         ;
+Example of Calculation,
+—— +—— = 46D
+O25 0.024
+Q10.
+ae uestio                                    Acceptable Answers                                              Additional (-uidance                      Malar
+Number
+          |            ;                                        Example of caleulation
+o useol vt lie= Li                    Lv=1/7.0-1/5.0
+o se of magrification = wu (1)                       veers 0-35
+o macnification = 3.5 (1)                                                    3
+Q11.
+Question                   ‘      |                pene      ms             :
+Q  ae ‘            Acceptable Answer       Additional Guidance      Mark
+Mune
+° use of mn = cfv          (1) | Example of calculation
+a= (3.00 x 10% ms") /
+° use or sin C = i/n     (1) | (2.25 x 10° ms“)
+m= 1.33
+» C= 48.89 so TIR       (1)
+does not occur         | sin C= 1/m—1/ 1.338
+
+
+--- Page 55 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q12.
+Ouestion          Acceptable Answers                                               Ackhitomal eurlance
+Number
+@)         © Oneray correctly ()
+ee                ‘Th estatete suet sauces atasegiag statgiestenergetass siti
+drawn     ee Oe caacecte att state (tice Se TEE
+© Second ray   | eee aie
+aw   a                 0 nn eS PSshicctctochccchinc ccc eter |
+correctly drawn                 Sie ees ae cate SSCe usc CSrEce Tone taeesaepEa
+We ten aa              SS et eee tianiad BEECH epee re te
+diagram with                   SEEODCEL Ogee tosueracsatassarestsceettieccstecettascteecet cas !seea2cce#
+ee         Geer ere tere ceteet tice astistasieeetstisttiiteeeainiecistis
+maze at position                SCREES Feats Mane ant aa CRESS SSEnEnD CEES LSsEE ESE GaGEaaeStRtyGECre
+a         EeE EEE EEGE Ee URSEE CEST SEGE EES URGES Ei EEE
+3.6 to 3.8 cm ane       [CEE He Pa Sa ee Pa Pepe Be eee ee Ges Be He EEE EEE    3
+heieht of 0.7 to
+C8 cam.
+(a)        ° Useofm—=—or
+tt        1) | Exeooole of Calculation                                     2
+ss tmage neigh    (1) | Eecainy  ple of Calculation                                  2
+ob ject height          m=" =3.> 0.5
+using values trom,              a
+° Marnification of
+OAR? tio O33
+(ai)       ° Real
+ame
+image On
+different side of         1                                                                                                               1
+conversing lens      (1)                                                                           7
+to object Or rays
+pass through the
+image
+Q13.
+Onestion             |     Te                                    “tenes:       oe                Teeael
+Q i“              Acceptable answers                           Additional guidance          Milas
+E
+Nm ver                   *                                                        =
+i)                                                                                                              ‘Other equivalent answers may be sives.
+o the angle of incidence in an          tl)                                  il
+(optically) denser medium at which                        Do not accept answers stating or
+the angle of refractian (an the less                               implying that the critical angle is the
+dense medium) 1s 90"                                                      stiallest angle at which total internal
+Or                                                                                       Teilection occur, e.g. “The smallest
+-                                                                                     angle at which tir. takes place’, bot do
+® the greatest angle of incidence in an                    mot antomatically exclude answers OD
+(optically) denser medium at which,                           the basis of mentioning internal
+there is an emergent ray (into the less                        reilection alone without the imclusion
+dense medium)                                                                      ox ‘total’
+Or                                                                                        “The greatest angle betore tis. takes
+;              a gees      .                  place* is not sufficient
+e jhe steatest angle of mcidence im an                    e
+(optically) denser medium at which,
+there is a refracted ray (an the less
+dense medium)
+(Gi)       a       |                       _     Example of calculatvon
+o Use otsin OC = 1/m                          tl)      sin (= 1/159
+
+
+--- Page 56 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMathsTutor.com
+Q14.
+Question        Answer                                                            Additional Guidance            Mack
+Number
+o Useof-=-4+-andP == | MP4 dependent on MP3
+fF uw          Ff              ‘f
+o Useof P=P)+ Ps              Example of calculation
+Cans D      1         1      nat
+> Diverging                                P of spectacles = 41.7 (D) 42.3 (D) =-0.6D
+diverging
+Q15.
+Cuesta,                                  Acceptable Answers                                                          Additional suidance                        Tilo
+Aimer
+° Two straight lines drawn extrapolated.                       Accept dotted. or solid lines
+from diverging rays meeting atasingle (1)
+point on the principal axis                                                                                                                               4
+o focal lengih =(-) 2.3 to 24cm            (1)
+Q16.
+Question.                          Acceptable Answers                                         Additional guidance                  Mark
+Number
+G)          e Focus mage of distant/far       (1
+object on to a sereen                        MP? dependent on MP1
+o Messure distance from lens to (1)
+Street
+‘Or
+° Use parallel rays of light         a                                    a
+o Measure distance fromlensto (1)
+the pout where the rays
+cOmmenne
+(m)         o Greater refraction                (1)
+° To converge (parallel) rays ata (1)                                    ;
+pout closer to the lens
+(mm)               » Photoeraph 2 has a ereater            (1)
+macniiication
+® SO P15 sreater                   (1)
+® since wis constant               (1)
+o Sof 1s sreater                   ‘ee     .      oo
+ray I  ~ ,  canal } tel     “24   )  MPS dependent on MP? anil
+° Henee photograph 2 taken with () | yqp4                              «
+lens. of focal length 200 mm                                                              -
+
+
+--- Page 57 ---
+
+Reflection, Refraction and Lenses                                                                                                      PhysicsAndMaths Tutor.com
+Qi7.
+‘Ouestion,           -                                                        4 Udtee ed eta                        Meant
+O     ;  _                             Acceptable answers                                       Additional guidance                 Tilak
+Sumber                                                                               =
+—          ;          1 fe nies                                   MP1: Seeme values of refractive imdex
+°   difference in speed for aa tO COMES,                as. 1.03 and 1.38 is not enough, a
+much greater than difference im speed                          comparison is required.
+from water to come
+(Or lower refractive midex for water to             qd)
+comes (= 1.05)                                     .
+* eo less refraction                                           :
+(Or so power of eyecomes reduced.            (I)
+(Or so focal length of eyelcomes.
+imcreasedd
+e if goggles worn the mtertace is with ar =8=© (1)
+and retraction 1s as normal                                                                                                                                        |
+(or af gogeles wor the tmfterface is wath                                                                                                            3
+adr andl imace focused on retina
+Qi8.
+Question                                           |            .                                                          Additional
+BT oT                                            Acceptable answers                                           os        “| Mark
+The only comect answer is D because magnification 1s mumerncally                                            1
+equal to mage distance divided by object distance
+Aas not comect because magnification is numerncally equal to
+image distance divided by object chstance, but thas 12 focal length,
+ciwided by object distance
+Bis not comect because magnification is numencally equal to
+image distance dionded by object chstance, but this 1s object cistance
+diwided by mage distance
+IC is not comect because magnificahon is numencally equal to
+image distance divided by object chstance, nt this is object distance
+dcivwded by focal leneth
+
+
+--- Page 58 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Qi9.
+Question     Answer                                                      Additional | Mark
+Number                                                                      Guidance
+An explanation that makes reference to the tollowimg poms:                             s
+° (Onky areal image wall be produced on a screen          (1)
+© «The object cannot be closerthan fforareal image (1)
+© Because light diverges after passing through the lens (1)
+e If object closer than frays still diverge after               (1)
+passing though lens
+© Soa virtual image is formed                           (1)
+° which cannot be seen on a screen.                             (1)
+Q20.
+                                 Acceptable answers                                                     Alditional suidamce                       Mark
+|                                                                               Example of calculation
+« UseofP=—                            @
+© 1220 (mm)                             ae              meni
+Accept 122 (cm)                                        +
+
+
+--- Page 59 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q21.
+* mestta                                            Acceptable Answers,                                                       Additional Guidance                        Mark
+Number
+i)                  An explanation that makes reference to:                          These marks can be awarded only
+for amsmers in the oomtesct of the
+EITHER                                                                     method described in the questiar.
+° holding the lens steady in your hand would be
+diticult and would make the distance
+measurement imaccurate (1)
+oe 80 the lens should be im a holder on a stable          oe
+tae cece tec eepemmente eee eet eqrmnaenden fT      Reference to use of an optical
+suttace to make the measurement accurate (1)              .
+bench is acceptable.
+OR                                                                              Reference to use of a clanmp is
+_                                                                           acceptable.
+© holding the muler steady parallel to the principal
+ais would be difficult and make the distance
+Measurement inaccurate (1)
+© 80 the moler should be on a stable surface to
+make the measurement accurate (1)
+° focal length 1s image distance when
+object distance 1s infinate (1)                                                                                              2
+°o this 1s not at miimty so lens
+formula should be used (1)
+(it)              ° use of power = 1/focal length (1)                        This 18 a comapanson, so use of cm
+a                                                               not penalised if used tor all and unit
+° «calculates at least tao powers                                 Das not required.
+correctly (I)                                                     MEPS calculates combined power and
+nalyees data to compare powers                uses it to calculate focal leneth for the
+°     i ayses cnathe D_., BOWers                                 combination and compares this with
+or toca! lengihs (1)                          the measured value of focal length
+° draws a conclusion that is
+consistent with calculated values                          4 ett ee
+about how well the relationship is                       Example of calculation:     a.
+supported (1)                                                    P= iff power ya= 1/0.12=8.3 D
+POWEL ootioa = LOIS =$.7D
+POWED combined = LOOT = 14D                4
+B37 SF =14D
+Q22.
+imestion                           Acceptable Amswers                                                         Additional guidance                        Mark
+Number
+Example or calculation
+° Useof-=—+-                       (1)
+ir   om  ae                       oy)   1 _   ‘A.   4.   A,
+» f=80x10" m                 :    fF 08m Mam
+f=8.00% 10-7*m                                 4
+
+
+--- Page 60 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q23.
+Question                                         _                                   qa         ;          a
+4   a                                   Acceptable answers                     Additional guidance! Mark
+Number                                                                                           =
+° «Lens cisplacement is so minimal that v doesnt change
+much
+Ore >> v so dv doesn t change much.
+Oru >> fso displacement doesnt chanee much
+Or w>> pv so v approx. equal tof                                    1
+Or most object distances can be considered to be at           a)
+intimty so will focus at about j
+Q24.
+Question                                            .                                                              .
+Saueealtn cr                                            Answer                                                   Mark
+Number
+The analy correct answer is C because 10 cm is more than the focal lemeth                             1
+irom a converge lens
+A diverging lenses do not form real mages irom real objects
+B divergme lenses do not form real mages trom real objects
+Dan object at less than the focal length from a converging lens will form a
+virtual imace
+Q25.
+. <u es un                                    Acceptable answers:                                                     Additional ruidance                        Marl:
+Number                        :
+@        o Use ot P= Lif                       (1) | Example of calculation                      2
+o f=847 (om)                      >) | f=1/iisD=847 mm
+@      om,      oe         .       (1) | Example of calculation                 2
+@ Useoft iv+ lin= lf (allow u and v                LO0-mm + Lar = 15 mm
+reversed, Lut mot f)                           Q | w= 14.3 mm
+® w= 14.6 nom (ect tor firom 1 (ayy)
+(it) | « (Freshwater has a lower refractive                                                              3
+index than seawater, so) there will be            |
+sreater teftaction of light on enterme            (1)
+the lens
+« This means that the power of the lems         gq)
+is greater in theshowrater
+Or                                        @
+this means that the focal lemgth is less
+in ieshwater
+« This means that the shortest distance
+will be decreased
+(iv)       eg       |                              (1) | Exanople of calculation                      4
+e Useotx = cv                                         1.37=3.00 = 10° me" fv
+e yp=99x1TP me!                               QQ) |v=22*10 ms"
+
+
+--- Page 61 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Ouestion                    ume    one ow aes                       a
+Q   1               Acceptable Answers                           Aud ditional (Guidance                 Mark
+Number
+
+a EQ
+Chuestiom,        7                                       cota    »                ao
+On   1.               Acceptable amswers                           Additional guicdamece          Mark
+Number                                                                              =
+
+o Tworayes comecthy drawn,        (1) | Acceptable rays:
+icluding extrapolatrn                                           ® trom anowhead on object
+me         +             no                                     through the optical centre
+o Completes diagram with          (1)             of the lene
+IMAge at  10.6 cm (range 9.0                                oe from acrowhead on object
+cma te 12.0 em)                                                                 patallel to the axis wp to the
+lens andl then through the
+a tideaaniientian — 2 Er? aan      eas              - ag        et xe’
+iad    Magnification =3.8 (G5 to         (1)               prmcipal focus on the other       4
+~ ¢     a         .        “4                     o from the pracipal focus on
+o (Comeclusion comsistent with.       (I)             dye   me pret  i —
+values for distamoe amd J                        u ro SEENEIEY STEN tl   ‘   ugh
+the anowhead on the object
+to the lens and then parallel
+to the ass
+Example of calculation
+Af = wmnage size / object size (accept
+use of distamces)
+= 6.0 coo! 20 cm = 4.0
+FREE     :   zie (VEST EEEG/STEEEE
+El See Sees ecneuaeeu
+Se
+Pais ell EU Eate ta Leea clcet cieavenea toner cercancogecied
+itv ett eee ETE
+epee Ba cee easel
+Ge aa
+He ees le eee =e ee eae Fadia me ogame ears esol bom ery (oon
+eo ena te et tre eee
+Question               .                              a aes        A                7,
+Q                  Acceptable answers                 Additional gundance.        Mark
+Number
+a Cc
+
+
+--- Page 62 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q29.
+Question      Alswer                                                                                Mark
+Number
+G— TIE as angle of incidence ts greater than the critical angle
+Incorrect Answers:
+A— light 1s reflecting at an meorrect angle
+C— heht is not retracted
+D — hieht is not retracted
+Q30.
+Question                     Acceptable answers                                               Avdlditional guidance                  Milas
+Numer
+e Light strikes the edges of the long              (ly
+crystals at angles erester than the
+critical angle                                                                                                                                                        a.
+® Itis repeatedly totally internally
+teflected alone the crgstal
+Q31.
+Question           Acceptable answers                Additional guidance       Mark
+Sumber                                                 )       =
+® Useoft —2+2 with w= 100 andv—        (1) | (MP3 dependent on MP7)
+F wv wv
+(—)300
+e f = 150 (um)                              (1) | Example of calculation
+° conversing lens wath focal length 150 mm   @) | F 200m 200 mm
+f 300mm
+f=150 mm
+MPS accept if annotated im question
+Accept convex tor conversing
+
+
+--- Page 63 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q32.
+/uestion                 Acceptable Answer               Additional Guidance         Mark
+Number                       }
+2 use of lf/v + ify = i/fF and     (1) | Example of calculation
+P= 1/f to determine power          iff = 1/0.02 cm + 1/0.275 cm
+required                                    f= 0.0186 cm
+For person, P = 1/0.0793
+2 use of P= 1/F to determine (1) | Spectacle power = 53.63 —
+power of person's lens                 51.61 = 1.82 D
+Choose +2.0 0
+e use of P= Py + Pato           (i)
+determine additional power
+required
+e P= 1.82 (D)                     (1)                                        (4)
+Q33.
+Question               Aeeemtalille amerenrs                      A Altticovel exantclames          4 ards
+                                         Acceptable answers                                                                   Additional suidamce                             iyFagrlke
+i)       cee gt ee                  Example of calculation
+o use of Lif Ler+ Ly         @              L.6em= Let If 24 em
+me                         a> 48 cm                     z
+e 48cm                  fa
+Question          ee                   A AcUgtiaaney ecanfed-araen            + Mea dix
+Number                         Aueceptable answers                                              Audditional cuidamce                           ilar,
+(i)               ;        .                                  Accept use of vy eimG) = vi simfy for MP1 and
+* weata—e/v                  a) | MP2
+amen mdf’ en, eter — one alent]           /     but vy, sin@) = v, sinG scores nerther
+°  On of sind = "2 ~~ ——     fl    Example of calculation
+. asles SED EA SED PWN CORTEC      )    g=3™ 10 me! $218 x 10 ms!
+“es                             = 1.376
+« @=117                 (1) | 1*sin 15°=1376* sind                3
+@= 10.8°
+Q34.
+Question             A cmamfalkle amemenqre                        A Adtaieaiall ecantelemn ee              a fags
+Number                         Acceptable answers                                             Additional guidance                         ilar
+—                         MP4 An attempt at a> aust be made and a
+* useatP= Lif                 @) | clear comparison with the 80% mmst be made,
+o use of P—P; + Py etc              (1) | eg % for comes from 44.8 / 63.8 is 71%
+ee gy pees            _ | Whuch is not 80% so me
+© iotal power — 63.8 (D)             am)   Example of calculation
+« Comparative statement consistent qj  Peomes =H fol m = 4164 D
+wath their values                                               Prone = if Cuos27 m= 18.98 Dy
+Total power = 63.82 D                                                        4
+
+
+--- Page 64 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q35.
+(uestiom                            Acceptable Amswerrs                                        Acdthttonal (sunlamce | Mark
+Number
+        (ail)               o Calculates a sracient using atleast half (1) | Example of calculation
+the drawn line                                           = = 1.47 silica            ;
+eo 9H] sto 1Al                                  1)       =                              3
+© leading to a conclusion that glass is silica §=()
+Or conclusion consistent wath thew value
+Q36.
+Onestion        Answer                                                                                             lark
+Number
+I ee a
+Incomect Answers: all select moorrect data from question
+Comect method: image distance + object distance
+A—-uses focal length + object distance
+B—uses object distance + mage distance
+ID — uses olyect chstamce + focal length
+Q37.
+a esen                                    Acceptable answers                                                      Additional guidance                        Mark:
+Number                                                                           =
+© Useoflens equation Vf=iiv+ (1)      Example of calculation
+Lifts                                        )       LA? 8 oom = Let LD? oom
+0 Use of magniiication = wir         :        magnification = 249 mms 167 mom
+® Magnification = 15                           = 14.9                                          4
+Q38.
+Question                           Acceptable Amswers                                                         Additional guidance                        Marl:
+Numer
+® Use of m = —(to calculate m)               (l)
+a       image height                      Example of calculation
+oe Use ofp = —————— ito                               ‘il 7S ma
+abject height                       1 =  wee a3
+calculate distance between                    — 209m
+dots on screen,                                 (1) | Image height = 6.3 2 C005 m = (042 (on)
+a Uses tamsin or small angle                                                   nan
+approximation to calculate the          |g.    akan  mH
+8=0.5°=— rads = 0.000%radians
+Lei
+© Answer consistent with their                             0.009 radians > (0005 radians so
+calculation                                                     (1)      student can distimeuish between the dots
+fs)
+e Comparison with 0.0005
+tadians or 0.017" ana
+conclusion comsistent with
+their value for                                           (
+
+
+--- Page 65 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q39.
+euestion                 Acceptable answers                     Additional guidance          Wark
+Number            |
+a Cs
+Q40.
+Question     |            al dees   —         aac
+Q  "Le ‘       Answers             Additional Guidance          Mark
+Number
+Pp CID sin 64° / sin 42°
+Q4i1.
+Question      .            et tye       -
+    Answer     Additional guidance | Mark
+Number                            =
+                                                 (1)
+Q42.
+Question                  Acceptable Answers                                      Additional ouicdamce                        Iilark
+Aimer
+o Laight is retracted as it passes. ite
+medium 2           (1) | MP2 see use of the equation
+e Anele of retraction may be
+calculated               (
+USine iysinhy = meimbs                              |
+o Angle of incidence at layer 2-3 is (1) | MP5 accept totally mternally
+ereater than the critical angle       reflected ancl TIR   oo,
+® So total mtemal reflection occurs _   MP6 is not just for saying there 1s a
+® So heht! rays appear fo come    :
+from surtace of road (so that    i) |   oe             |
+observer sees mirage)               Example of Calculation                   6
+_, f L032 % sin 89.59",
+= 89.81"
+
+
+--- Page 66 ---
+
+Reflection, Refraction and Lenses                                                                                   PhysicsAndMaths Tutor.com
+Q43.
+Question                   Acceptable Answers                                            Acthitonal (rundamce                 Mark
+Number
+(a)            o wse of asin i) = Mosin ib             (1) | Example of calculation
+° with angle of incidence im       (1) | misin i = msm t2
+plastic = 28°                                         1 AF sim (90° — 62°) = 1.00 sin is
+° angle of deviation=angleof 7)      angle of deviation = 44° — 28° =         4
+bo    .     ~         ow       ga                                              =
+retraction — angle of                                 1G
+incidence
+° angele of deviation = 16°          (hy
+(an)         e (ome from the centre of the
+lens towards the edge the angle (1)
+of incidence im the plastic
+IcCreases                                                 a         |              |
+o The angle of deviation                  (lh      Accept tocal pout for primcrpal                3
+TMCTEASES.      focus
+o (So) all rays cross (the aus) at (1)
+the primcipal focus.
+Q44.
+Ouestion                     Acceptable Answers                                       Additional guidamee                   Mela:
+Number
+o  DLse otm = image height                           Example of Calculation
+a    _      object heighs                                    3 Sei Ti:    17 5
+o Use ofm =—                              (ly    "70m
+“ah                    a,
+re er eT                               v=17.5%5.0™¢ 10-*m= 0.875
+o [se of F =— + "                    4    (m)
+pe    eg — 2                          7     fF S0xa0-2m 87S
+« UseorP = ;                              re)    ‘     -      m        =e
+* 21D                                        () |ps—*—-s1ip                            |
+Cv mo.                                                                 5
+Q45.
+Cuestion            .                                                          Adlchitionall
+ns                                   Acceptable amswers                                   “  ;  :  _      Marl:
+Nmumalear                                        :                                                      TU Ace:
+The analy comect answer is B because the power of a diverging lens                                             1
+is negative, so the total power —=9.4D—-42 D=3.20D
+Avs not correct because the total power should be obtamed from
+(@4D—-42 Th), bout this is (940742 D)
+IC is not comect because this is (4.2 D— 9.4 D) using negative power
+tor a comversing lens and positive for a diverging lens where it
+should be the apposite so that (9.4 D—4.2 D) is used
+Dis net comect because — 13.6 D-—94D-42 DD asit both
+lenses. are diverging, which 1s not the case
+
+
+--- Page 67 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q46.
+Question                      ‘                                           wm:
+ia                        Answers                                     Wilarle
+Number                          =
+The only correct answer is D
+Al is incorrect because the angle of incidence must be greater than the critical angle                  1
+ is Incorrect because the angle of incidence must be oreafer than the oritieal
+angle amd My < My
+Cas incorrect because the light must be medent upon the boundary im the medium
+with the larger refractive index
+Q47.
+Question) ,» a pp  —             A clclattececeall (reteler mee        ies
+Q   a | Acceptable Answer                 Additional Guidance           Mark
+Numiben
+(a)     e diagram with (1)| Example of Diagram:              ;
+uminatec!                                       [s.
+object, lens,              .       | ah
+screen and                    l|:         | il
+metre rule                    .          1                   i
+® lens position (1)) _     le € cal a ;             cae
+adjusted until      Exampie of calculation:
+clear image        1 i,t
+located on          ul      v      f
+screen
+=—            y = me + e¢
+eo object, image (1)
+distances
+calculated
+from metre
+rule readings
+® procedure     (1)
+repeated for at
+least 4 other
+positions of
+the lens
+(4)
+
+
+--- Page 68 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Question       Lmeumimittetles Meee       ee ee
+rn     Acceptable Answei     Additional Guidance | Mark
+Number
+(b)       e 1/v plotted           (1)| Question 5 to be
+against Lfu and          marked holistically
+intercept(s) of
+line read off
+« lens equation        (1)
+compared with
+equation of a
+straight line
+e f = 1/intercept      (1)                             (3)
+Q48.
+Quesiion.      Ameer                                                                       iviark,
+_    ¥, V5,    im, Dee,                                                       1
+Tocerrect Amsarers:
+A— icemect equality for speed.
+C —imcomect. equality for speed and retractive index
+Db — incomect equality tor refractive index
+Q49.
+Number               Acceptable answers                      Additional guidance          Mark
+e Use of inigonometry to determine angle                     Example ot calculation
+of tay to normal im liquid                       @) | (10.2-4.0)+2=3.1 cm
+_       a                          wa, | Mae = 3.1 cos 35 cm
+® Use orn sin @= constant        Ql) | g=5 98°
+o nels                               | n=142                              3
+Q50.
+Question                             ‘                                                        wm:
+~~                                Answers                                                 Mark
+Number                          =
+The ouly correct answer is C                                                                               l
+Ais incorrect because fhe focal length of the lens Increases
+ is Incorrect because fhe focal leneth of the lens increases
+ is Incorrect because leans power is the reciprocal of the focal length
+Q51.
+
+
+--- Page 69 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+                           Acceptable Answer                                                      Adcthtiomall (sunlamce
+‘a   = =i = re-arranged to male - the    i _ i 1 i
+Fa   “ow                   ed           f   ap I 4
+subyect                                                ¥ = Hex fc
+o Companson with y = mx -- ec      (1)
+o So imbencept equals Lif             q)
+® Use the y imiercept to calculate a (1)
+value for yf
+eo Comment on the agreement with the
+initial detemunation imcloding an
+appropriate justiication             (1)
+o Sines —=—+— when—= 0, f—v      (I)
+F   mw      at
+o se the y mfercept to calculate a (1)
+walue ‘for f
+o Use the x mtercept to calculate a
+value tor f°                                                               (I)
+o Comment on the agreement with the
+mitial determimation imcluding an
+appropriate justification             (1)
+o Read a paw of comesponding values
+o se of = =+ - to calculate a value
+® Read a second par of comespondmng     (7)
+values from the sraph
+eo Use of —=-+- to calculate a
+F   eo
+second value for                                               (I)
+o Comment on the agreement with the  (7)
+imitial detemumnation imcluding an =~
+appropriate justicaiom
+
+
+--- Page 70 ---
+
+Reflection, Refraction and Lenses                                                     PhysicsAndMaths Tutor.com
+Q52.
+Questton           Acceptable amswers                Additional guidance       Mark
+Sumber                                                       =
+ila)         e Lseofman & = msi ih             (1) | Accept altemative method usmg
+sinc =~ andn—*=
+Angle i       g      C)           ©) given = “dadéing Ey —
+wom    ,     om enuf                     ae.         Peore
+® Critical angle— 5030)                                               Sears _
+(1) | "etadding
+Use: of sine = = with w=13 of 156
+game 1 mark
+Example of calculation
+eg 156sm8,= 1.20 sm&
+amc = —— ¢ =5030)
+Question                                    Acceptable answers                                                     Additional ouidamce                       Mark
+Number
+(b>)      ° Lefthand side of beam reiracts away from (1) | Isnore any line contimmed beyoud
+Tenore any reflection,
+® Right hand side of beam totally intemally (1) | Reflection comect by eye
+reflected]                                                                                    De not award if any line shown an.
+e State Sindent € is comect              (1) | (PS dependent om WIF1 and MIP?)
+Asrows on rays not needed                                    3
+Q53.
+Cmestionm                                                       1                                                          Aulditional
+eas                    Acceptable answers                    | Mad:
+Sumber                                          suidance
+The only comect answer is B because at angles less than or equal to                                           1
+the cnttcal angle not all of the light 1s reflected mmternally such that
+angle of medence 1s equal te the angle of reflection
+Ais not cocrect because total internal reflection occurs at angles
+ereater than the cotical angle but at the critical angle the angle of
+retraction is 90) degrees, so the reflection 1s mot total
+IC is net comect because intemal reflection 1s mot total at angles less
+than the critical angle
+D is not coorect because internal reflection 1s not total at angles less
+than the critical angle

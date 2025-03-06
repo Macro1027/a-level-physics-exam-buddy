@@ -1,0 +1,2255 @@
+
+
+--- Page 1 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Particle Nature of Lignt and The Wave-Particle Duality
+Q1.
+In 1905 Einstein published his equation for the photoelectric effect.
+In 1916 Millikan demonstrated that the maximum kinetic energy of photoelectrons is
+consistent with Einstein's equation.
+Millikan's experiments involved using different frequencies of light. These were obtained
+using a mercury vapour lamp which produced an emission spectrum with a specific number
+of known frequencies.
+The diagram shows some energy levels for a mercury atom.
+— eV
+— —1.56eV
+— -LAaTeV
+— —2a4heV
+— -3.71eV
+—— 4 056            scale
+— —§.52eV
+— -5.746V
+— —I10.38 eV
+Determine which transition from the -—3.71 eV energy level would produce light of wavelength
+6.1 x 10°? m.
+(4)
+Transition from —-3.71 CV tO .......ccccccccsececseeeceeeeeseeeeeseeeeseeeteeeessaneees
+(Total for question = 4 marks)
+
+
+--- Page 2 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q2.
+In a model of a hydrogen atom, it is assumed that the electron behaves like a wave with a de
+Broglie wavelength A. The wave associated with the electron forms a standing wave whose
+wavelength is equal to the circumference of the circular path.
+Calculate the velocity of the electron based on this model.
+(3)
+AV =1(0) 6: | 0 ia
+(Total for question = 3 marks)
+Q3.
+Which of the following is the SI base unit for the Planck constant?
+El A Nam's
+Ee    Nms
+fC kgm?s*
+a    kgm?s
+(Total for question = 1 mark)
+
+
+--- Page 3 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q4.
+Radiation of frequency fand wavelength A is emitted when an electron falls from energy
+level Eo to energy level E;.
+E> — E, is equal to
+   A  me
+= , ie
+   B —
+   c #
+c
+   p
+c
+(Total for question = 1 mark)
+Q5.
+In 1990, the Hubble Space Telescope (HST) was launched into a low Earth orbit above the
+Earth's atmosphere.
+The transmission of electromagnetic radiation through the atmosphere is shown on the
+graph.
+,                              / |
+5                       Tt                                       |   |
+=          |      ,                         |  |
+wavelength / m
+State one advantage shown by this graph of positioning a telescope above the atmosphere.
+(1)
+(Total for question = 1 mark)
+
+
+--- Page 4 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q6.
+The Planck constant is an important universal constant used in the study of wave—particle
+duality.
+In a demonstration of the photoelectric effect, ultraviolet radiation with a frequency of 2.8 x
+101° Hz is incident on the surface of clean zinc. Electrons are released from the surface of
+the zinc.
+Calculate the maximum velocity of the released electrons.
+work function of zinc = 6.9 x 10-79 J
+(2)
+MaxiMUmM VelOCILY = .........ccceccseeeeeeeeceeeeneeeeseeeseeeeeseeeesneens
+(Total for question = 2 marks)
+Q7.
+The idea of energy quantisation was used to explain the photoelectric effect, first observed
+by Heinrich Hertz.
+When ultraviolet radiation is shone onto a metal surface, electrons may be released.
+A cadmium surface is illuminated with light of wavelength 2.54 x 1077 m.
+Calculate the maximum kinetic energy of the photoelectrons released from the surface.
+Work function of cadmium = 4.07 eV
+(4)
+
+
+--- Page 5 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Maximum kinetic CNergy = ..........ccsseceeseeeeeeeeeeeeeesseseeseeessessesseeeeseee
+(Total for question = 4 marks)
+Q8.
+An optical microscope uses a beam of visible light. An electron microscope uses a beam of
+electrons.
+A biologist looked at an animal cell using both microscopes. The two images are shown;
+both have the same magnification.
+qe ee ee a                    aac el eS ae Se
+Ce               2
+. A le Ge        ‘pel          Heer ae Pelee eae eae ia
+ee Obese Seo ee a
+: ee ae           os ee
+aa ea                          Ce ees
+ ai oo ae                                       Ses  cone te
+fea ees iehe ae                                      ee ee
+Lees eal. JS Rall - pee
+ Cua en Oo
+KOO NS Sy                      Se
+pis are ge               ee)
+awmnwideledu:
+An electron in the beam of the electron microscope has a velocity of 2% of the speed of light.
+Calculate the de Broglie wavelength of the electron.
+(3)
+de Broglie Wavelength = ...........cccccscccsssecceeeeeeeeeceeeeeeeeeeeneeeeneeeens
+(Total for question = 3 marks)
+
+
+--- Page 6 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q9.
+* The behaviour of electromagnetic radiation can be described in terms of a photon model or
+a wave model.
+In the photoelectric effect, electromagnetic radiation is incident on a metal plate and under
+certain conditions electrons are emitted.
+It is observed that, for a given metal,
+o no electrons are emitted if the frequency of the incident radiation is below a certain
+threshold frequency.
+o electrons are emitted instantaneously if the frequency of the incident radiation is above
+a certain threshold frequency.
+o the kinetic energy of the emitted electrons depends only on the frequency of the
+incident radiation.
+Discuss how the photon model of electromagnetic radiation can explain these observations
+and why the wave model of electromagnetic radiation cannot.
+(6)
+(Total for question = 6 marks)
+
+
+--- Page 7 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+
+Q10.
+When the light from a star is dispersed to form a spectrum, dark lines are seen at a number
+of frequencies. This is known as an absorption spectrum and is caused by the presence of
+certain elements in the star.
+Explain how the absorption spectrum is created.
+
+(3)
+
+(Total for question = 3 marks)
+
+Qii.
+Read the following extract and then answer the questions that follow.
+Powdery dust, the by-product of fearsome meteor storms that pounded the Moon, coats
+much of the lunar surface. A build-up of this dust could damage sensitive machinery.
+Scientists theorise that lunar dust must be electrostatically charged by ultraviolet solar
+radiation from the Sun. When ultraviolet radiation hits the Moon's "day side", the half that
+faces the Sun, it knocks electrons out of atoms in the lunar soil.
+(a) Describe the particle model of ultraviolet radiation that explains how it can "knock
+electrons out of atoms".
+
+(3)
+
+
+--- Page 8 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+
+(b) A teacher uses the arrangement below to demonstrate that electrons can be knocked
+out of a metal surface in a photocell by visible light.
+
+The arrangement can also be used to measure the maximum kinetic energy of these
+
+electrons.
+
+photocell
+(i) Explain how the potential divider circuit can produce a range of values from 0 to 1.5
+V on the voltmeter.
+(3)
+
+
+--- Page 9 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+(ii) The potential difference on the voltmeter is increased until the ammeter reading is
+zero.
+
+The voltmeter reads 0.6 V at this instant.
+State the maximum kinetic energy of the electrons in eV.
+(1)
+Maximum kinetic CNergy = .........c.csseccceseeseseeceeeeeeeeeeseeeeseeesssesseees OW
+(c) Discuss whether the photocell arrangement in part (b) gives a valid demonstration of
+how dust particles become charged on the Moon.
+(4)
+(Total for question = 11 marks)
+
+
+--- Page 10 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q12.
+In an investigation of the photoelectric effect, a metal plate is illuminated with light of different
+frequencies.
+The graph shows the maximum kinetic energy of emitted electrons at different frequencies.
+Max TMM        ifs
+kinetic energy                                                                          ae
+aw                    frequency
+
+Which line of the table correctly shows the values given by the graph?
+  A     Planck comstant.
+  B | threshold frequency      Planck constant
+ C | threshold frequency     work tunetion
+  D  threshold trequency
+
+(Total for question = 71 mark)
+
+
+--- Page 11 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q13.
+Read the passage and answer the question that follows.
+Atoms can be promoted into an excited state when they absorb energy. This results in the
+release of radiation at a random time. When several atoms are close together a quantum
+effect can occur. When one atom emits radiation this affects all the other nearby excited
+atoms. The excess energy of many of the atoms is released simultaneously and an intense
+flash of light is produced. This effect is called superradiance and can be used to produce
+lasers that emit a narrower range of frequencies than conventional lasers.
+Superradiance occurs when the distance between atoms is less than the wavelength of the
+emitted radiation.
+An atom is in the ground state. The atom absorbs 6.2 eV of energy. The distance between
+neighbouring atoms is 140 nm.
+Deduce whether superradiance can occur.
+(3)
+(Total for question = 3 marks)
+Q14.
+Read the passage and answer the question that follows.
+Atoms can be promoted into an excited state when they absorb energy. This results in the
+release of radiation at a random time. When several atoms are close together a quantum
+effect can occur. When one atom emits radiation this affects all the other nearby excited
+atoms. The excess energy of many of the atoms is released simultaneously and an intense
+flash of light is produced. This effect is called superradiance and can be used to produce
+lasers that emit a narrower range of frequencies than conventional lasers.
+When superradiance occurs the atoms all absorb the same amount of energy.
+
+
+--- Page 12 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Explain how this results in all the atoms emitting radiation of a particular frequency.
+(5)
+(Total for question = 5 marks)
+Q15.
+The image shows a diffraction pattern observed when a beam of electrons is fired at thin
+gold foil.
+Sa et
+Ce ee a  r
+a a re |
+eee ae nee
+What property of electrons does this observation demonstrate?
+fl A they exist in discrete energy levels
+i)    they have a negative charge
+f C_ their small mass
+kl    their wave nature
+(Total for question = 71 mark)
+
+
+--- Page 13 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q16.
+The Planck constant can be determined in a school laboratory using light emitting diodes
+(LEDs).
+An LED emits light when the potential difference (p.d.) across it is large enough to transfer
+sufficient energy to an electron to result in the emission of a photon.
+The electron must have energy greater than or equal to the photon energy.
+The minimum p.d. required to produce light from LEDs emitting different frequencies was
+measured by increasing the p.d. from zero until light was first seen.
+The graph shows the results.
+' EELS SEE EREEEEEEEEE ER EEE  ECEREEEREEEEEELEPE EABECEEEL EE MEREETEE ETE
+scatnenes Hobe ESET EE GN  a
+See fe a 9 a la
+Po cea POSS BE Sa Eee eee Bee ee eee Ee ae see ae
+PERE eat  1 BO a a a dB) ce EG:
+ih ECE RECEE REET EPCEHEEE EEE CEE EL EEF EEE EO EREED EERE CGRP GT EP HEE CEEPEEL A
+A [Ee Gee  CC EEE Oe A   Ee    SEES Be ee
+“2 LEE EEE CDEP Eee PPeE Get pre ree rie S8000 05 E OEE RRs Sees Poe Bees eee Cees
+ac a OO OO OY Gd nO em Oa ccd
+cress                          2 EEE BEAR EEE EEE EEE EEHEHEER CEG BBE BEEBE LEER EREEHE
+a          CCEA ee ee
+eee eee SER Cees BOERS Re ea a ee Re ee ce AER es ee
+er 204 8) ie a ed ed EE a 8 de 8 We
+Pe etic | 22S Pe ERE ee Sa ee ee ee BS ee I
+a        HERG ee Bl a 7 6 Ol
+aC aoe                    A Ha Ed ad GG Et i 0 Gil Ba et i, ad i Ge a cd hl ly a i al dG Gna il, ld
+= 280. PERSE RS CEE EE CEO Peet Sere: pace e OEE ED Eee eSee ret eee Ger erre
+a         HESEd sues satertesar conventert stant cctesiereucana:terigatet wear tastes
+me... Ae eT De ete ee ee prope Pe de Teepe] bapa bode | TT Weber TT Pe fetsteT a | effet ie Paper Ppl oPere Tf
+220 ee ee es
+a al el red red re ee ed ts de ed Keds dd rea Ak edd dP Pe, PD
+ol         EE a ee te ed le ld
+ee See N ee ee de ee A aE eee ae eee ee a
+Pee | SP OG CGT = COG GARG OR Od GG Cd
+a it See eee ee eS $d dE I PE dk EO Fl WO
+Ae 2eddd SOGGy OGaG SSS cS cRaee SAGs ee Sees ooce ae CEREEEEECEEAEEEE PEE ECE
+ists Je at  Ae Ler | leleeePr ler rr | lbe Wel beer) terre] Pieler Lt blend [eeleie) [tery Te
+ Co eee I
+2 ee ee ee ee ee ee Ree ee eee eee
+Prequeneyy! 10-7
+Determine the value of the Planck constant given by this graph.
+(4)
+Value of Planck constant given by Graph = ...........cccceeeccccseeeeeseeeeeeeeeeeesaeeeeeaneeeessaes
+(Total for question = 4 marks)
+
+
+--- Page 14 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q17.
+(a) Solar sails are a form of propulsion for spacecraft. The sail is made of a thin sheet of
+reflective material. When photons of light from the Sun reflect from the material a force is
+exerted on the sail. The photons reflect with a momentum equal to their initial momentum but
+in the opposite direction.
+(i) Show that a single photon of frequency 1.5 x 107° Hz has a momentum of about 3 x
+10°’ Ns.
+(2)
+(ii) Hence determine the momentum transferred to the solar sail by this photon.
+(1)
+Momentum transferred = ...........ccccceeccceeeeeceeeeceeeeceeseeseeeeseeeesseeees
+(b) An alternative method of producing a momentum change is being investigated.
+Researchers have suggested that ‘larger changes in momentum could be produced by
+directing laser light at graphene oxide’. Electrons are emitted from the graphene oxide
+surface, resulting in a force being exerted on the graphene oxide in the opposite direction.
+A researcher has suggested that one possible mechanism for the emission of the
+electrons is the photoelectric effect.
+(i) Show that the maximum velocity for a photoelectron emitted after absorption of a
+photon of light of frequency 1.5 x 10'° Hz is about 8 x 10°ms™.
+work function of graphene oxide = 6.7 x 10-'9 J
+(3)
+(ii) Hence calculate the momentum of the photoelectron.
+(2)
+Momentum of photoelectron = 000... eccecccccecceceeeeeeeeeteeeeeseeeeseeeeaaees
+
+
+--- Page 15 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+(c) Explain whether the suggestion in (b) that ‘larger changes in momentum could be
+produced by directing laser light at graphene oxide' is true.
+
+(2)
+(Total for question = 10 marks)
+Q18.
+A solar panel uses electromagnetic radiation from the Sun to generate electricity.
+In one installation a sensor in the solar panel measures the intensity of radiation arriving
+from different directions. A motor rotates the solar panel so that it always faces the brightest
+part of the sky.
+When light is incident on an LDR, electrons move to a higher energy level where they
+become conduction electrons. This causes the resistance of the LDR to decrease.
+A student suggests that this is an example of the photoelectric effect. The student is not
+correct.
+Compare and contrast the photoelectric effect with the effect of radiation incident on an LDR.
+(6)
+(Total for question = 6 marks)
+
+
+--- Page 16 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q19.
+In 1905 Einstein published his equation for the photoelectric effect.
+In 1916 Millikan demonstrated that the maximum kinetic energy of photoelectrons is
+consistent with Einstein's equation.
+Discuss the extent to which our current understanding of observations of the photoelectric
+effect supports the idea that light behaves as photons rather than as waves.
+(6)
+
+(Total for question = 6 marks)
+Q20.
+The diagram shows apparatus that can be used to investigate the photoelectric effect.
+
+\                   _ metal plate
+a       (uA)
+
+
+--- Page 17 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Light is shone onto the metal plate.
+For a particular metal there will only be a current for frequencies of light greater than 8.17 x
+10‘ Hz.
+lf the applied potential difference is reversed and increased, the current will decrease and at
+a certain value of potential difference the current will be zero.
+Calculate this potential difference when the frequency of the incident light is 9.62 x 1014 Hz.
+(4)
+Potential difference = ..........cccccceccceeccsseeeeeeeeaeeeeeeeseeeeeeesnaaeees
+Q21.
+The photoelectric effect provides evidence for the particle nature of electromagnetic
+radiation.
+Which of the following observations of the photoelectric effect could also be explained using
+the wave nature of electromagnetic radiation?
+Fl A The emission of photoelectrons is instantaneous.
+a    The maximum kinetic energy of photoelectrons depends on frequency.
+kl C_ The rate of emission of photoelectrons depends on intensity.
+Fl    There is a minimum frequency for emission of photoelectrons to occur.
+(Total for question = 1 mark)
+
+
+--- Page 18 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q22.
+A student has been learning about the photoelectric effect.
+The student was asked by his teacher to explain the photoelectric effect. He gave the
+following explanation:
+ cighe above a certain thresholol is alole to {ree
+| electrons trom a metal, because the light oives
+| enerayy to electyoms bw the mecal.
+| Some of this enera ji4 is used to release the
+___| electrons from the metal anc the rest becomes _
+____| Ietinetto energy of the freed electron,
+a
+Discuss whether the student's answer fully explains the photoelectric effect.
+(4)
+(Total for question = 4 marks)
+
+
+--- Page 19 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q23.
+When light is incident on the surface of a metal, electrons may be emitted by the
+photoelectric effect. Observations of the photoelectric effect helped to establish that light can
+exhibit particle behaviour.
+Which of the following observations of the photoelectric effect could also be explained by
+light behaving as a wave?
+El A Emission of photoelectrons occurs immediately the surface is illuminated.
+4    Photoelectrons are only emitted when the frequency of the light is more than a
+certain minimum value.
+kl C The maximum kinetic energy of the photoelectrons is independent of the intensity of
+the incident light.
+Fa    When the intensity of the incident light increases, photoelectrons are emitted at a
+greater rate.
+(Total for question = 71 mark)
+Q24.
+A student has been learning about the photoelectric effect.
+This experiment demonstrates the particle nature of light.
+Explain what is meant by the particle nature of light.
+(2)
+(Total for question = 2 marks)
+Q25.
+
+
+--- Page 20 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Read the extract and answer the question that follows.
+In the 17th century there were two proposed theories to explain the refraction of light. Using
+a wave model, Huygens stated that light slows down when it passes from air to water. Using
+a particle model, Newton stated that light soeeds up when it passes from air to water.
+Newton's theory was more readily accepted until the speed of light in water was measured in
+the 19th century.
+In the early 20th century, Einstein used observations from the photoelectric effect to provide
+evidence for the particle model of light.
+Nowadays, both the wave model of light and the particle model of light are accepted, as
+each can be used to explain different aspects of the behaviour of light.
+In a demonstration of the photoelectric effect, electromagnetic radiation is shone onto a
+clean metal surface. It can be shown that the metal loses negative charge when the radiation
+has a frequency above a certain threshold frequency.
+Explain how the particle model of light is consistent with this observation.
+(3)
+(Total for question = 3 marks)
+Q26.
+Which of the following provides evidence for the particle model of electromagnetic radiation?
+fl A diffraction
+Ee    interference
+Fl C_ polarisation
+a    visible line spectra
+(Total for question = 1 mark)
+
+
+--- Page 21 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q27.
+In 2016 the Breakthrough Starshot initiative was announced. This project intends to send a
+fleet of small probes to Proxima Centauri, the nearest star to the Sun. This journey would
+take about twenty years.
+The composition of a star can be determined by analysis of its absorption spectrum.
+Explain why there are certain specific frequencies missing from the spectrum.
+(5)
+(Total for question = 5 marks)
+Q28.
+When monochromatic light is incident on the surface of a metal, electrons are emitted by the
+photoelectric effect.
+lf other conditions are unchanged, the maximum kinetic energy of the electrons will be
+increased by
+fl A __ increasing the frequency of the incident light.
+Fl    increasing the intensity of the incident light.
+fl C using a metal with a higher threshold frequency.
+Ee    using a metal with a higher work function.
+(Total for question = 71 mark)
+
+
+--- Page 22 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+
+Q29.
+Some of the energy levels of an atom of a gas are shown.
+
+-1.5eV                    ¥
+
+—3.4eV¥
+During which transition, A, B, C or D, is electromagnetic radiation with the shortest
+wavelength emitted?
+A
+Ac
+
+(Total for question = 71 mark)
+Q30.
+An electron beam is directed onto crystalline graphite. A fluorescent screen on the other side
+of the crystal shows the pattern in Figure 1. The brighter areas correspond to higher electron
+intensity.
+The speed of the electrons is increased and the resulting pattern is shown in Figure 2.
+Lh | | | ll                                | @ }
+\ Bee                                     =
+Figure 1                                              Figure 2
+
+
+--- Page 23 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Discuss the conclusions that can be drawn from this information about the behaviour of
+electrons and the structure of graphite.
+.
+(Total for question = 6 marks)
+
+Q31.
+The photograph shows a school spectrometer.
+
+Soci Amp:                          AOL TACHON, Gratis.                       “telescopes
+
+ei need tl ra eee Pe ee ee eee:
+
+a il  (| O80 te eh Ae ee ee Su pee ee epee
+
+= a I  HI ee ee ee | — —
+
+Wess Se ee ee et AED   epee | eer a ee ea ee ees
+
+ee ae fa ee ee | i oe eC ee ee ee
+
+ee ae ee ee ee
+
+
+--- Page 24 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+The spectrometer allows parallel rays of light to be passed through a diffraction grating and
+the resulting angles of diffraction to be measured.
+
+The spectrometer and diffraction grating are used to analyse the light from a sodium lamp. In
+the sodium lamp, sodium is heated until it becomes a vapour and an electric current is
+passed through it. The vapour then emits light.
+After the light passes through the diffraction grating a line spectrum is observed.
+(i) Explain why only certain wavelengths are observed.
+(6)
+(ii) Diffraction gratings with the following spacings are available:
+panos [ie [ar [oe [as
+Explain which would be the best spacing to use to measure the diffraction angle for the
+third order maximum for yellow light of wavelength 589 nm.
+(3)
+(Total for question = 9 marks)
+
+
+--- Page 25 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q32.
+Barnard's star is a red dwarf star in the vicinity of the Sun. The wavelength of a line in the
+spectrum of light emitted from Barnard's star is measured to be 656.0 nm. The same light
+produced by a source in a laboratory has a wavelength of 656.2 nm.
+Visible light from the star originates from the photosphere. In the photosphere of Barnard's
+star, hydrogen and helium atoms are at a temperature of 3100 K.
+(i) Calculate the mean kinetic energy of an atom in the photosphere at a temperature of
+3100 K.
+(2)
+Mean kinetic CN€rgy = ..........cccseecceeeeceeeeeeeeeeneeeeseeeeeseueeneeeenes
+(ii) Describe how these atoms emit visible light.
+(2)
+(Total for question = 4 marks)
+
+
+--- Page 26 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q33.
+A fine-beam tube is used for investigating properties of electrons.
+An electron beam is produced inside a spherical glass bulb. The bulb contains neon gas ata
+very low pressure.
+* Interactions between electrons and the neon atoms in the tube make the beam visible.
+Part of the spectrum of visible light produced by these interactions is shown.
+(Source: © MoFarouk/Shuttersteck)
+Explain the process that results in the emission of this spectrum. Your answer should include
+reference to
+energy levels in atoms.
+(6)
+(Total for question = 6 marks)
+
+
+--- Page 27 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q34.
+Our understanding of the atom has developed over time, from early models in which atoms
+were considered to be hard incompressible spheres, through to the nuclear model of the
+atom and the ladder model in which electrons exist in a discrete number of allowed energy
+states.
+In the energy ladder model of the atom, electrons exist in a discrete number of allowed
+energy states. The collision of electrons with gold atoms may lead to the production of high
+frequency electromagnetic radiation.
+Explain how high frequency electromagnetic radiation may be produced when electrons
+collide with atoms in a metal.
+(4)
+(Total for question = 4 marks)
+
+
+--- Page 28 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q35.
+Filament and fluorescent are two types of light bulb.
+Filament light bulbs contain a tightly coiled wire filament, surrounded by an inert gas and
+encased in a thin glass bulb. When the potential difference (p.d.) across the bulb is
+sufficient, the filament heats up, emitting visible light.
+Fluorescent light bulbs use a long tube of glass containing a small amount of mercury. When
+a sufficient p.d. is applied across the ends of the tube, electrons moving through the tube
+cause the mercury to become a vapour and emit photons in the ultraviolet part of the
+electromagnetic spectrum. The collisions of these photons with the phosphor coating of the
+tube result in the emission of photons of visible light.
+filament     All ‘gh            eee
+is ! ‘ ye)                             Gee
+Filament bulb                                           Fluorescent bulb
+(i) Explain how the wire in the filament lamp gets hot when a p.d. is applied.
+(2)
+(ii) Explain how the fluorescent bulb emits photons when sufficient p.d is applied.
+(2)
+(Total for question = 4 marks)
+
+
+--- Page 29 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q36.
+An electron travels at a velocity v.
+Which of the following is the correct expression for the de Broglie wavelength A of the
+electron?
+ s 1k    3.00 % LO®
+ B 1= G1llxif"' xv
+fel Ite A. 3.00 We ig?
+ Cle   6.63 x 10-*
+ D i= S11lxll" xy
+(Total for question = 1 mark)
+Q37.
+The diagram shows the lowest energy levels for a certain atom.
+| Od
+2. ————.J§ Sm __ 1s eV
+| Aa 3 2 2
+eround state ——HHH4HHWW___ _545e¥
+A photon with energy 3.2 eV is absorbed.
+An electron could move from
+(1)
+fl A ground state to level 1.
+a    ground state to level 2.
+El C level 1 to ground state.
+Fl    level 2 to ground state.
+(Total for question = 1 mark)
+
+
+--- Page 30 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q38.
+In a spectrometer, light from a tube of hot gas is passed through a diffraction grating.
+The diagram shows the Zero order and the first order maxima for the line spectrum
+produced.
+first order                   aero                   first order
+         a      —      order      .         A
+Explain why lines of different wavelengths are produced by the gas.
+(4)
+Q39.
+When a large potential difference is applied to a discharge tube, the gas in the discharge
+tube emits coloured light. When this light is passed through a diffraction grating, an emission
+spectrum which is made up of a series of lines of different wavelengths may be seen.
+The photographs show the spectra produced from a tube containing hydrogen and a tube
+containing helium.
+Hydrogen:
+
+
+--- Page 31 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Helium:
+a
+* Explain why different elements produce spectra containing different specific wavelengths of
+light.
+(6)
+
+
+--- Page 32 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q40.
+The energy level diagram shows four possible energy transitions for an electron in an atom.
+n=3—{|
+- TTL    Tl.
+ground state n= 1    A B © D
+Which arrow shows the transition made by the electron when the atom emits radiation with
+the longest wavelength?
+a A
+Ac
+a
+(Total for question = 71 mark)
+Q41.
+The diagram represents some of the energy levels for an atom.
+= 3. —- A  — _ _-1 58 ee
+n = 4 —______________).55 eV
+a2. = 3-1. 85 eV
+a= 3-15] eV
+
+
+--- Page 33 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Calculate the lowest frequency of light that would be absorbed by an electron with
+energy —0.85 eV in the atom shown.
+(3)
+FEQUENCY = .......cccsecceeseeeceeeeceeeeeceeeeeeueeseaeeeseeeeneneess
+(Total for question = 3 marks)
+Q42.
+The photograph shows a school spectrometer.
+Socata ap             dRASHion: Beaty.           “LES!
+Ne | foe         ae ee
+EL  I  7° SSS ee, BS ee ee ee eee ee ee Saye
+Ege a  ehh Janel RR SURRR  Pee e a a
+se a eS
+a ee a ee ee ee ee
+The spectrometer allows parallel rays of light to be passed through a diffraction grating and
+the resulting angles of diffraction to be measured.
+
+
+--- Page 34 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMathsTutor.com
+The diagram shows some of the energy levels in a sodium atom.
+1.39 eV
+—1.52 6V
+— -1.95 &V
+— —3.04 eV
+— -§.14 eV
+Add an arrow to the diagram to show the transition involved in the emission of yellow light of
+wavelength 589 nm.
+Show your working below.
+(4)
+(Total for question = 4 marks)
+
+
+--- Page 35 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q43.
+An electron in its ground state absorbs electromagnetic radiation of wavelength A.
+The energy level diagram represents the resulting energy transition of the electron.
+nu=3 a —H5eV
+n=2 -
+srouned state =; o> dh] el
+The electron eventually returns to its ground state.
+Explain, with reference to the energy level diagram, how this may result in the emission of
+radiation with a longer wavelength than A.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 36 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+
+Q44,
+The diagram shows five energy levels in an atom.
+Electromagnetic radiation is incident on the atom.
+Which transition would be caused by the absorption of the lowest frequency of radiation?
+  A 1to5
+   1 to 2
+  C 4to5
+   5 to 4
+
+(Total for Question = 1 mark)
+Q45.
+Einstein's photoelectric equation states
+
+APS @ ty MV
+
+The quantity denoted by  ® is the minimum
+El A amount of energy of a photon needed to release an electron.
+Fa    amount of energy of an electron needed to release a photon.
+Fl C frequency of a photon needed to release an electron.
+kl    frequency of an electron needed to release a photon.
+
+(Total for question = 71 mark)
+
+
+--- Page 37 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q46.
+In 1965, Richard Feynman proposed a double slit experiment to investigate the wave
+properties of electrons.
+The experiment was later carried out using the arrangement shown.
+|                    detector
+beam of clectroms   |
+A beam of electrons was directed at a barrier with two slits.
+The detector recorded the positions where electrons arrived after passing through the slits.
+The following pattern was obtained. Black dots represent points where electrons were
+detected. A band where electrons were not detected has been labelled X and a band where
+electrons were detected has been labelled Y.
+_ Rie ew ee:  eo es  a  apace cs | ee
+Pecan ed hee  fa eT eM Je  STUPOR TAe eed? | Stecmuee meiaiuerbet sn  ee ie Sie
+Se vele: sega ake Sac et eee ic her em eee
+“ES ReCe Ge CL OUNeR ee   ee ee ea  He
+SUSE eae | Rs: EN ge iob:  een,
+as  se Meg are  oe Oe ae  heen tes
+ae ee ee  ogni: Sea!
+ce age od  CRE Mre SO teeeeeerenen rae: | ieee emer: Lane ame: ET
+PEE   Sey 2s See ad eae ates  Te meeMare tay
+CS! OU ee ee He ta
+nay Hane eee ae WES ]   ie age 2S ee   PRR ce ee Uh Sea noe A ar   Ue ae ne icin,
+om ee  ne fea stot: TEE Rae eee ie Sone?  gee mabe
+ee ee Renee ALS Oeeaees, OS emg: ens aeea eg et!
+ee Me oe ae a
+ee os  Sages, Put ea    ee
+vy Ree cre eaten   pacar ie er a Nee  ge ea df A ee eT ne   ae ae tise    yes Se ae
+ie tie ire ee a am no et ec mre To a Cr ee ee   1 ee game ean 7
+“eee  “Sa seeteegeeater der seetiadbiereegh cee: = Sia a aaa ake   se cata am
+SSC Raer hy coe “SR eneeeuesi, 6 MS cohoe
+AE “Egat Uae. ee   Ce es
+, ENE gh  sah OU aaa 8  eee Ce etaihaeemrcgeey  : Re or
+[AAI ee | Oe | Eu eR ea
+oe cacti eres gee  Bie a A ars a Us tere cy Eat faire Vepiataoay vicky Re EE a
+Pee: Ee Gye eee Oo Sa
+The path difference for electrons arriving at band X from the separate slits was 2.5 x 107’ m.
+For electrons arriving at band Y the path difference was 5.0 x 107’ m.
+
+
+--- Page 38 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Explain why this pattern is observed when the electron energy is 9.6 x 1071 J.
+The electrons are travelling at non-relativistic speeds.
+(6)
+(Total for question = 6 marks)
+
+
+--- Page 39 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q47.
+A student has been learning about the photoelectric effect.
+The student sets up a circuit to investigate the photoelectric effect.
+_y light
+a
+photocell              Se
+/     i
+The student illuminates the photocell with light of known frequency f. A current is produced in
+the circuit due to the emitted electrons. He adjusts the potential difference, using a potential
+divider, until the reading on the milliammeter is Zero and records the corresponding reading
+V; on the voltmeter. He repeats this procedure for other frequencies of light.
+When the reading on the milliammeter is zero the maximum kinetic energy of the emitted
+electrons is given by eVs.
+Explain how the student can use his results to determine a value for the Planck constant h
+using a graphical method.
+(5)
+(Total for question = 5 marks)
+
+
+--- Page 40 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q48.
+The photoelectric effect was discovered by Hertz who investigated the effect of ultraviolet
+radiation incident upon the surface of zinc. The effect was found to depend on the frequency
+of the radiation.
+(a) State what is meant by threshold frequency.
+(1)
+(6b) Light of frequency 8.9 x 10'4 Hz is incident upon the surface of a different metal.
+The photoelectrons have a maximum speed of 6.7 x 10° ms“.
+Calculate the work function of the metal in eV.
+(4)
+Work fUNCtION = ........cccceeeccceececeeeeceeeetseeeeseeeesseeesseeeessees OV
+(Total for question = 5 marks)
+
+
+--- Page 41 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q49.
+In the 19th century experiments with magnetic and electric field deflections were used to
+determine the charge to mass ratio of electrons.
+Later experiments showed the diffraction of electrons as they passed through thin metal
+foils.
+Deduce what these experiments tell us about electrons.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 42 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q50.
+Read the extract and answer the question that follows.
+In the 17th century there were two proposed theories to explain the refraction of light. Using
+a wave model, Huygens stated that light slows down when it passes from air to water. Using
+a particle model, Newton stated that light soeeds up when it passes from air to water.
+Newton's theory was more readily accepted until the speed of light in water was measured in
+the 19th century.
+In the early 20th century, Einstein used observations from the photoelectric effect to provide
+evidence for the particle model of light.
+Nowadays, both the wave model of light and the particle model of light are accepted, as
+each can be used to explain different aspects of the behaviour of light.
+In the 1920s, experiments demonstrating diffraction of electrons confirmed de Broglie's work
+on the wave nature of particles.
+In one such experiment an electron had a momentum of 4.8 x 10°** kg ms‘.
+Measurements confirmed that the de Broglie wavelength of the electron was 1.40 x 10779 m.
+Deduce that these observations are consistent with the value of h given on the data sheet
+provided.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 43 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q51.
+In 1905 Einstein published his equation for the photoelectric effect.
+In 1916 Millikan demonstrated that the maximum kinetic energy of photoelectrons is
+consistent with Einstein's equation.
+Millikan used his data to obtain a value of the Planck constant.
+The following graph of maximum kinetic energy of photoelectrons against frequency was
+produced from his data for the photoelectric effect using lithium.
+CEEEEEEHE ECPEEPPPREE REET EV EERE A EERE ERCP EE ELEE EREL Ty
+as       a BI  BoeueSeuee  le a 9 ed ld UO i)
+ee COED BR ee Be See ee ee es Os ER
+pi aeeeed (sadaadeecensneaaaad seceaeuaac cececeesns geass eee: aegacenen,
+=       Fenesuuvstssuee2gus8 1eeudEuSgGsNueHeGEEEuSauSENy 23 tmageauaEE
+Se Mee el es Ne tt a te a A
+Se ee  [REGS GER ee ee a ee ee es
+see.      eee] Pe Pee eo) eee eel Pe fe ed Pe) pple I  ae Teebeep et BaD babe Ref h Pele
+OR ceececaemececee dace aeceaemca! daeneceee co sgeecee gerccence
+pat |        eeag beams gouh og bau eee tenons case7cecee anaes cuees seennecaae
+“A ow ae | ERED EEE ope Pole eT Perse fe pleh ba EEEBE TEER CEE EEE BEELER EEE ECE
+we Sat a Rm WE EA
+Sead (ceadoacies ueteeaasad coneusrodaaaceeceeee suace auees ceeds ceeae
+A   mee.     Ba nO 6 BG Be a
+E   a EEE Perea REGED eee ET Srp he HEE Rian AP ees SSeS tetel Ta
+eae Poe ee ea eee ee ee PRBER ERAS AOA eee
+FE eee et ad yo et a A a i a i ta
+= Wage!" ieTe. [ele dele tale labet lt ele ele We oll Ia) eee all slalelal ele liebe) [okie aE Tebey
+amma EO 5 8 Ge et Gi dN el BB
+i
+Frequeney flO" Ez:
+Millikan suggested that the uncertainty from his results for lithium was as little as 1%.
+Determine whether the value of the Planck constant obtained from this graph is within 1% of
+the value stated on the data sheet for this examination paper.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 44 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q52.
+In the 1920s Louis de Broglie proposed that an electron could behave as a wave.
+Calculate the wavelength of an electron that is travelling at a speed of 2.2 x 10’ms“.
+(3)
+Wavelength = ..........ccccceseecseeeceeeeeeeeeeeeeeeeeeeeeeseeesneeeess
+(Total for question = 3 marks)
+Q53.
+In 1925 Franck and Hertz were awarded the Nobel Prize in Physics "for their discovery of
+the laws governing the impact of an electron upon an atom".
+In one of their experiments, a beam of high-speed electrons is fired through mercury
+vapour.
+An electron in the beam collides with a mercury atom, which becomes excited. The atom
+returns to its initial state by emitting electromagnetic radiation of a single frequency.
+Explain why excited atoms only emit certain frequencies of radiation.
+(5)
+(Total for question = 5 marks)
+
+
+--- Page 45 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q54.
+The Planck constant is an important universal constant used in the study of wave—particle
+duality.
+Atomic electrons are confined within the atom. One model of atomic electrons suggests that
+the wave associated with an atomic electron forms a standing wave that fits exactly into the
+diameter d of the atom.
+(i) The diagram shows the lowest frequency standing wave that fits into the diameter of the
+atom.
+aw abo
+| /      ;      i"
+! < > ‘the lowest frequency
+ ee | standing wawe
+Calculate the momentum of the electron.
+d= 2.00 x 10-°m
+(3)
+MOMENtUM & 2.0... ..ccceeccceeeceeeeceeteeeeeeeseeeeaueeseeeseeeeaes
+(ii) Electrons in an atom can only exist at discrete energy levels.
+Explain how this standing wave model can account for this.
+(2)
+(Total for question = 5 marks)
+
+
+--- Page 46 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+In an experiment to determine the wavelength of light, a diffraction grating is illuminated with
+light from a monochromatic source. A series of bright spots is observed.
+
+The experiment is repeated and the distance between consecutive bright spots increases.
+Select the row of the table that gives two changes to the experimental set up which would
+both cause the distance between consecutive bright spots to increase.
+(1)
+Number af slits per mminthe |} _.     ot ea ded
+a, ~~ _ P  oe  :     Wavelength of the light source
+diffraction grating                         |                )
+            Decreased                       Tncreased
+  D              Decreased                       Decreased
+(Total for question = 71 mark)
+Q56.
+In an investigation of the photoelectric effect, electromagnetic radiation of frequency fwas
+directed onto a metal plate. The maximum kinetic energy E of the photoelectrons emitted
+from the metal plate was determined. The procedure was repeated for a range of
+frequencies.
+The graph shows how E depended upon f.
+20 TEEEICLEAEA GE) PER EE AGE EEE EEE er ee. rt SR Bel eee RES
+Ope amuea Pee ER EE Beaseeceoaeae aceee ERERaG BLU PERER EL ip
+edt dt  See EEE BEER RRiReoee ESSE] EEEEEE Ty
+1eEEELIEL EERE PERSE Mb E TE SPs Scie min ae fers ttorete le] Ee es a
+Ee, el Be: i 9 al ee
+(BSREE AREER ESS GEE AO EBs Bea es Pe Bee a ee
+i SERRE HESS ESSE Soe as er ate Pe eee eee eet
+jk a a
+coop bed
+OO WET Pee ER EET TTA TA [eGo ie def le ee ee TD Doel TERE Def Wee lt Pe Pe [ex [eal
+eee Bee ee Oe ee ee eee
+(BR Ge Pease OMe ee ORE ee a ee es aaa
+Ne Et tt et i a
+Sd 9 ed EG td dE  BSS S ESSE Sse aee EER e ee
+Se |
+fe a a Fd a et Ge Gs Gel at Gl ed Gd a
+douse. ae I ab ge used Guanes Goeu: age se0ee sueauuauee seaueegura cusaceeaaa |
+ak mm es St
+see et        THs f “CEH SE Eee EEE SLHERE SERRE SSE Ga oem
+| a WR Bp Gd Gd GG WE GY,
+9G dN OS 9
+ARBGE Pune cee Geemas cage deeb cedaaaeen eemacagen vuecsee7ac|
+[eb BEECEEE PEPPER ECE eT PCE BE CLEP EEE TEDER OEEL ERE EERE LEEPEEEE TE
+ceggyie: AEE SRSP IED EEE | DRE EE REE OED EREEe See Bee eee oe EG
+ec Ge BO GN dl et 0 GB CO
+wes spe Ce uece ence cece: casa’ cecce caeasaeeee 2 el et EG Ed) eB: EE
+HEBER EEE SERRE Rs SEES SEES ASE Rees ee ee ee
+page guoos gecas Geaee gaged ganee cogae co as\reeeegsees sungegaced|
+9 td CN 6 GeO a Oi CMG D9 dG 0
+ae OS
+QE Eten: GC tC Gt GG 2 GB 2
+50:         60:         70°        80         ‘OG         TOG:        6
+fetO8HR
+
+
+--- Page 47 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Determine a value for the Planck constant, h, in J s.
+(4)
+(Total for question = 4 marks)
+Q57.
+In an investigation of the photoelectric effect, electromagnetic radiation of frequency fwas
+directed onto a metal plate. The maximum kinetic energy E of the photoelectrons emitted
+from the metal plate was determined. The procedure was repeated for a range of
+frequencies.
+The graph shows how E depended upon f.
+20 TEESE EEE EL LAE EDEL. Er SS
+ye Ee ft Ped FF EG PE Ot Pe Gl Fe GG EE lke cm Gr Gn OB Oy ta nF GO Pl cP Fl
+dl SE ee ee eee eee geet cocedcccees Be
+ve EEGEZPEESE EEE ESCH SPSS EEESE ea ep abet 2 beeps fe
+Se On
+Ed 7 8 A
+ESEEEEEEE HERE ee eC bos eters eh PE ep EEE R foc cctectetet
+iseieeane, asee TOD EBCECECRIPEREE GET EIMEER Ei tpbrick erento tart EEL ELEECEEEEE DE eeert
+i PERCE PEER REED EEEEE Bere CUEEELE EEE PEELE EP EEE EEE PEt
+| a PL EPR BAP Ore DARED ls bey eke pe Pe iD babes Re PhP eT EADS bey debe be pap bobs etal:
+9G dN OS 9
+[aneeGeuee! samaeceeer ;caaeauece cue qaueeue cuamacagenseeseaeaaa|
+egies Ale SEE ECEEH PEECUCLSED CECE CGEL GEE EE EEE Ga CeEL ECE RSE RerEre tt,
+AE Tela RAGA EAE ETE GIG Eee eee Sy Pa) tel tele Wel eee Peele el :
+IT Oe ee ee TTT TTT TTT rar tT
+jf a BRL CER EE HEE ER EEE EERE EEE EEL BRIERE EEE HERRERA :
+Berea eo, sl BB ah
+pio hie
+
+
+--- Page 48 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+The table gives data for different metal surfaces.
+     Work function /eV
+Deduce which metal was being used in the investigation.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 49 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Mark Scheme — Particle Nature and The Wave-particle Duality
+Qi.
+Cuestion     1                                      Get ts                      eccl
+                 Acceptable answers                                     Additional uidamce
+ae wm ng                             Fuample or calculation       _
+ Useofe=f                            =4.91 x 10" Hz
+SSE OG ie                       @) |£=663™ 1g Ts “4.91 x 10° Hz
+« Apply conversion factor of 1.6        = 35.26% 10 ee de ne,
+<10- for photon energy from              36x10" T/ 16x ie Cc=2 04 eV
+joey                                           (1) | Level =-3.71 eV - 204 eV =-5.75 eV
+o Level=-§5.74 (eV)                 rah)                                                      4
+Q2.
+number            Acceptable answers
+o Calculates wavelength 4            Rxample of calculation:
+(emeumiference) (1)                  A= 2#nr= am™ 4.35% 10- en = 3.453 ™  Lol! tm
+o Use of p= hid (I)                     A= Abe sow = Fafie.
+eo p=22* 10’ ms" (1)               v= 6.63x 10 J 3/1107! kex3.33x10" m)              3
+v=21BR x ime!                                                       :
+Q3.
+Incorrect Amswers:
+A —W is not an SI base unit and incorrect arramzement
+B —W is not an SI base wnt
+|                           TD — imoorrect arrangement
+Q4.
+Question | Answer                                                                               Mark
+Bunaber
+I B= a
+Q5.
+                          Acceptable Answer                                         Additiomal (suidamece
+o Stars emitting infra-red                                    Accept identitted wavelength range
+radiation can be detected above
+the atmosphere
+Or Some visible wavelengths           (1)                                                                                    1
+enutted by stars reduced ta
+30% intensity of less. by the
+atmosphere
+
+
+--- Page 50 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q6.
+                    Acceptable Amswers                                             Additional suidance
+° Use of hf =@+ =m?                  (1)   Example of Calculation
+eo woe te (ii an oll                    (1)
+oe v= 63x 10" ms                               E, = (6.63% 10-4 Js x 2.8 x 10! gy -
+69~ 10-4" (1) = Leer 12 x 1o-" J
+_  [2x LFavlaxuo-t] We we                   9
+‘LG? me!
+Q7.
+Queshonm          \       _                                            ae          og                          7
+Number            Acceptable amswers                                    Additional gumlance                             Mark
+o Use ofc and 2—Af(1) | Byample of calculation:
+o Converts eto J (DD          E- he _ 6.63% 10 Isx3x10' ms” x10  Jsx3x 10"ms   =F.831x 10" 3
+o Use of B= A+ Ee (1)
+Work function = 6.51 x 10 J
+o KEen=13~ 10" 7 (1)
+KE, = 7-83 x10 J- 6.51% 10-19) =1.32x10"°)             4
+Q8.
+Question                     Acceptable Answers                                                        Additional cutdamce                             Ward:
+Number
+® seofp = mr                           Exzaniple of calculatiom,
+with m= 9.11 x 10-™*                    |                                  |
+and vy = 0.02 x 3,0 x 10°          aly | 4                 6.63 x 10-"*]s
+° Useofa="                        (iy | 9-11 x 10-#* kg > 0.02 x 3.0 x 10° ms~*      3
+oe aA-lew io"? im.                   (1)    Aal2x io" til                                           :
+
+
+--- Page 51 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                                              PhysicsAndMaths Tutor.com
+Q9.
+Nim ler
+of            This question assesses a student's ability to          The following table shows how the marks
+show a coherent anc logical structured answer | should be awarded for structure and limes of
+with linkage and fully-custamed reasoning.              Teasonmine
+Iiarks ane awarded for indicative content and                                                      Mumber of marks
+for how the answer as structured and shows                                                            awarded for
+lines of reasoning.                                                                                                       structure and lines
+The following table shows how the marks                                                          of Teasomime
+should be awarded for maicative content.              Answer showe a                       -
+Number af                      Number of marks,               coherent and logical
+indicative pomts              awarded                            structure with
+SFFH 1 ANSE                tmichcahiwe pomts                 linkage aac folly
+      sustained lines of
+Particle model                                                  stmctured with
+® (One photon imferacts with one                some linkages and
+electron                                                                     lines of reascumne
+e And each photon has enersy                   Answer has no                        0
+proportional te the frequency, Or               lmkage between
+reference to E=hy                                  pots and as
+® The electronis emitted (instantly)              wnstroctured
+cally ifthe eneroy of the photon 1s
+sreater than the work fixmetion (of the | Limkage marks
+‘Ox The electron 1s emutted (instantly)
+only ifthe energy of the photon is                poluts                                 marks                                        6
+areater than the energy needed for an
+electron to break free (from metal
+« Ase photon enerey over and above           from both naooclels,                  2
+the work function is gamed by the
+electron as kinetic enersy
+Wave model
+® Ttwould be expected that the eneray
+of the electron would build up and
+eventually be enorttedd
+e The (netic) energy of the (enutted)
+electrons would depend on the
+intensity of the wave (and mot the
+frequency)
+
+
+--- Page 52 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                                              PhysicsAndMaths Tutor.com
+Q10.
+Question                            Acceptable Answers                                         Additional Guidance                   Mark
+Number
+An explanation that makes reference to:                      -            _                        oe
+Accept references to re-emuission in all
+° if photon enercy equal to an energy level                  directuons.
+ditierence in the elements present (1)
+° then the photon can be absorbed by an
+electron and the electron 1s excrtedmowes
+» 80 the absorption spectrum is created                                                                                     |
+because the frequencies of the absorbed                                                                                     3
+photons are missing from the contumuens
+spectrum produced by the star (1)
+Q1i1.
+Ciuestiom,                           4        aa                                                        qlee            w                         ae
+                            Acceptable answers                                              Aldlitional suidamce
+(a)               e (UV radiation consists of) photons          (1) | Accept quanta/packets of energy
+® (One photon imteracts with one
+electron
+(Or eneroy of photon depends on               (1)
+® Electrons released if energy (of
+photon) greater than work fiction.
+(Ov frequency 1s greater than                  (1)
+(Ov enerzy supplied is sufticient to
+remove electron
+(Question.                           4        dani                                                        4 ditt            id                         War
+                                      Acceptable answers                                                              Additional sundance
+(yc)          e when slider atthe bottom - readme
+on voltmeter is zero
+(On nom resistance - reaching
+voltmeter 1s Zero                                              (1)
+« When shder atthe top— reading
+voltmeter is 1.5 °V
+‘Or maximum resistance - reading on      |
+voltmeter is 1.5 °V¥                           (1)
+e Potential ditterence split between top
+and bottom part of resistor (erther
+aide of slider)
+(Ov readme on voltmeter depends. cm
+the ratio of pesistances (etther sale of
+‘Ov moving the slider changes the
+resistance that the voltmeter is across 1)
+
+
+--- Page 53 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+                                 Acceptable answers                                                     Alditional guidance                       Mlaork
+(bai) | Maximum Kinetic Energy of electron = 0.6     (1)
+feV)                                                                                             1
+Question            Acmanutatles werareane                  AAAtticanal aaniclarc:        face
+                            Acceptable answers                                             Alditional suidamce                    Mlaork
+(e)          Max 4                                                                         Full marks can only be: scored af a
+comect hnkis made between at least
+Walid because:                                                                          one physics point and the
+demonstration bemg valod or not valod
+® [Moon and photocell both have vacuum           (1)
+® Both demonstration and theary use          (1) | Accept ithe Same COMOEpt for
+photoelectric effect                 photoelecinec effect
+Not walid because:
+e Different wavelengths im each case        (1) | Accept one uses heht the other UW
+® Om the moon there is dust not metal         @) | Accept citterent matemals for MP4
+© Dwst is free to move but the metal plateis
+e Om the moon UV removes electrons from
+(tdivaedual) atoms amd
+m the demo light removes electrons from            ,
+metal surtace                                              (1)
+® Demonstration is based on photoelectric      1
+ettect but effect an moon could be               (1)
+tomtom
+Q12.
+aie esto                                 Acceptable Amswers                                                            Additional Guidance                                      Mark.
+Number
+a a
+Q13.
+Cuestion                          Accreptahle Amswers,                                                        Additional guidance                         Marl:
+Number
+oe Useot® = hf andy = fa          (1) | Example of calculation
+« Converts between eV to J           Q) | B=6.2e¥ x Léx LOC
+conclusion that superradiance can     ,lE= 6.65% 10“ ]sx 3.0% 10° ms—
+oCcuL                                          ty y°                            a
+A= #101 nm so superradiance can occur             4
+
+
+--- Page 54 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Qi4.
+Cimestion                          Acceptable Amswers                                                        Additional guidance                         Marl
+Number
+e Afoms contam discrete energy
+levels                                    (ly
+® The atonwelectron loses enerry
+and falls back down energy levels
+eilitiing a photon                                             (0)
+© withenercy equal to the difference * ”
+in emersy levels                                           ea)
+e Energy (or photon) is proportional =~ ©
+bo frequency                                              (1)
+® So emitted trequency or radiation
+comesponids to the difference i
+energy levels of a particular atom        1)                                                                                                5
+ee
+Q15.
+Question | Amswrer                                                                                                    Ivlatk.
+Incorrect Answers:
+A not demonstrated by this observation
+EB not demonstrated by this observation
+(C oot demonstrated by this observation
+Qi6.
+                            Acceptable answers:                                              Additional ruidance
+Number
+ae       em                       Example of calculation                         4
+* Substitute eF for 4 oom in df= g+          a)
+36 WW mas       Af= d+ V4 mF nas
+« Rearranges to identify gradient = hve        4     a if
+« Attempt to find eracient using lange             .        = iife — gfe
+frianele                                         Q) | sradient = hve
+. B= 7Oe 10 Is                                     gradient = (2.40 V— 1.00 V)=
+(range: 74% 1 Testo 7.7 x ii T                (6.075 x 10°" He -4.095 = 10   Hz
+sradient = 4.72 x 10" Vs
+A=4.72x 10" Vsx lex loc
+h= 758% 10%] s
+
+
+--- Page 55 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q17.
+ee                      Acoeptable answers                                                   Additional enidamce:
+(att)           oo                 Example of calculation
+La         e Use ofd =/vp and v=fa       qg)
+e Momentum of photon =3.3       |   Momentum of photon = p | — taf ‘e     ame
+x 107" (Ns)                      ) | =6.63 x 10" Is* 15 105 He=3.00~ 10? m
+                          et                                                      2
+=3.315~10"MNs
+smesmon                              Acceptable amswers                                              Additional guidance
+Cali)                Ecf momentum from (7) in paris (avi)
+_      © Momentum transfer = 6.6 x 1027 (N's)     a)    cf momentum ft mn (i) 1m parts (aia)
+*          “1 aac (ic)                                      l
+Question          ae ae                          ee ee                Taianlic
+Number                        Acceptable answers                                                     Addlittiomal midlance                                    Mark
+(byciy        —    ap            Example of calculation
+e Ose of by = gr Yo IRV moa       (1)     hy = gor 4s HAV oan,
+° Useof Ek =% mn           @   if ;  6.603 x 10"Ts*15* 10° He =9.95 = I
+oe v=84x 10 @ms')          gy | 79 =9-93* 1OYJ—67*1o8I=3.25 x19 | 4
+3.25 = 10" 7=%x91ix lO kx
+v=84x10ms"
+Suesmon                       Aoceptahle answers                                                       Additional guidamce
+(Is ii)                                                                Example of calculation
+e Use of =v                Q) |p =9.11 = 107 kex 84™ 10 ms"!       |
+|              |                         Momentum of photoelectron = 7.68 x 10" Ns
+® Momentum of                ay)                                                              2
+oe =P                MP?: Using show that value p= 7.3 * 10° Ns
+lure Ns
+ee                                      Acceptable answers                                                       Additional cuidamce
+«              An explanation that reters to the following
+pots:
+ie   the mer vineatecemen      (Il)    Accept converse statement and.
+CRUE BS MMe Seine: a We Me Ul                answer that is consistent with
+momentum of the photoelectron                           candidate's values in (a) and (b)
+® so the (change in) momentum is much
+larger tor the photoelectron than for the
+reflected pliotan
+
+
+--- Page 56 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Qi8.
+Chiestiom                   Acceptable Amswers                                                                         Additional guidance             Mark
+Number
+Max 6
+Similarities
+e Anelectrom absorbs a photon
+Or elecitons sain emeray trom a photon                (1)
+o photons need a minimum amount of                 (i)
+e 680 light must be above a certam              (iy
+frequency
+* increasing the light intensity increases
+the aumber of electrons (released per                       em
+Sec}
+e Puidemoe tor the particle model of light                 (i)
+Differences
+® In the photoeclecttic eftect electrons are
+Teleased trom the surface                                   (iy
+o But electrons remain within the LDR          ci                                 i
+eo Photoelectric effect occurs im metals                        as
+Or LDR is a semiconductor            ()
+
+
+--- Page 57 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Question      a                                             be TMehehee cD acocte                     Teen
+Numb                                     Acceptable answers                                                    Additional guidance                       Wilaurle
+The                      _                                                  _
+
+-                  ;           ;                           oe                                  The following table shows low the marks
+*             This question assesses a student's ability te                            should te awarded for sinactere and lines
+ a coherent and logacaliy structured SLE                    of reasoning
+with linkages and fullycustamed reasomime.                                                                                                  Muahber of marke
+Marks are awarded for indicative content amd.                                                               a 7 ure wad line
+for how the answer i2 stiractaed and shows lines                                                                           ae ees
+ee             -                                                                                                                                            of TeAsOnIMe
+Or TeaEORNe.                    —
+.                   =                                                                                                     Anewer showe 2.                              2
+The following table shows how the mace                                  cobercat aad     .
+should he avvacded for amdicative content.                         sp gnee SEES
+"                                                                              with linkage and.
+Number | Numberof | Max        Max             ied ae |
+of        antics       linkage      final deme . _ 4 ane
+mdicative        awarded.             maak            mark                     she ual scout
+markets       ‘far       available                     ————
+points | indicative                                      Answer is partially
+seen im    a cit -                                stnactuned wath,
+       __ ; =                                     some linkages amd
+—              _                                                                            lines of reasonine
+linkage berreen.
+Unstractiured
+4 [sa ft [a
+iGiuidsance on how the mark scheme should.
+should le added to the mark for liner of
+five indicative marking pomts which is
+i                     i                      a                                           partially strchired with some linkages and.
+*             *              “                           lines of reasommg scores 4 marke (3 marke
+ry            o           -           for indicative content and | mark for
+0                     0                       0                      0                      pactial. stnicture and some linkages amd.
+hnes of reasomme). If there are oo linkages
+between pots, the game five mdicatiwe
+marine pomts would yield an overall.
+score of 3 marks (3 marks tor indicative
+content and no mates for lokazes ).
+Tndicative content.
+Dibservations
+There ate 4 observations and 2 models.
+® FPhotoelectrons emitted mstantanecously          Linkage is demonstrated by linking
+when tadiation incident on surrace                     observations and models.
+o There is mo photoemission below the           —          .          —_
+threshold trequency                                                Two Bnkage marks can only be
+a, 5  ee         aurarded if reference 13 made to both
+eo The TSR ITVEL he ar the photoclectrons              models and more than one observation
+1s imdependent of the intensity or ihe
+incident radiahon,
+o The rate of photoemission is
+Proportional to the intensity of the
+incident radiation
+Ilodels
+e (One photon is absorbed by one electnom
+‘Or all of the energy of one photon is
+transtened to one clecinom
+o With wawes, eneroy can be supplied to
+the electron continuously
+‘Or with waves, enercy can “build wp*                                                                                              6
+
+
+--- Page 58 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q20.
+Juestion                Acceptable Answer            Additional Guidance        Mark
+Number
+» work function = hfs           (1) | Example of calculation
+o use of hf = @+ Vomvemx (1) | work function = Afp
+« division by 1.6 x 10°49        (1) | = 6.63 x 10° Js x 8.17
+|                         x 10% Hz
+o ¥Y=0.60V                    (i)                 -
+= §.42 x 107")
+Vo mW? ex
+= (6.43 x 104 1s x 9.62
+x 107 Hz) - 5.42
+x 10-97
+V= 0.60 V
+Q21.
+Question                                     ‘                                                    :
+Tanaaatty ;                            Alswer                                 Mark
+Number
+1
+The cnly correct answer is C because wave nature would predict
+a Greater emission rate with a greater mcident power
+A because imstantaneous emission is only predicted by particle mature
+B because dependence of maximum kmetic energy on frequency is only predicted
+by particle manure
+D because minimum frequency for emission is only predicted by particle nature
+Q22.
+                            Acceptable Answer                                     Additional (cuidamce
+The sindent’s answer should
+© Include the idea that ‘threshold’ qj | For MP1, accept
+refers to a (nimimum) frequency          that wavelength has
+a       4                       to be below a
+» state that photons have an          (ly         op       _
+”      ,     en                      Los     eertain “threshold?
+eneray given by hf                        certam “threshold
+® reroomise that the enersy used      (1) | Max 3 if the                     4
+to release electrons is called the                  Tespanise 1s not a
+work tumcthon                                                discussion of the
+° include the idea that one photon (1)    student's answet
+is absorbed by one electron
+
+
+--- Page 59 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q23.
+ie atten   ce =P ta ble                                 Additional zuidance                    Marl:
+Numlver     AS We                                                   =
+DD              The only comect answer is D- a wave of sreater ttensity would still tramsfer                I
+eMercy ata greater rate which could release photoelectrons ata greater tate
+even it they could absorb energy continously
+Ais mot comect because time would be required for absorption of sutiicient
+Wave ELETEY
+B is not comect because absorption of sutticient wave enercy would occur over
+tie:
+IC is mot comect because at higher imiensities the waves would have higher
+amplitudes and enercy could imcrease over time: to higher values
+Q24.
+‘Question              L mmaritetalia A-weeeers                  Ate aval (antec «a     7
+anata:                 Acceptable Amswer                   Additional tsuidance      Mark
+Number
+o Light consists of (particles called) (1)
+photons
+o These particles:
+are discrete packets of eneroy
+Or are quanta of energy                      (1)                                                              eo
+Or have momentum
+Q25.
+Question     Answer                                                      Additional | Mark
+Number                                                                     Guidance
+® one photon interacts with one electron                             (1)
+° when the evergy of the photon is equal toorgrester (1)
+than the work function (of the metal) an electron is
+released
+° eneroy of photon = fy so there is a                                 .
+mmm ‘threshold trequency                                         (1)
+Q26.
+Number
+D visible lime spectra
+Incorrect Answers:
+A —wawe model
+B— wave model
+(C— wave model
+
+
+--- Page 60 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                                              PhysicsAndMaths Tutor.com
+Q27.
+(mestiom           Acceptable Answers                                         Adchtional Guidance                                  Mark
+Number
+°    atoms! electrons          (1) | Answers in tems of emission spectrum can be
+have           |                      awarded MP1, 4.and 5
+nized chiscrete/spe
+cific eneray levels
+© electrons get                1
+excited by             @)
+absorbing photons                                                                                                                         5
+° enensy of photon         (1)
+absorbed =             ad
+diitterence 1m
+enerey levels
+® omby certain                 _.
+possible, so only
+certain plaobom
+enermes absorbed
+so only centaim
+frequencies
+TequeLuicies
+absorbed depends,
+om the clement
+Q28.
+(Question                                          |          _                                                          Additonal,
+ia  ‘                                            Acceptable answers -  :   -_       Mlarle
+Number                                                  |                                                                   TW AMOS:
+The ealy comect answer is A because, using Eansteim’s                                                                   1
+photoelectric equation, Af=.@ + oma, since the work function
+1s constant, an wcrease in frequency results m an imecrease im the
+masini kinetic enersy of the photoelectrons
+Bis not comect because, using Eimstem's photoelectric equation, Ay
+=o 4 erm, intensity has no effect on the maximum kinetic
+energy of the photoelectrons, just the tate at which they are emutted
+iC is not comect because , using Eimstem’s photoelectric equation, hf
+=o 4 noo, and since the work function is equal to (the Plamel
+constant * threshold frequency), a ligher threshold trequency wall
+lead to a lower main kinetic eneray of the photoelectrons
+Das not comect because, using Eimstem’s photeclectnic equation, hy
+=o 46 poms, a higher work fanction will lead to a lower
+marin kinetic enerey of the photoelectrons
+Q29.
+Quesiion.          Ame mer                                                                                                                          Ivhark
+Tocerrect Amaarers:
+A—absorphon of the longest wavelensth
+B — emission with the longest wavelengii
+( — absorption of the shortest wavelength
+
+
+--- Page 61 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Number                       Acceptable answers                                           Additional emidamce                          Wark
+*          .-        .                 a                 The tollowine table shows how ihe marks should
+Thus question assesses a student's                    be awarded for structure and lines of reasoning
+abalaty to show a cobberent auc                                                                                                                      |
+logically structured answer wath                                       a a
+linkages ancl fully-sustamed                                                                                                 Numer a marks
+TeAsoMinNe.                                                                              structure of answer
+Nadarks ave awarded for mcdacative                                                                                anid sustained lime
+combent and for how ihe answer 13                                              ;                                   ot TeasOring
+shuctured and shows lines of                      AMsWer shows a                   2
+TEAS.                                                                       coherent and logical
+|                                              structure wath
+The following table shows how the                       linkages and fully
+marks should be awarded for                                   sustained lines of
+tmlicative content.                                                        reasoning demonstrated
+throughout
+Number of     Nuaiber of marks      Answer 1s partially           i
+indicative marking            awarded for                       structured with some
+points seem in         indicative marking                linkages and limes of
+aS Wer                 pots                 reasons
+between pomts amd is
+Indicative content
+e This 15.2 dittraction/mterterence
+pattem
+. Electrons behave as waves               PP? De not credit “electrons behawe as waves or
+@ Dlecirons DeHane aS WANES                    particles® on its own
+_                  ;               ;                 PPS accept circles get condensed tor cucles get
+o As speedimomentum mereases the                 emaller
+circles get smaller
+om     be te a kw           PP4 do mot credit use of equation to justify A
+° ~ om used to justify that as 6                 SANG S120 as taps im crystal or to measure the
+HeCReases 4 CeCrcases                                      gape im the sraphite                                                         i
+o Reters de Broghe equation (A = fp) te
+contiro that as speedmomentum
+eases, wavelength decreases                  PPé small gaps at uniiorrn distances/lengths Or
+accept that sraphite is made wp of more than a
+« (Crystal has a.regulanlayered stmucture             single crystal
+
+
+--- Page 62 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q31.
+                                 Acceptable answers                                                      Additional guidance
+(a)         °o The electrons/atoms can only
+exist im, ciscrete!specific emery     (1)
+levels (an the sodium atoms)      ws
+o Flectronefatams become
+Or Electrons/stoms mowe to
+higher enerey levels                            a)
+® ‘The electronsatoms then move
+to lower energy lewels, civing = (1)
+out enercy im the fon ot
+photons
+o The energy of the photon is                              acceptl = he sk
+equal to the energy diiterence
+between the enerzy levels                  dy
+MP6 — Allow teteremce to Tew or
+ee age ga ee                      limited mumtber for “certain”. Allonar         -
+° f= if and A= aif so     |                    reference to discrete differences im.            "
+wavelength depends on the                             energy levels.
+photon enerey                                        Cy                     ,
+0 There are only certam enersy
+transitions possible (between
+discrete levels) so only certam (1)
+trequencies/wavelengths. are
+wisible.
+oo     oe                                  Example o calculation
+(ii) | ° Useotmt — dame                          @) |3*589* 107% m=dsin 90°
+e d@=1.77*10%m                            qy | @— ifs 10m
+o (Choose d= 2.0 « 107° m as a smaller                                                                                |
+value than. d= 1.77 * 10% mm would                                                                        4
+Cause sreater diftirachion angles so the
+third. order would mot be seen, but 3.5               :
+x 10 m would produce smaller                   Ql)
+angles than 2.0 * 107 m, causing
+larger relative uncertainty im                                 .
+MEAS UTE MENT                                (I)
+e OUseoftrd = dsiné
+e A contect value ofsin 6 or
+a@=10=10°m > 177
+d=1.7 "10% m > 104
+d=20= 10m >0.828 62.°
+d=339% 10m 30535 32°                 ql)
+® (Choose d=2.0™% 10m 1.7 * 1047 m
+would give a sine value greater than 1,
+so mo 3" onder is visible, and 3.3 x
+10? m would produce smaller angles           qd)
+than 2.0 = 107 m, causing larger
+telative Uncertainty in measIneMenit
+
+
+--- Page 63 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                                              PhysicsAndMaths Tutor.com
+Q32.
+Number                                 Acceptable Anstrer                                              Additional (2uidance                     Mark.
+(i                               1 o«a 6 6S                                    Example of calculation:
+®            e OUseor —mic ) =—AF                  a)
+a= gt            re         1 all 2 _3 ET
+« mean lkineticencray —6.4%107    (I)     ame i-3"
+=5x138x10M IK x3100K=642x10"3 |
+Number                           Acceptable Answer                                    Additional Guidamce               Wark.
+i(ii)              ® There are electron transitions                @
+between enercy levels in the atoms,
+@ Wheno electrons refom to a. lower           (Ip
+level they enut enenzy m the fom of
+photons                                                                                                                                       z
+Question                                            Additional         1
+Number                                                                            Acceptable answers                                                                     guidance      Mark
+This question assesses a student’s ability to show a coherent and logically
+structured answer with linkages and fully-sustained reasoning. Total marks
+awarded ts the sum of marks for indicative content and the marks for structure
+and lines of reasoning
+  Max structure mark) Max final mark
+| 6 | 4 | 2 |
+Pp o2 | 2 |
+a ee ee
+Marks are awarded for indicative content and for
+how the answer is structured and shows lines of
+reasoning.
+The following table shows how the marks should be
+awarded for indicative content.
+|                                  Nunber of
+                                                                         miarks
+Number of — | Number of’                                                                  anne to
+‘indicative     marks awarded                           saswer ad
+marking             for indicative                                                                line of
+points sccnin | ma rking points                  Answer shows a coberent and °        a    .
+answer                                                                                                     logical sanscture sith Hnkages.
+6 a
+;             reasoning demonstratest |
+              throahont
+p32
+ied                    =                            With some linkages and lines of
+rs
+;                                                -              between points and is                   .
+ einstrecnured:                                         .
+IC5 and 1C6 can be awarded if suitable equations with
+terms explained are used
+
+
+--- Page 64 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Indicative comtent:
+ICl =- Electrons in neon atoms/molecules absorb enercy due to electron
+collisions
+(Or neon atoms/molecules absorh due to electron collisions
+IC? = - Electrons im neon atemsfmolecules move to higher enerey levels/states
+(Or Electrons m neon atoms'molecules are excited
+(Or Neon atoms/molecules are excited
+ICS A jloten is released when an electron drops down enercy levels
+‘Or A photon 1s released when an atome/electron de-excites
+C4 Elecirons/atoms/molecules have discrete energy levels/states
+ICS Frequency wavelength (of enutted photon) 1s determined by difference im.
+energy levels/states
+(Or Ao; = hf where is fis frequency
+1C6 = Limited amber of possible energy levels/states, and so only
+cette particularspecific frequencies! wavelengths are emutied
+(Or Choy cettam energy changes possible, and so only
+cettam particularspecific frequencies! wavelengths are emutied
+Q34.
+1g             na         For MP1 and MP? allow
+°  lo hsher casey   (1) | o  Electrons inock electrons out of
+states. / levels (by                low Smerey levels     a
+incident electrons)                   o   Electrons cascade down to ill wp
+the levels
+o   An electron returns     a)
+to the lower energy      -
+state / level resulting
+im fhe emission of a
+photon                                                                     4
+© The enerey of the       1
+photon is equal to      w)
+the difference of the
+energy states / levels
+o Large ditterence m        ()
+enerey states / lewels         .
+so as 2 = Af,
+rathation is high
+irequency
+
+
+--- Page 65 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q35.
+Cuestiom | yen te mcmeecetes                                A didtetearal avid:           alle
+ Acceptable answers                                  Additional cuidance          Marks
+O |.  (4oving) electrons collide with,         (1)
+latiice/ioms
+* Tramster ofenersy to (lattice) ions so   (1)                             4
+they vibrate with larger amplitude/speed
+(and the teniperature imcreases)
+(i)                                               em mgs        |
+@ Electrons/ions in the tube collide with                       Mention of work mmoction scores 0
+mercury phosphor atoms and excite            qd)
+electrons (im the mercury phosphor                    )
+atoms)                                                                                 MP2 Allow de-excite for mowe back
+iq, | dover
+,       ae ah     -        (1)                                        4
+@® Perey is released im the form of                                                  7
+photons as the electrons move back
+down (fo the ground state)
+Q36.
+Cuestion | Ams wer                                                                      Ivlatk.
+QLD 0 ee
+Incorrect Ame wrers:
+A Tocomect valwe for
+B Tooorrect arrangement and imcomect value tor f
+I) Incomect arrangement
+Q37.
+Question      Answer                                                                    Mark
+Aimer
+po B sround state to level 2
+Tacerrect Answers:
+A—imeorrect change im enery
+—imoorect change in eneroy and direction
+D— incorrect direction
+
+
+--- Page 66 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q38.
+orn             Acceptable Answer      Additional Guidance     Mark
+Number
+e the atoms have             (1)
+discrete energy levels
+° atoms gain energy amd (1)
+get excited / electrons
+move to higher energy
+levels
+° atoms/electrons move     (1)
+to lower energy levels
+and emit energy as
+photons
+° different energy             (1)
+changes cause
+photons with ditterent
+frequencies; wavelengt
+ns
+Q39.
+Muri                                                                                                                              guidance
+i    ve      7                         Guidance on how
+This question BSSESSES a                    the mark scheme
+student's ability to show a      |        should be
+coherent a nd logically structured         applied: The
+answer with linkages and fully-          mark for
+sustained reasoning.                                      indicative content
+Marks are awarded for indicative        should be added
+content and for how the answer is      to the mark for
+structured and shows lines of            lines of
+reasoning.                                                                            reasoning. For
+example, an
+The following table shows how           answer with tive
+the marks should be awarded for        indicative
+indicative                                marking points
+content,                                     which is partially
+structured with
+
+
+--- Page 67 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Number ot          Number af           some linkages
+indicative           marks awarded      ane lines of
+marking points    ror indicative        reasoning scores
+seen in answer | marking points      A marks (3 marks
+
+i           content and i
+structure and
+,               ane lines of
+linkages between
+points, the sane
+jive indicative
+marking points
+would yield an
+Le eM eke che ke          owerall score of 3
+The rollowing table Shows how          marks (3 marks
+th ema rks shou ld be awarded ror       for indicative
+structure and lines of reasoning.        content and no
+Number of              marks Tor
+marks awarded           linkages}.
+for struchure of
+answer and
+sustained line
+of reasoning
+Answer shows a
+coherent amd
+logical structure
+with linkages and                   ~
+Tully sustained                                é
+lines of reasoning
+demonstrated
+throughout
+Answer is
+partially
+structured with                     i
+some linkages                            :
+and lines of
+reasoning
+Answer has mea
+points and is                       ~                                           (6)
+unstructured
+Indicative content
+e electrons/atoms move to higher
+energy levels
+Or electrons/atoms are ewcited
+« they then move to lower energy
+lewels (accept ground state) and the
+energy (from the change) is given
+out in the form of a photon
+
+
+--- Page 68 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+® the energy levels are discrete
+Or only certain energy levels are
+possible
+e the energy of the photon is equal to     looking for eneray
+the difference in energy levels            differences:       .
+Or hf = —: — Ey Or hcfA = E2— Ey | fchanges not
+® there are only a limited number af      energy levels
+energy differences and only a                       /
+corresponding set of
+frequencies/ wavelengths
+e ditterent elements hawe different
+energy level (differences), so they
+will produce different
+frequencies; wavelengths
+Q40.
+Question                                             Answer                                             Mark
+TD shortest arrow pointing to ground state
+Incorrect Answers:
+A — shortest wavelencth absorbed
+B — longest wavelength absorbed
+( — shortest wavelength emutted
+Q41.
+Question                            Acceptable Answers                                         Additional Guidance                   Mark.
+Number
+atm        .             _                 HKzxample of calculation:
+o weof difference m energy levels in eV and                   ®              |
+use of = OF tor conversion to Joule (1)             difference in energy levels
+> wmeofkebe                                         =0.55 eV — (0.85 eV)=0.3 eV
+° usc of B= iy (I)                                      =03.V* 16x 10 C=4.8 x 102
+o frequency = 7.2 * 104 Hz (1)                             J                                                                a
+fr4x 10 T+ 6.63 x 1054 Is                    3
+=7.2 x 108 Hz
+Q42.
+Question                        Acceptable answers                                            Additional guidance                          Wille
+Mumolver
+® Use ot E = hfanle =            (1) | Example of calculation
+o Convert Jto eV                  ‘       E=6.63 10 Js 3.00* 10 mes! /
+o JleV                           —       5.89% 107 m
+o Arrow drown on diagram irom        = 3 38x Loy                                 |
+3.4 &V to 5.14 eV            @)       a         4
+3.38 x10 Tf 10 « lo Ce =2 11 eV
+
+
+--- Page 69 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q43.
+Question      Answer                                                             Additional | Mark
+Number                                                                              Guidance
+
+electron falls back down energy levels emitting a photon (1)
+wavelenath (ot photon) is mversely proportional to the
+eneroy change                                                                            ey
+refers to energy transition n=3 to n=—2 or n=? to m—1          ey
+
+Q44.
+
+‘Question: | Answer                                                       -          | Mark
+
+Mumber                                                                                  |.
+a
+Q45.
+Choestoom      Anarer                                                                             Tilak
+Number
+
+A—amount of energy of a photon needed to release an electron
+Tocerrect Answers:
+B- an electron does not release a photon
+C— reference to frequency imeorrect
+D -reterence to frequency mcomect and electron does not release a photon
+
+
+--- Page 70 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q46.
+Question          ccentable aucwer               Addftscral emid-amee      Wifes
+wy               Acceptable amswers                    Adchtional gundance         Mark
+Number
+® Use otEy =p / 2m             (1) | MP1 accept use of p = mv aml Use
+of FE, = nn
+o Use ots = hfe                  (1) | MP4 accept (t+ 4) 4 orn a
+respectively
+oe A=5.0~ 10 (mm) calculated     ) | ceemmmte of cateutae
+frown Fhe                          | Example of caleulation
+Or                                              p=W2* 9.11 = 107 ke 9.6 x
+Ex =9.7 x 107 calculated fro         1D
+A=5.0 * 107 mm                         p=132* 10% kems*      |
+Orr                                           A =6.63 x 10 Js / 1.32 *% 10 ke
+p=13x 10" (kgms")              ug
+calculated tram, i aml                        A=3.0* 10M m
+p=13~10" (kems")                                                                        |
+calculated from 4 =3.0 « LO" om                                                        6
+oe jpath difference at A as Af?        qd)
+Or path difference at ¥ 1s 4       _
+o (electron) waves at X are im      (1)
+antiphase                       ws
+Or (electron) waves at ¥ are im
+phase
+° at X destructive                 qd)
+imfterference/superposition takes ~~
+place
+Or at ¥ constructive
+interference/superposition takes
+place
+Q47.
+                             Acceptable Answer                                      Additional Gundamce
+© Photoelectric equation stated m
+words                                             (1) | MPI: Accept fy for ¢ [ath ja
+Or hf =¢                                             defined], and Eye for = MV
++5 nve.with ¢
+                                                          MP2: eV, does not
+Tama al? — bf                    have to be the subject
+°   Hence aus = hy 7 é              (1) | of the equation
+OF Foz = Af — @ amd Bp max      )
+=e,
+© Compare with y = mx +c        (1)
+             ——      ae                                            5
+° So plota eraph of F. agamet f          (1)
+Or plot a sraph of eF, agamst jf    -     MPS is denendent
+     “          |      |           MPS is dependent
+oa,       ik                     _    upon Tih.
+® Gradient = —                    (1)     P
+e
+Or eracdient =f
+
+
+--- Page 71 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q48.
+Question                    |                            Additional
+Q  oe           Acceptable answers                “vatclieg us   Mark
+Number                                                                                                                          quidance
+the lowest frequency (or incident
+radiation) that will cause the emission
+of (phoetojelectrons (irom the suriace)
+Question   |    |                     pepe         |
+Q  ee    Acceptable answers            Additional guidance      Mark
+Number
+(by)      0 Use 07 0) Vmax (1) | Example of calculation:
+e Use of @ = hr—     (1) | 10"Hz=5.9 2 10")
+max ke
+Vo 17 Vinx = Me = O11 =
+o divides energyin (1) | 10“ kg x (6.7 * items
+joule by 1.6 *             NWF= 7.045 x 10°]
+io? c                    @e=5.9 x 107 ]- 2.045
+x1" 1] = 3.8 x io]
+o m= 2.4 eV         (1)
+=18“10"1]+16*i10
+= 7.4 eV                      (4)
+Q49.
+duestion                                   Acceptable Answer                                             Additional (suidamce                Afar
+Nimober
+e The deflection/fields experiments                    To MP1 allow a description of
+indicate that electrons have amass (anid a              deflection ¢.¢. electrons are
+charse)                                                                                     deflected by (electric and
+‘Or the deflectionfields experments               (1) | magnetic) fields mvclcatme that
+indicate that electrons have particle                               they have amass (and charge)                      3
+behawiour.
+® The dittraction experiments mcicate that (1)
+electrons must have a wave nature                      |
+e [dea that.a model of electron behaviour          i)
+must mclude wave-particle duality
+
+
+--- Page 72 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q50.
+Question       Amswer                                                     Additional Guidance          Mark
+Number
+0 Use ofa = -                             Example of calculation
+Either                                         h=14™ 10°" mx 4.8 «10-7 ke ms"
+°o h=6.7 x 107** (Is)            h=6.7 10     Is*¥ 6.63 210° °" Ts
+o COMPAS answer
+to 6.63 * 107** (Is)
+0 A=138=10" @
+o chmpares answer to
+140% 10" (im
+Q51.
+Question     a                                      he Tdtetice el) coche                      —
+                 Acceptable answers                                     Additional euidance
+ae ge                             Frample of calculation
+* Use of gradent                    (1) | gradient = 3.00 x 10°" T=
+© hfvomgraph=6.74x 10% Is   Ome
+« Suitable perentage calculation.                       __
+allowing comparison with 1%            percentage ditterence        a.
+andl coaclusion                                   = (iG 74 x io Js-—6.85 x 10" Ts)
+(1) | 6.63 * 10" Is ™ 100%
+= 1.66% which is greater tham 1 0 if is mot
+within 1%
+6.63 x 107 Ts * 101% = 6.70% 10 Ts
+which is smaller than 4.74 * 10°" I sso itis
+not within 1%                                                                a
+Q52.
+Question                          Acceptable Anstrers                                                            Adlditional guidance                         Iiilark.
+Number
+e Use of p = mp using mass of        (i)   Exam ole ot Calculation :
+electron                                         |       ae            6.63 x 10-* Js
+« Useofa=—                             () | ° oa1x io kg x 22 x10" ms        3
+2 A=33~xi107" m                       (i    A= 3.5 4 10    m
+
+
+--- Page 73 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q53.
+Number
+® Electrons existin discrete (1)
+energy levels                                      Accept excited state for higher energy
+o (Atterihe mercury atomis (1)   level          a
+om                           Accept sround state for lower eneray
+excited) electrons move                    state
+back to a lower energy
+(Or (Atter the mercury
+atom is excited) electrons
+move back, AV A
+higher eneray level                                                                                                                                       x
+6 Photons are emutied           (1)                                                     =
+o Frequency of ented         (1)
+radiation / photons
+depends on the difference
+in eneroy between the
+energy levels
+Or reference to AR = hf
+o Simce there are only           (1)
+cettam enerey changes
+possible, only certam.
+frequencies are possible
+Q54.
+(i)            o Useafa—2                                  (1) | Example of calculation
+* feoogsnise A= 2x diameter of         1)         S63 M10-2* (] 2       _       sa
+abom                             i   P= Sages fay 7 LOTX 10% eg          3
+o 17x 10774 ke m st gl
+(ai)         o A discrete number of half
+wavelengths fit into the diameter of (1)
+atl abo
+e Reference to f= to Link:             (1)                                                          2
+wavelength to discrete anersy
+levels
+
+
+--- Page 74 ---
+
+Particle Nature of Light and The Wave-Particle Duality                                     PhysicsAndMaths Tutor.com
+Q55.
+Question      Answer                                                                Mark
+Wiumnolver
+A Using oA-ilsin.@                                                        1
+Number of slits per mm in the                       Wavelength of the light source
+Hittraction srating
+Incorrect Answers:
+B— wavelength decteasmg would cause d to decrease
+C—oumber of slits'nm decreasme would cause @ to decrease
+D both dectessing causes @ to decrease
+Q56.
+Questia m
+at.          Acceptable answers                 Additional guidance       .
+Number
+® Line of beet fit drawen                              (1) | Example of calculation,                                4
+® Gracent detenmmed               (1)  Gradient = 4, l4x io*        .
+a wee      ~ og        (1) | #=4l4x lo e¥sxLéx io’ Jey"
+® Anplies eV to J comversion factor      (ty | za
+_.    mp ene      _.       _. gy, |= ete « 10 Ts
+o f= 662% 10"%Is(64« 10" Jsi6.8 WM
+x 0FF* Ts)
+MP4 dependent on calculation from, eraph
+Q57.
+Question
+mr.             Acceptable answers                         Additional guidance
+Number
+® ximtercept detenmined           (1)   MP2: allow use of standard         3
+o Useof é-hf               (1) | value for 4 or
+o g=2.3 eV. so metal is (probably)                   value of 4 determined im (a)
+caesium (allow ecf for 4 trom (ay)            q)        Example of calculation
+|                                          fo=55 %10"* He
+OR                                                                               = 6.62x10™ Is x55x10" Hz
+® Reads a paw of co-ordinates trom eraph                 =3 @4x ifr J
+o Useof @=—hf—E       3.64% 10777]       328 ev
+o g@=2.3 eV, so metal is (probably)           °=Texio-2 jewn eee
+cacsmum (allow ecf for 4 from (a)

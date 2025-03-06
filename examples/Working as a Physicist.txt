@@ -1,0 +1,2204 @@
+
+
+--- Page 1 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Working as a Physicist
+Q1.
+Which of the following is an equivalent unit to the newton?
+  A kgms™
+    kgms*?
+  C kgm's?
+    kg m* s?
+(Total for question = 71 mark)
+Q2.
+The newton can be written in base units as
+  A kgm
+    kgms™
+  C kgms?
+    kg m2 s~?
+(Total for question = 71 mark)
+Q3.
+Which of the following gives the S.|. base units equivalent to the volt?
+4 A JC"
+fl   JA's"
+El C kgm?s?C™
+Ea     kg m2 s3 Av"
+(Total for question = 1 mark)
+
+
+--- Page 2 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q4.
+All quantities may be expressed in terms of SI base units.
+Select the row of the table that states the SI base units for the given quantity.
+   7
+   D
+(Total for question = 1 mark)
+Q5.
+Which of the following is the SI base unit for resistance?
+HA OQ
+fl    VA
+EC kgm?s?A2
+Fl   kg m2 s-1 C2
+(Total for question = 71 mark)
+Q6.
+Select the row of the table that identifies an SI base unit and a derived unit.
+(Total for question = 71 mark)
+
+
+--- Page 3 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q7.
+Which of the following is a S.|. base quantity?
+El A energy
+El    length
+fl C speed
+ra]    velocity
+(Total for question = 71 mark)
+Q8.
+Which of the following lenses would produce a real image of an object placed 15 cm away
+from the lens?
+fl A converging, focal length = 10 cm
+ra]    converging, focal length = 20 cm
+El C_ diverging, focal length = 10cm
+ra]    diverging, focal length = 20 cm
+(Total for question = 71 mark)
+
+
+--- Page 4 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+A student investigated how the volume of a fixed mass of air varies with the temperature of
+the air. She used the apparatus shown.
+
+ a thermometer
+oil plug      |
+glass tube —__|           E             ;                      beaker
+trapped air
+water
+A glass tube was sealed at one end. A plug of oil trapped a length / of air in the tube. The
+water in the beaker was heated to a temperature @. The corresponding value of / was
+measured. This was repeated for a range of temperatures.
+The thermometer had a resolution of 0.5 °C. The scale had mm divisions.
+'                        ,
+The student's results are shown in the table.
+The student plotted a graph of / against 9 as shown.
+8 5 cc
+a FoR EP RaS RRR eee
+Hepes offs ER 4 Yt a, OY Ea en a Or
+REPEC COCO Screener race eo eecugeocesceces SEESCECCED a CEO CUP eeere eercrce!
+KAGE RGEEES COD e ESRC ROSE CEES RE OS aC een cea naRe sme ee
+5 a   ee,   ES; Es Ys eH ER) a = BN ee Pete eben
+       a a Ga. a a a a a a.
+pe mg EY OY 6, ed OA ae Ft OO
+ee ee |    ue +e a)
+osm PDS PG eG a
+EN NN Ged Pa Re PO
+ GER OeSeee  BE a hn
+eG Ge ageitu Geeueece (eeeeceass eau cscdee cucee deerueCeceeuuagseges tages scounceecs
+A i See ERE EC EES ore ere Er errr Be nei bers a! ee ia a a i
+GN 9 dd YO i Ot a a
+G(R 0 a a
+scr a a A Re a = a re a een eae er at eee eae
+eee tt                      Beet                      CF                           sae ee                      gta!                          ees                          span                             ies                          vafee ,
+=aUt:      sot)      se OO      ALSO?      pel CO       walle        ADs         Sr        100
+
+
+--- Page 5 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+(i) Explain the significance of the intercept on the x-axis.
+(3)
+(ii) The student wrote a report of the investigation in her lab book. In the conclusion she
+wrote:
+"In this investigation uncertainties were minimised by selecting
+measuring instruments with a high resolution. The points lie ona
+perfect straight line, indicating that the investigation is accurate.”
+Discuss the student's conclusion.
+(4)
+(Total for question = 7 marks)
+
+
+--- Page 6 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q10.
+The diagram shows a metronome, which includes an inverted pendulum, used by musicians
+to set a tempo. The pendulum oscillates with simple harmonic motion and makes a loud click
+at regular intervals.
+              _~ pendulum
+-——}
+(Source: Getty Images)
+A faulty metronome stopped making a clicking noise. A student tried to check the accuracy
+of the period T of the metronome, using a stopwatch. The student timed the pendulum as it
+moved from one extreme of the oscillation to the other.
+Explain how the procedure used by the student to determine 7 could have been improved.
+(5)
+(Total for question = 5 marks)
+
+
+--- Page 7 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q11.
+A student used a sonometer to investigate the properties of a stretched wire. The sonometer
+is a long hollow wooden box.
+A steel wire is attached to one end of the box and rests on two wooden bridges. The wire is
+placed under tension 7 by hanging a mass from the end of the wire, as shown.
+wire
++—_____ |, —____>     /
+SONOMETET—_ . I> —. pulley
+bench”                               wooden bridges
+
+The student placed the base of a vibrating tuning fork in contact with the wire, at one of the
+bridges. This set the wire into oscillation. He adjusted the position of the other bridge until a
+single-loop standing wave was produced on the wire between the bridges.
+The student repeated this for a series of tuning forks with different frequencies f. For each
+fork he measured the distance L between the bridges.
+The steel wire, of mass per unit length u, was placed under tension T by hanging a mass of
+2.10 kg from the end of the wire.
+(i) State one safety precaution that should be taken when carrying out the investigation.
+
+(1)
+(ii) The student plotted a graph of L? against 1/F.
+Show that the gradient of this graph is equal to
+
+(3)
+
+
+--- Page 8 ---
+
+orking as                                                                                          PEER REELS
+Ww                                                                                                                              | Sr cE ES eeeenesnTESEE
+Z oe
+low.               Cae i aa Eee eee
+hown belo                FRE EEEEE EEA PEEE TS aS
+'s graph is s                  s/s aera Sue
+ee if. a Tl eee ik neg EB Ea Gal   |B   a a  a   i tee
+nt's                TCL om rapapay Jl   rH  el]  ia Ga  PREEEEaornt
+de                   oe PEEP EEE SEPEEELT FRE HE Se  ba BoB GE seloceteelenk Eo oo
+stu                 = ERE ECE] Bac  pep] EEF  aa a Fle Per Erere: Hall |
+iii) The           asaraeatai taaasaiet oe
+(il                   |.
+ts    FebeheT TCT SSE red   ast  SEE T   Be neccoor Oo ee CEEEREPEE
+estes SSEEEPA PEE EEEEER PE]  aaa eee  reac ea a EEE Eetohel a Pah. SumEE ete
+CO RRR EEE EH See  HBEEE “ET EEE EERE EERE PO aaeeee SSEEECE
+ede cecrecsiiina eae ral EN Bab EERE EEC oe [effi He Lat [|  7 opts
+MS i fieeet toecaitta eee BEEECELEHEE [hT
+|:besieauay seeateads Gare SPE EereS SEE EEE EEECEELCE FREE EE EERERE “EEREE ory
+pao = SHEEEEEEE EEE EEREE  Sceemananet EERE
+(HESS Sut reateaae FREESE EERE tok ol ot HP eEEEEL EEL “EE jaa  guecusuea BEE
+7A RES Ae el Hea Ea  =: = =H =  BREm PS es    SE TAte aE ae
+=a EEEEELEE = pee [FE fief fi  |   i 7 EEBEEDE CLE  BRE Bal EEE EEE ae  Bd Ba ea | EB
+Sena Be:  ma  Ee ptt tt  ‘H    fit Het PRESSE  Se  an  on  BEE cto
+0.08" peers Se omaeae    Sasa    E  EOE ETL aac     EEE PEELE
+O.04 PeEEEEE qeas PEER    le Scere et  EEE]  Bee TT
+ieee Dee pap EERE REE  EEE EGE Er eae STE cae Sebhibhtsts
+ELEY mee    TEL]  Sfelefe[s Hest atl PST  plac Be pete fe  eee  Ltt  Be  Eee
+PEEEEEL   ne   aoaaaiae  ees aa   BBR eE EBS Poneeead  SES  PE ECE  Ea
+“Heb eee _-S5 a a  Sanedieee    SEE EEE  ACEP EE  Lt  SEER CR  aaa
+EeEEre   EL Ele See  SE EEEEEEET  Pert ht cnn  ELEC ERE ao
+aS Cee See  ppp rt  eae     eae a  Ltt  ELT  - ECReCEEE
+Hols    feelers   Aba  Se ees élelelei  Lela) aft Hy  me.  TF   an   ef  [Tt  ioetcetiheths Ht  -
+7 ERR CEE CEEEE   FG EEE   SEER EEE  Hee  PH  cae  ee oa eo er   a
+1 DARE   BIE  SEC EE.    SSE  Ete eer  HERB  ame SESE EEE   ceeee
+ARETE sees: Soeneeee EPC  ee  cise 2 Be ER.Ee Ltt Be  per PERSE EEE   Pr]
+Het Sade emaaaeaas El   REE S man  ceeeee eee REE CEE EEREEEEC
+AL: 2S EEES EE Rei  eee om  He EH Tey Te SEE SCP res AEE EEE   REPRE
+em a PE} Ham  ae  HEF |  |  aE   LT TI    tele  EER Tele |     H ete | Hl |
+ee Coes SRE   aaa  REHASH  See  SESS ES  EEE EAE aeeee
+sarin Ae    Ee   -1_|  Pa ES El  Big   faa   |    EE  tal Hl  SS   FARA     (Ee Ea Ea Hele  =
+0S  fe [e  ma  0a  ae  he]  an  |  Spa {EEA =[  PUTS ears  Bae Get Ea EB  ia ma
+saad cee Bee WT] rp Pal [| TT  part tt eee f°. [=I PP EEEI  — Sele Hee
+EE “Het  EB  Bea:  Ba EEE  || | |  ZEm LUPE ae bbb:  pet |  2) a la lel Ki BABE ec Ed Ea SS HEREES
+    Ate    Ee  pyet tet tt  St me ECE EE eer teks  Bal a    ERE EEoe Fst
+EEEEEEDEEEED ET PT SR  apart ee ey  Ec a   Bie  SEPEEAEREL LT
+Ie              SCRE  eh   ag  EE BE Ee oa   See
+(isesiacananibaii Bsaampannsinee SEEEEOe BEE  PEREEIE PER EEEE EERE RELL
+     Wepre TT TT bey | RHEE See emeGon Bl  mee eoaaaeueca ee : Ets Higsesestt tere
+Pepto     ttt EGE ae os ERERE GEA a= EHR  BReB ee ae wha Fel seeseaecuel Ett
+SRA tiie:      [=  Bie  “Le HS]  EO EAE ray   eR. ae Ze] yy mtd ed dE Sane eee mm Ca GaBanae a a aie
+a ee Stil    {PEGE GREe Sees EEE | EERE Eee  [EE EEMEE BEG PERCE EEE BEES RSSEE EEERCEES |
+AE SEE EEE  fe SEAS Ea BEE  lO SESE as arate EEE EESE BEES SSt
+yates ins  Pe tok fe lal  |   a BEE EEE a Go a ed Emme Et  tal a  ede Ae PEEEEEEE ed
+ss HO2 Ss erEEEE  ERE  Sy   Er   ce See Se SSS SEe a eee FREER MEE SEeCr Fee
+a ea ie tE  PEE PEE    pee he  eh t RESaREee  PEPPER Ph  eee LECeEErEe
+del   Bel li EEERELEEEET fa Se oe  FT soko tae FECA  aa peel pte Bel EE
+GREE EE Bid    cal at ARooae  SEEGEGEES qT T TT eaaaaeaas IEE Ek EEE EERE
+A =REREEE Ee eee  Dee eee SESS eS  eee  oo a SEE EELEL ae oe Pt
+et     ae    amale: a     J cae ccREnIRE EE EECEE EH SEER EEEEE EEEEE EEE Eze
+oO eae ehatals Feel wl fae ed G PRPEEEEE PEE a ee  Raa  eps ffs pf he fe a oa EEE
+1 eee rr  epee FEPESSE ASCE CEE a Ba Raee pb bt pact be ft eof EEE FE | Scsacaia
+ERE ELDER FLEE! pirated fee EERE ERE (EE HEE Rm  HB a ial Beles EX BS ESE  te
+(EEE mE  Par Pelee Pe He | EEE EER ESET 1 EEE ip Peles]  Bee Ens [2 [22] SERB 0: ee    ete
+jcpeteteeet Intaseee Ae ee ae eRe EEE EEE pte Saennnan aD     ba.0:
+{ Eeeeee sees tmaaa: mia Fea ae   Hl id ERE Pebbet: a   Bees eee eee — ays:      Sree
+cesses | ea aetecaast cent tee i ee             0
+OLS SEE ee ert   SF a SEB Bt La TPL ———   a        ani
+TAGs ee Pana oe    BeBe Bae   SEE SE Ata TT =e      Le
+SP EERE   SEES cE   att SE REEEIEEE       Men
+7A EEE EEME  a pscfr= fe oma EEE                   oe)
+GeRBAE EEE        6:0:        “naa                                table.
+fy for diffe                                        e/gm
+The valu                                       ewe                 3
+24
+                                               (4)
+beetteeee              leeteeeee                        tion =8
+
+
+--- Page 9 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q12.
+The student then found a value of y for a brass wire, using a different method.
+(i) He measured the diameter d of the wire using a micrometer.
+Explain one technique the student should use when measuring d.
+(2)
+(ii) The student obtained the following data.
+The stated value of y for the brass wire used by the student was 2.14 x 10° kg m".
+Deduce whether the student's data supports this value for py.
+density of brass = 8700 kg m* + 200 kg m®?
+(6)
+
+
+--- Page 10 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+(Total for question = 8 marks)
+
+
+--- Page 11 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q13.
+A teacher is explaining the differences between accuracy and precision to her students.
+She draws the following diagram, which shows different degrees of accuracy and precision.
+The circles represent targets A, B, C and D and the dots represent arrows hitting the targets.
+               !
+-. A                     iB
+precision   a
+CoD *“8
+Explain how targets A, B, C and D represent differing degrees of accuracy and precision.
+(4)
+(Total for question = 4 marks)
+
+
+--- Page 12 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q14.
+The length of a tooth from a dinosaur is approximately 10 cm.
+Scientist A measures this length with a metre rule, and scientist B measures this length with
+callipers.
+Scientist B claims that his measurement will produce a more accurate value for the length of
+the tooth.
+Comment on the claim made by scientist B.
+(3)
+(Total for question = 3 marks)
+Q15.
+A practical physics textbook states that "measurements may give a precise value for the
+quantity being determined but this may not necessarily be an accurate value".
+Describe what physicists mean by the terms accuracy and precision.
+(2)
+(Total for question = 2 marks)
+
+
+--- Page 13 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+
+Q16.
+A student carried out an experiment to calibrate a thermistor. She connected the thermistor
+in series with a resistor and a power supply as shown. Then she placed the thermistor in a
+beaker of hot water and used a thermometer to record the temperature 8 of the water.
+
+L a 1                                  to cireuit '        _—   thermometer
+
+}            |. _- water
+(v)                               thermistor-—~]      }     _— beaker
+The student recorded @ and corresponding values of the reading V on the voltmeter as the
+water cooled.
+Over a limited temperature range V varies with @ according to the expression
+V=Vie"
+where b and Vo are constants.
+(i) Explain why a graph of In V against 9 would give a straight line.
+(2)
+
+
+--- Page 14 ---
+
+Working as a Physicist                                                                                                                            PhysicsAndMaths Tutor.com
+(ii) The student's data is shown in the table below.
+we Tow [
+we [oe
+ee ee
+aes fe [
+Pas [|
+es [ae
+as fe
+Plot a graph of In V against @ on the grid opposite. Use the column provided to show any
+processed data.
+BREE Pe Pe ee ee Pe ee ee ee ee ee ee ee eee
+BR ee ee Pe ee   (5)
+BREE SRR BE Be ee ee Pe ee ee ee ee ee ee ee eee ee
+EEE EEE EE HEE EEE EEE EH EEE EEE EEE EE EEE E EEE EE EEE EE EEE EEE IEEE EEE EEE EEE EH
+S000 FOG 2
+S000
+i
+SEEGER Be ee ee Pe ee Pe ee ee ee ee ee
+eee eee ee
+SRR Re Pe ee ee ee ee ee ee ee ee
+PEEELIC ELE ILEL ELE ULLELELEELICIUILELELELELTILLEELE EE LILDILLELEELELI EEILELT EIT tt EELIILLELELEE LS I
+ee ee ee ee ee ee ee a
+BREE BE Pe ee ee ee Pe ee Pe | ee ee ee | eee ee
+ee ee ee ee Se
+BRE EE RRR BE Be ee Be ee ee ee Be ee ee ee ee eee ee
+BEEEEEEEEEEECEEEEEEEIEEEEEEEE CS EEEEEECEEEEEEEEEECEREECEEEEEEEEEEEEEE EES ECE
+EEE EEE HEE EEE EEE EEE EEE EEE EE EEE EEE EE EEE EEE EE EEE HEE EEE EEE EEE
+EEEEE EEE ELE EE EEEE A EEEEHEE CEEEEEEE EE IEE EE EEE EEE HEE EE HEE EEE EE EEE EEE
+O00 Oe
+EEE EEE EEE EEE EEE EEE EEE EE EEE EE EE EEE EEE EEE EEE EEE HEE EE EEE EEE EEE
+eee ee Be ee ee ee ee ee
+FEE EEE CHEE EE SEES EEE EE EEE EEE EEE EEE EES EEE EEE EEE EEE EEE EEE EEE
+EEE EE EEE EE EEE EEE EE EE EEE EEE EE IEEE EEE EEE EEE EEE EEE
+BREE Be Pe ee ee ee Pee ee Pe | ee Be ee ee eee ee
+0000 Ss 0 ee
+eee ee ee Pe ee ee ee ee ee ee
+PIE LtTELELEILELEELEILLLILLE Et ELIE LIILLELIT EL CICILELE LIE LELCLIILELEE ILE LEILLLE EEL EI ILLELEI_CI_ LL
+ee ee ee
+SR Ee ee ee ee ee ee ee ee ee ee ee | ee ee
+BREE Pe Pe ee Be Pe ee Pe ee ee Be ee eee
+eee ee Oe ee ee ee ee
+BREE BE Pe ee ee ee Pe ee ee | eee ee ee | eee ee
+SEER EEC EE SE EEE EEE EE CEE EEE EEE EE EE I EE EE EEE EE EE IEE EE EEE EEE EEE
+S000 Oe
+EERE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EE EEE EE EE HEE EEE EEE EEE
+eee ee
+ee eee ee ee
+SOGGe GO Go ee
+ee eee ee ee
+PCE EEE CCIE CEE EEE CECE EEE CEEOL EEE EE EEE E CEE EE CO ECE CEEE EEC EEE EEO cee eee
+EEE EEE EEE EEE EE EEE EEE EEE EEE EE EEE EEE EEE EEE EE EE EEE HEE EE EEE EEE EEE
+EEE EEE EEE EEE EEE EEE EE EE EEE EEE EEE EEE EE EEE EE EE EE EEE EEE
+SO000 SOG 2 | ee
+SE ee 2 Be ee ee ee ee ee ee ee
+EERE EEE EEE EEE EEE EEE EEE EEE EEE EE IEE EEE EEE CEE EEE EEE EE EE EEE EEE EEE
+O00
+PERE EEEREE EE EEE EH EEE EE EEE EEE EEE EEE RE EEE EEE REE E EEE EEE EEE EEE EEE EE EE EEE
+SSS Se SEE SEESESESEH SEESECEEEE SEEEEEECSE Cota ene! catntauars Sfanetareeteareeeeee
+SO Se 0
+EEE EEE EE SIE EEE EE EE EE EE SEE EE SE CEE EEE EEE EES EE EEE EEE EE IEEE E BE EEE IEE EEE EE
+
+
+--- Page 15 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+(iii) Determine values for b and Vo.
+(4)
+(Total for question = 11 marks)
+
+
+--- Page 16 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q17.
+A student uses a lamp and a light sensor as a light gate connected to a data logger and
+computer to determine the speed of a falling object. He drops a small cylinder through a
+clear plastic tube. The light gate and data logger measure the time of fall of the cylinder and
+the speed is calculated.
+cylinder            i
+1
+plastic tube
+light sensor
+f f               to computer
+lanup —    LY   —   f
+The student repeats the experiment five times and records the results in a table.
+Explain one advantage of using a light gate and data logger in this experiment.
+(2)
+(Total for question = 2 marks)
+
+
+--- Page 17 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q18.
+A student is using a simple pendulum to determine a value for the acceleration of free fall g.
+She measures the length / of the pendulum four times with a metre rule and records the
+following values.
+She calculates the mean length /m of the pendulum using the following method:
+L = 85.5 + 86.0 + Bh 4+ 85.5  — 861 cm
+(i) Calculate a more accurate value for Im.
+(2)
+(ii) Determine the time period of the oscillations of this pendulum, using your calculated
+value for Im.
+(2)
+Time period of OSCIIAtIONS = ........ cece cceceeccceeceeeeeeeeeeeeceeeesseeesseeess
+(Total for question = 4 marks)
+
+
+--- Page 18 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q19.
+A student carried out an experiment to determine the viscosity of some honey. He filled a tall
+glass cylinder with honey as shown, and timed a ball bearing as it fell through the honey.
+a __——— cylimder
+=
+  oo fibber baad
+poo honey
+=   |   == Tall Desire
+, —_—— mbber band
+SC
+The student placed rubber bands near the top and bottom of the cylinder. He started a
+stopwatch when the ball bearing passed the first band and stopped the stopwatch when the
+ball bearing passed the second band. He repeated this several times to determine a mean
+time.
+The time ¢ for the sphere to fall through a distance of 25.0 cm is shown in the table.
+(i) Show that the mean velocity v of the ball bearing is about 0.04 ms.
+(3)
+
+
+--- Page 19 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+(ii) The student had three different types of honey available.
+Viscosity 7 is given by the following expression
+_ arg (p a Ae }
+oy
+radius r of ball bearing = 5.50 x 10° m
+density of ball bearing og = 7750 kg m*®
+density of honey Ox = 1360 kg m*
+Deduce which honey the student used.
+(2)
+(Total for question = 5 marks)
+
+
+--- Page 20 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q20.
+In an experiment to determine the speed of sound in air a student connected two
+microphones to an oscilloscope, as shown.
+oscilloscope           +—__ 4 ———>                                         N. loudspeaker
+wasn          microphone       microphone          yo           ‘|
+[ LLL                1          \ |       2                                 |
+St                                 signal cenerator         I |
+The microphones detect sound from the loudspeaker, converting it to an electrical signal.
+The signal is displayed on the oscilloscope screen.
+Both microphones were initially positioned the same distance from the loudspeaker. The two
+signals were in phase on the oscilloscope screen. The student slowly moved microphone 2
+towards the loudspeaker, until the two signals on the oscilloscope were in phase again. He
+then measured the distance d between the microphones to determine the wavelength A of
+the sound waves.
+d= 20.5cm
+Comment on the student's experimental technique to determine A.
+(2)
+(Total for question = 2 marks)
+
+
+--- Page 21 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+A manufacturer gives the following information about a spring.
+l. Follows Hooke’s law up to loads of 5N
+2. Maximum extension without permanent deformation 0.4m
+3. Stittness 21] Naa” 23%
+A Stores up to 1.6]
+A student carried out an investigation on the spring to test this information.
+She applied a range of forces from 0 N to 5 N to the spring. She measured the length of the
+spring and recorded the extension for each force.
+She plotted a graph of force against extension.
+HES                                                         it
+oe DN OD ND 0 a ad Oc) (tC | dO c-cd
+let el el ll el: Ged et Pt
+[ERR RR EAE Se Bees oe ee ee eee aaa E
+nd: Od
+(EERE RAS SRS ao ee cs oo
+i EN a   KEEGS Ee cns cee
+aa ea ea a see ECG dG Pl ed re se Pe
+~ RBEREREGEHEET ERE ERE REEF REE REE RIPE EL EEE EE EE EE GEL ECEEE EE EERE EEE
+kA tt 0
+EGG a al al a
+Seer ee es a sl ie ee ead
+PREG RRR EE PRR A Ree eae Eee ee Ree Ree Pee eneee
+PRR RRR REE Cee a eee Re eee
+Se ERB E EEE CEE EEE ERIEE RE EEE EERE EEE EE ECCE CEE EEE EEE REE EE EEE EEE
+(RATER EEE AE EAR Pe Ee ae GRE EET ER EEE EER
+tie ded ed tt Od
+P| 2 a a) eS a a
+erueeetd MG Cc) MR) RS SD 3 RD WD DM A i OD Wi GO RDA NB SD | DB
+a) GG BB | a
+a DG 9 8) kl
+BY) SS a a a kt a
+4 a a a
+2 BO kB dd OO GGG GG
+BE 2 a 8 ee)
+YE) ss GO Od de ee OO
+pp | ee
+a 8 a Ca a
+| ss ld al dl Gi a ddd Pl
+[eR BR RABE Pe Bee ee ae eee See
+0 al a a
+dd dd: a 9 dl
+a de) CC
+=PEEEEGEEELLE   SESS Sea Sees ERE een SER
+i ss         EC Et ES a am
+He ja Ba em a a 9 a
+el | ete ld 0 NB 6G EG dd Bd de GD Pe
+SEE ERCEGE EEE EER EEEE EE PERE EEE EIPE PEEP LEE EEE CEDEEEEELEEELEEEE:
+SEE CCC RCLEGE ELE CELE AEE ELCEEC MELEE EEEEL GEL LCCLLUS EEL EEEEEE EE
+i ie nl i GG a a aa a a i
+Gs et a tt
+By Gs Gl GE CG aE EDWG: Gs ll EE
+g.                a                100             Een             S00.             gag:            300
+Wee:         aA         ai fa        we 1 cn        el i        ra       | MH
+ae        PAE        aed       Fan       Foes       Peete       aPa eens
+jigs Meletetdees co eee
+“Extension mini:
+Discuss the extent to which the student's results are consistent with the information given by
+the manufacturer.
+
+
+--- Page 22 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+(Total for question = 6 marks)
+Q22.
+Two students are carrying out an investigation to determine a value for the speed of sound in
+air.
+They stand 80 m from a building. One student hits two pieces of wood together to make a
+loud sound and a short time later an echo is heard. The other student uses a stopwatch to
+measure the time interval tf between the two pieces of wood being hit and the echo being
+heard. The procedure is repeated. The students also measure the air temperature.
+(a) Explain how a sound wave travels through air.
+(2)
+(b) The students repeat the investigation on a different day. The results are shown in the
+table.
+pat | om | ost | os |
+
+
+--- Page 23 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+(i) Deduce why the students thought it necessary to make a third measurement on day 2.
+(1)
+(ii) Calculate the percentage uncertainty in the mean value of time on day 1.
+(2)
+Percentage UNCESrtainty = .........cccceccceeeccseeeeceeeeceeecseeeeseeeeseeeeenaees
+(iii) Calculate the difference in the value for the speed of sound between day 1 and day 2
+obtained from these results.
+(2)
+Difference IN SPGO = 0.0... cececeeccceeeecceeeceececeeeeeeeeeseeeesaeeesaaees
+(iv) The students state that the difference in the speed of sound between day 1 and day
+2 is due to the change in air temperature.
+Explain whether the results obtained are sufficient for this statement to be made.
+(2)
+(Total for question = 9 marks)
+
+
+--- Page 24 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q23.
+
+A school dynamics trolley has a plunger attached to a spring. When the plunger is pushed in,
+the spring is compressed. When the plunger is released, it is pushed back out by the spring.
+spring ——              AA ARAAAIAS                  _~ plunger
+
+1  "
+(a) A student investigated the spring to determine whether it obeys Hooke's law in
+compression.
+The trolley was placed vertically in front of a scale and weights were added in turn to the
+top of the plunger, as shown. The position of the end of the plunger was recorded each
+time.
+ee ee
+ae ae | ep eee I SE
+The recorded results are shown in the table.
+Weight /N | Position of plunger scm  pe
+ee ee
+p20 | oof
+ee
+ee ee ee
+ps0 | sof
+
+
+--- Page 25 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+(i) Use the results to plot a graph of weight against compression. You may use the
+additional column for your processed data.                                                           5
+
+HSE IESE EEE ESE ECE SE ESSERE
+secant ace ater eee
+| cua aa (an Gad aan tanta
+ee
+ANE STI | UE IE UIE
+eee TIM IUCN: PUNE SIMPL:
+about 600 N m".
+Determine whether the student's conclusion is justified.                                         14
+
+
+--- Page 26 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+(6) Another trolley was adapted by placing a tube around the plunger so that it could be
+used to launch marbles. A marble was placed in the tube while the plunger was depressed.
+When the plunger was released it launched the marble.
+
+_ tube
+~>|— marble
+      — plunger
+=    — Spring
+Determine the maximum possible launch velocity of the marble when the spring is
+compressed by 5.4 cm.
+spring constant = 610 N m™
+mass of marble = 4.1 g
+mass of plunger = 35.4 g
+(4)
+Maximum launch Velocity = ..........cccccseecesseecceeeeeeeeeeseeeeeeeeeseneeeneneens
+(c) The launch velocity was measured using a light gate and data logger. This produced a
+smaller value for the launch velocity than that calculated in (b).
+Give a reason why this method produced a smaller value for the launch velocity.
+(1)
+(Total for question = 14 marks)
+
+
+--- Page 27 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q24.
+Which of the following is a correct statement?
+  A charge is a base quantity
+    velocity is a base quantity
+  C mass is a derived quantity
+    resistance is a derived quantity
+(Total for question = 71 mark)
+Q25.
+Which of the following best describes the newton as used in physical measurements?
+El A base quantity
+a    base unit
+El C derived quantity
+ea    derived unit
+(Total for question = 71 mark)
+Q26.
+Which of the following is a base SI unit?
+E] A ampere
+El    coulomb
+El C joule
+Ea    newton
+(Total for question = 1 mark)
+
+
+--- Page 28 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q27.
+Which of the following is the unit for tension expressed in SI base units?
+=                                                                                               (1)
+El A N
+Ee    Ns
+El C kgms™
+i)    kgms?
+(Total for question = 1 mark)
+Q28.
+Which of the following are the base units for impulse?
+fl A kgms™
+4    kg ms?
+fC Nm
+Ee    Ns
+(Total for question = 71 mark)
+
+
+--- Page 29 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q29.
+Read the passage and answer the question below.
+Jy Reuiers:
+The Solar Impulse 2 is a solar-powered plane that completed a round the world trip in 2016
+without using fossil fuels.
+
+The wings are covered in thin solar panels, keeping the total mass of the plane and pilot at
+1600 kg. The need to reduce the weight limits the efficiency of the solar panels to 23%.
+However, in daylight, these panels generate enough energy to run the four 7.5 kW electric
+motors that keep the plane airborne and to fully charge the batteries that power the plane
+during the night. The batteries take about 6 hours to fully charge.
+
+In daylight the plane flies at a height of 8500 m to harness the most sunlight, and at night
+descends to 1500 m. This descent makes use of the gravitational potential energy gained
+during the day to help the plane get through the night.
+
+(Source: www.solarimpulse.com)
+
+Comment on how projects such as the Solar Impulse 2 might be of benefit to society at
+large.
+(1)
+(Total for question = 1 mark)
+Q30.
+In an investigation to determine the Young modulus of a material in the form of a wire, a
+tensile force of 14 N was applied to the wire. The length of the wire was 2.0 m. The diameter
+of the wire was 2.5 mm. The length of the wire increased by 0.20%.
+Explain why the wire chosen should be as long as possible.
+(2)
+(Total for question = 2 marks)
+
+
+--- Page 30 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q31.
+Genuine crystal balls are made from clarified quartz rather than glass. A student was given a
+small crystal ball and wanted to know whether it was genuine.
+The student measured the diameter of the crystal ball using vernier calipers with a resolution
+of 0.01 cm.
+She measured the mass of the crystal ball using a balance with a resolution of 1 g.
+The table gives the densities of clarified quartz and glass.
+Determine whether the crystal ball was genuine.
+(6)
+(Total for question = 6 marks)
+
+
+--- Page 31 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q32.
+The resistivity of a metal is an important property of wire used in an electric circuit.
+A student carried out an experiment to determine the resistivity of a type of wire.
+He used a micrometer to measure the diameter d of the wire.
+(WY)
+(Source: © Viktor Chursin/ Shutterstock)
+He recorded the following values.
+(i) Calculate the percentage uncertainty in the mean diameter of the wire.
+(3)
+% uncertainty in mean diameter Of WIFE = ............ccccceeeceeceseeeeeeeeeesaeeeeeaeeeeesaneeeess
+(ii) The student used an ohmmeter to measure the resistance R of a 1.65 m length of the
+wire.
+He looked up the resistivity values of some materials.
+Identify the material of the wire.
+R=0.72Q0
+(3)
+(Total for question = 6 marks)
+
+
+--- Page 32 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q33.
+The diagram shows a coherent beam of light incident on a metal ball bearing.
+illuminated
+screen
+|                             shadow |                       °
+f                0     Arago
+ra                 ball                                                 _              spot
+f                 bearing                                                                 :
+SOUTle:                                    |
+Appearance om
+Experimental set-up                                                            screen
+The ball bearing shown in the experimental set-up has a diameter of about 1 cm.
+Describe how the diameter could be measured accurately.
+(2)
+(Total for question = 2 marks)
+
+
+--- Page 33 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q34.
+A student connected the output from a source of alternating potential difference (p.d.) toa
+series resistor combination.
+She connected an oscilloscope across the 150 © resistor as shown.
+   1202
+Vv (V)           -
+“T                      +, oscilloscope
+   150.02 w)
+Another student suggested that a voltmeter would be more accurate than using an
+oscilloscope to determine the magnitude of the p.d.
+Comment on this suggestion.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 34 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q35.
+A student investigated the behaviour of a spring under tension. The spring was hung
+vertically with a mass holder attached.
+metre rule ~~  oa         (4
+™          4        | mass holder
+*
+The position of the bottom of the mass holder was recorded. The spring was stretched by
+adding masses to the mass holder and the new positions were recorded. The extension of
+the spring each time was calculated.
+The student produced the following table.
+Criticise the student's table.
+(2)
+(Total for question = 2 marks)
+
+
+--- Page 35 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q36.
+A student investigates how the efficiency of an electric motor being used to raise a load
+varies with the weight of the load.
+The time taken for the motor to lift a load from the floor to the maximum height was
+measured using a stopwatch. The load was varied by adding weights, each marked '1.00 N'.
+The spreadsheet shows the student's results (columns A to E) and calculation (column F).
+A         B            Cc           D         E         F
+potential                             change im
+1 | load/N | current /A|difierence /V| tume/s [height /m | etficiency
+8
+The student uses the spreadsheet to plot a graph.
+IC      S600
+setae eeseepee tetas
+COOOOOOO ODS IO OOOO O00
+=» REE  streets sauazawes
+5      _ SERRE eee eee te
+‘Sg 7] SQOOOO00C000 00000 CO00000CCEeCCEnM
+        SESE See See eee
+J JOUD0D000 00000 00000 BRL LIE)
+FREER e eee eee Eee
+Load / 1
+The student concludes that 'the efficiency of the motor increases with the weight of the load
+up to a maximum when the load is 6.00 N'.
+Critcise the student's investigation and conclusion.
+(5)
+
+
+--- Page 36 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+(Total for question = 5 marks)
+Q37.
+A student carried out an experiment to determine the focal length of a converging lens. The
+student used a bulb to illuminate an object as shown. The converging lens produced an
+image of the object on a screen. The student adjusted the position of the screen until the
+image was in focus.
+He repeated the procedure for different distances between the object and the lens. The
+distance v from the lens to the screen was measured for each lens position.
+( »                (\                                        _7 Screen
+bulb = “\¥ ‘i——object  |f-——lens                      |
+-
+The student measured the height ho of the object and the height h; of the corresponding
+image on the screen for each lens position. The magnification m was calculated.
+To determine the focal length f of the lens the student used the equation
+Explain why a graph of m on the y-axis and v on the x-axis should be a straight line.
+(2)
+(Total for question = 2 marks)
+
+
+--- Page 37 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q38.
+A physics textbook states that "when carrying out experimental measurements there will
+always be errors and uncertainties".
+Describe what physicists mean by error and by uncertainty.
+(2)
+(Total for question = 2 marks)
+Q39.
+Answer the question with a cross in the box you think is correct (IX). If you change
+your mind about an answer, put a line through the box (&) and then mark your new
+answer with a cross (IX).
+A student carried out an experiment to determine the acceleration of free fall. The initial
+height of a ball bearing was measured using a metre rule.
+What is the best estimate of the percentage uncertainty in the measurement of height?
+fl  A +0.001%
+fl    +0.01%
+El C +0.1%
+Ea    +1%
+(Total for question = 71 mark)
+
+
+--- Page 38 ---
+
+Q40.                                eriment                             da time  e twas
+atus                ed       ing s      of h.            Sa ila
+par                                       leas              earin           lues                                         4 1agisnix
+a                  sre     bal         tva               7 echaniss
+ing wa      the        ifferen               1     cleasetiechs
+r                                                              d I                                                       —         wit releases ®
+ball bea  ing plate, ted for                    1.  “Teles -
+hi     This w             CC -            . i besrive
+Be alias wie oe =  a:             Bie he  bearit °
+time                                                                  : Boe VoSaie &  cide  im =a ies
+Le Saag 1, i   (aes at eee              ”     ”      yee     TAR
+ee ee oa ae        fm fig plat
+Tie A ——— Agane Sr
+ ees IE te al = eee
+-  = aT Wii  fie ot, 0 nals   ie a
+St  Spe              + 1%.              for g.
+ane               inty in                     ine a                   seats
+‘                      ain                    erm                   Reeaees eA)
+)                nce                 It to de                   CoEEE ELH vee
+he u                         it                        _— suites
++                    n sSoeiitaeeeastiniis oa co
+inty in agains              SScHESH SE
+er                                    O                                sre ace eee et Seer art ie Seoeesvat create
+nc                                                         _  eens neaieirastas JIS GE: Ea FE peeetessaersas
+U                        ra                      cone IT er "| Guasaee i a jE EE bsaneasessetan a
+d a TEC at pee ae ye oe a Ea eee oe ey ie ol | i ‘eel ea ea
+te                     a 8 eT eee BBA Be eT PCCece seresnaseeras Bae
+lo                        inne ineee Ena  Pa ES  Ho: teal rey Ei  Bae As =e Hl anne EEGE
+Tals ACTS Hl Boge, Soenpace Pee ocecc ic ce in stapes sce
+n                 — ea ie SESSGQRIEs eI ASL ed ECE Eer  REE: . SRanmeean oe
+de                    a TT aeah prey apeclete tele et IB Ea HEL SESEET =r cence Bee aee =
+T h e                                                    Sete mene AERIS ice Cnc TSE er Gretseeree rere   te EC ECaee Ee
+ee RGnae jo ese  ete atl : Peer IEEEEE Cc  ce 8 BE  Bal sececseataate Chae
+aati e   PEPEEECE ieuaa eenaR (5 ee (FS ESI HeCeere EE See HUBIEEHHuE: a eo
+“real hile ieee “ICI Ha-Baet er aetelasge a SCE a oeccees  HESEEEEics Per Healt)
+“a cae (P| Banseesatecss i  aus ieenece eel el EE eae ea Saat came Solo  GeeecOs Bae) BEE
+a aie)   oem BI re: ee ae Ea Ba ea  ie:  ee EE ea ice Ea Seeee aacae SIE: ir iecuemanes
+eee               i pee goneearee Ee ES Tet SeECCee ry seeaaeteee tse ae cceaanees ae eo ea We TY   ae
+sy Ne ee ee ae (Ea AE HETIL acomaioM ne i HeSacanasicas i BE rer IIe
+! Eee ms coe Eooceeae BEE EB Laer et oe oe weeeegen Ll  Heel oie i  a 2B  AREA
+caareet  Hh Isc fe I ee BEE | a ee Tae ET. Ee al Bee See, eae ea Al shh  aoe Sercaunetiens
+nee Bae 8 IE ea ao (eo ea eee LT meas Be ae, dE ae ea oo ee ee we
+Ha aaa im ee Be aoe imma eee imal caaeaee ne Gonas et RE eaaama fe BE
+iH eS Sse i JAE ree wooo Seinen i me oaawe * ECOaECere i EBRBE
+als     ERE PEE SSS ert eee: BES Bae cuaeemeaae IEC eooed Scams bata SRBE ech
+ml      ES Baa ay el (er ee ee al Bee el Bee:  oi te Sere  Bae Cay BEB era
+ths Bet Lott te geogoee Bee CCE Eee Be ae BD Re ae EBB. Bee eT Se) ‘ESE 1m ea ima
+eee he Seseoeaasme ccuseseeue Benet cere ait RBS el ieee feee
+a ay aa ee Aaa Bao mi sce ge aaee Ne oo Beet Bag PER CC or  Ea fect eco Be “Tele i
+Re: a, i a el Cee Eres BE a a Elie? Rees [eH rT  ACE ECC eae EOE air saveatastaices
+eee    EEECEEEEE Ee SAC EEE dao Becuae fk  inaamene [BE otek jee Lt ceasaaseae He] BE ra
+8      (eS ee = ierieraglat BeEe 2 5 BEBE j eS ET | HES a Saree SE EEEE
+me Spceeer i ae ‘en ea Walk a ea eal ES EE SBE Hoe a | Baseemesan ocoeooe ha
+2 | sae eeEEae EE eee PCeECEEE EE Baa aa IH Hele Soe caneeae Begeceeryeenas
+‘had    Mee agi BBme | eH eo ea a Ea Ba | a ES te err eB 12 Fel 2 SRECEEE ao er aE Bee
+s      MB Ea [eH eH: Sea See Bi!  ee ee  sie Fa IC IEC a Et Enon Beem Seer ce Fa
+RSecei ee E a em ee a pEnenee:  al EEEECEEE Bn  |B. eeeseee et sererretasraas
+oe aie sguceue! EE a Bl ea88 i BEBE Rise ea Beeee a oH al  PEC CE CECE et ye)
+wo bcd th Seale i ie  ARE oe   ia Ea Hee betel bh} BE eis an on Be ee  Em 12 BE Begegae ae
+fn . serait ee a poe Hb Ea? fi AOE i oe eH fl meee ie ‘a:  caeoees  ia ine oa Hot H. Be: Ctl Ler aa : ‘Al
+eo A220: Pees PERRET ieee seaaede BEEP EE EGE aucue tee boo Jt
+eae! ash  ee Bee aoe (ee Perranecenl ye [al Hleazuaituel aes eo ace Sasecnmusll
+ay       Begaseeee poueuceace Ba eeccenae a EIB EE Bee EEE LI Eee ea  ghee,
+His        GE) ate Beeeas come HAS Seeact ‘iZ  BEB EERE oe Ee ECErer it | EL bento     “a Eh
+catcm jacegesuae peee es  concer REECE corer DCerceE   SS Saale       ‘hes
+set ite He} eA Haeaeeme i Bere minaS at Su RHniriait Bia Bl i Es a =  ce apan tt       ;
+¥ Jase j aa ERUEEnD y Seeeee UoBmEegEBE aL. FER CEERE EE etd ea ee Sa   qi ie
+ee “s  eae. iB ea: soesceaas iE: Be Soe! SS EGICE  eat oa BEER ECE     ts ate
+ey     Bee ee leeecere   eae ELEREr ie I.        ed ema)
+\ TEAC ae a CEP eT BEES 1 Eo a   — SEeel SA AEL ee ce         cE
+H he ek a HH ioe See Eee cee PEEECR i SCP acer .  ane gS ac
+a eeity Ogrcceed! tt I: sere iestatass BCE —         ee .
+tata arccce am Sau mes ae: ECE re EGBEGG spe oc      Pes
+OED: nagueomena sebeieseteeotis cee SST eat
+ERS  So    ALLO
+Heressesetee  am ce ae ae sieve Ae
+PERE BEE Ea Ee EW     Loe.
+
+
+--- Page 39 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+The student concluded that her value for g was consistent with the accepted value.
+Comment on the student's conclusion. Your answer should include a calculation of g from
+the student's data.
+You may assume that the percentage uncertainty in your value of g is the same as if the
+value were calculated from just one pair of readings.
+(5)
+(Total for question = 5 marks)
+
+
+--- Page 40 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q41.
+A method to determine the wavelength of light using a converging lens was first proposed by
+Sir Isaac Newton.
+A converging lens is placed on a plane glass plate. The lens is illuminated from above with a
+parallel beam of monochromatic light, as shown.
+Some of the light is reflected from the upper surface of the lower glass plate and some from
+the lower surface of the lens. Interference between these two reflected waves produces
+circular fringes. The pattern is viewed through a microscope.
+mUCTOScOpe _i
+monochromatic                                JE
+~         i |. “=~ glass plate           NC ee he
+converging lens—
+glass plate ————_      - -                          Patter seen through
+Side view of apparatus                                                 mUICTOScOpe
+The diameter D of each circular fringe, numbered N from the centre, is measured using the
+microscope. The data obtained from such an experiment is shown.
+eam TO
+oe fem] |
+oe fom |]
+The relationship between WN and D is of the form D =pN*? where p and q are constants.
+Determine p and q for this data using a graphical method. Use the additional columns for
+your processed data.
+(8)
+
+
+--- Page 41 ---
+
+ooo ooo ooo ccocoo
+TTT TR A TILT ET Te eT
+SRR EEE Eee eee Ht ee
+CCC OOCOCCECII RO SS0CRCT ROSS SCEECR0CSS0EEERSSSGRCC0CEEROESCSSS CEEEE SSSSRCGCEFASG SSGCREEFRC
+CCCOOCOSCR TDS OCOCR CCDS OCOCTRCROSOSCTFTP SOC CCOCETROOS00 CERT COSSOSTTRS (SOCRerrE
+OOO 0SESCC 26 680CS ECR ORS EF SFHR SS SR6SFSS6GSSSS6GS35EGRGS GSEED 6SS6R6S55R38 SeSGEGRcrsSs
+O00 0SCS6F 26 680CS ECR 0SGSSEFSGR 5386635 3S9SSSGS6GSS55S0SGS GSEED 6SSSRGGS3538 SGSEGScrsSs
+LTT Te DIL TT TT AF AF CUT TT TT OT ODT
+TTT TA A
+BREE SECC CEE SEE SECC CE SSO
+CCCOAOOCAC OFT COAAAACRCCOORRACTACRORAACTCOOAAOCECCTRAAAARA CET TT OORRC EFC? RAACRErr mr
+MUU UU ILLUS LLL UL Jou
+CLL O00 ICL 0000000 L0000CI16D0080C1008030008LL1N03b00]0 GS5HSD 0000008550 S80CNcdSENe
+CL OO0OC CLO 0C DEL DOOODC DO DOOO0CL DOO O000CLLDO0000 CLL) 00000 CLD) 000CDCLEO
+Co JIC OQ0C IC OO OL | OOD 000CLLLIOOCOW CLL)        CLLWO000GLCLLOO
+CLL OO00C CLL DOOSCCDebDOoC0G DCDOCCSclLlOSe000G 000080 GErr                CLLD O00CLICLLOO
+ERE EEE Ee Eee      (TUT A A A OOOO EO I
+EERE BER      PENT Ta Te a TT ia    EERE
+ERE EEE ERR      (THT TA a a
+PERCE      ee ee ee eee HH    EERE
+CCC OOF RCC COA OAACR CCRC ECAR RACT TAA AACACCCRARAAA CErT CORREA RAACRArrAr
+SERRE EEE eee      Ce
+OOO 0SCSCC 26 680CS ECR 0SGSSEFSFR S566 G0SSS6GS35EGRSGS GSEED 6SS6RGS5R38 SeSEGRcrsSs
+OO 0SCS6F 26 680CS ECR 0SGSSEFSGR 538663539 GSSGS6GSS55S0G6 GSEED SSSR GS558 SeeEGScrsSs
+CCC OOCOCCECII RO SS0CRCT ROSS SCEECR0CSS0EEERSSSGRCC0CEEROESCSSS CEEEE SSSSRCGCEFASG SSGCREEFRC
+CCC OOCCCCECIIROSSSERCCROCCCCE EC ROCCE SSSCC0C0CEERAGS000 CEEEE SCSSGECGFFAS ISCCREEERC
+ERE EERE REE      (TTT TT DID CT TE eT OT
+BEER EERE Eee      COCO OE CC a GEA
+COCOA      COCCI oon A LTT TR TT Coco ia   EERE
+0000000000000 009000 0 0S 8 FS
+CCOOOCOScmcocna0      C0 D0 0RSECS636S66663S8SSSSS6EGHHS55500 GSEEF SSE SR GSSSe 00    an eee
+OOO 0RCR6C06800C SER 0RGSSEFSAR S566 39GSSGS6EGHS5550SS GSEED 6SS6GCS556 SSeEGRcrsSs
+CC OOOO0CRCC CRO O00C DEC D0C00ElIAARSSSH0CI5R0C0080CISNS0006 GETTH 66680005HHS t60EGSBCEEASG
+CLL O00 ICL 0000000 L0000CI16D0080C1008030008LL1N03b00]0 GS5HSD 0000008550 S80CNcdSENe
+CLD O000CDCLLDO0000 DOL D00C0CLDOD00C0CLIODB000000ID00000 CIEE 000000RNN0 000CD0LEDO
+Conor me neop9cnegenoeaecrneneaeAcr                 ConA               On0eRcsH0 9G
+COCO oC Coe      CCC     coo o5
+COC C00      CCC     COO coc
+
+TTT TA LIL                 EERE EEEEE               TERE Ree
+
+CLL ULI        CL       GOL UU
+
+OOO OCC TSaO      COC ROOT COR OOeT OO0000CR DRO 0000 GET SOOOOCR0 ObOCRa cere
+CCC OOCOCCECII RO SS0CRCFROCCCClEECE0CSS0EEERSSSRCCCEEROESCSSS CEEEE SSSSRCGCEFASG SSCCREEFRC
+CCCOOCOSC Her DOO SCR CC DS OCOCTRCROSOSCTEPSOCCCOCERROOS00 CITED SOSCCSTTRS (S0CRerrE
+OOO 0SCSCC 26 680CS ECR 0SGSS EF SR S356 GSSSS6GS35EGGRSS GSEED 6SS6RGS3538 SeeEGRcrsSs
+0000030898 03S3088SC3039688613888008CTTRSSG86 GETS 06S0EG0S508 teGGSgsrRG
+cocoons      COCCOACAACTACRACR ACCT RACCAOCGECCRAEARAAR FETT AAORRER Ar in    Pe eccoo
+ERE EEE ERR      CENT Ta A a a a
+COCA      CENT TA Te a I eT TT nn    EERE
+O00 0000000020000 0) 1 pS
+CCC OOOCOCRCCCARAOOCCDCCROOSOCCIRARCOSACrAMOCSOCCSOSI CI ROS0G08 CST COGSEC ESSN S60CRESrrS
+ee           a               CI O00O6 Ce) OOO             a
+OOO OSCSCrr36e           C7036 0CSESS0SSEEEE               730066 GEE 66SS5             HOSCGREEERS
+OOO OSCRCrr66e           C7368 SS0SSEEEr               730066 GEE 66SEE             HAC CGREEERS
+Coooeccoceerr oc         CT POCCOCE RAR O666ECTES             730066 GEE 6eSSS           ue   Corr
+LLL LULL ILL)      CLUDE LLC)        LLU LLL) OULD       OUULLILLI_LI)
+CCCOAenececccnad      POC OOOO0C OC OOOOOR CC manOO00CT I ROO080 CASE RAGGRCRTAA aAneacmerrme
+CC CCOOOOCE TOO ARERIA ERDF OOAIAR EECCA CC ORR ARE
+COC  RECO EEOeCCOIRS Se COE Eo See 6 09 COC
+ERE EEE Eee Eee   COLLIE O CLL OI Bug)
+CLL OO000C LCL W00000005D0000CINGDNS6000EHH5000000E55300086 CS533 6060G6GE030 6600503558
+OOO OCCT OO OOCD CCR OO OOCTRe OOO OC OO 0000 CRTRO0000 CERT SOOO OCSFDS SOO CReRIao
+O00 0SCSCC 20 680CS ECR 0SGSS EF SAR 5566635 36S0SSS6GSS5550SS GS5ED §SS6RGGS356 s8eEGScrsSs
+O00 0SCS6F 26 680CS ECR 0SGSSEFS5R 53656353 SS0SSGS6GSS5550SS GSEED 6SS6RGGS358 SeSEGScrsSs
+TTT Te TT DDI TT De TT ea)
+COCO Oe COC
+CCCOAOCAC OE COAAAACRCCOORRACTACRORAACTCOOAAOCECCTOAAAARA CET TT OORRC ET CAA RAACRErr mr
+COCO |   COCCI oon one LTT TR TT CoCo nO   EERE
+0000000000000 080090100 0S 8S
+7 OOOOSEREr eee    COCCROCSOCT cS OS00cCrs 00 OC 00 CPE PO0000 CETTE SSSSRCGCETASG SSCCREEFRC
+COCOOOOOCRCC COO OOCCDCCROOSSCCACHOOSCCrHMASCSCCGCS8CGSCTROG000 CSTD CSGS8C CFC th0CRerrnads
+OOO OC er ETO0      OOOO CO Ooocrrr                 a                                          a
+7000S CS6C 6S 80CSE2D0GSSEERCRES633SS5                 CSS                                          COSCGREEERS
+COO ACe      (TTT TT TT                BEER EERE                                        n7   EE ERE
+ERE EERE REE      PTT TAA TE A TT                 EERE EERE                                          CH TT
+CLL ULL   COLLIE LUULLL__J        LI                     GUULLILL_L_I_A_J
+2aS0 222 2 ee      CoOOORoCr Oc oAnAAcr
+
+EEC CE ECC Co ei be 8
+Cr ICL JOO ICL OO      iO              CLL 00000 CLLLO 000CDdIDo
+CLL OOO _OJ000C DOL D000 D008R113003800              CLL O00000LLW0 000CDdILDo
+CLLDO000CDCLLDO0000DOLD00C0CLDOD00C0CLONB000000IDN00000 CIID 000000ONN0 000CD0LEDO
+Co OOOOCDIICLLO O00 CDCl DOCCOCLDNCDOO0CchO00000CLED00000 GEE COCO GhDe 0OOGDaHDa
+ERE EERE REE      (TTT TT DDO TT CET TO ODOT
+BEER EERE Ree      COCO OSE CC a GEA
+COCO      COCCI oon DA LTT TR TT CoCo nO   EERE
+ee
+COCOA Acco      COC ROOGRF TCE OCR OOGR AGERE RRA CEST AER Rercme n7    eee
+O00 0000000000000 0 8 SS
+CCoOoceSsSecr0      COC ROCOSCE DC RS000EEERCCCOSSCETESSGS0 CEE SSEEEGCEERE 00    Corr
+O00 0SCS6C 50 880C SECS 0SGSSEFSAR 55656353 SSSS6S6GH355S0SS GEEED SSSR GSS S8SEGScrsSs
+CCCOOOOOCRCCCOOOOOCDCCDOOS0CCRCAOOSCCrHMOS6SCCSOCCTROS80G00 CSTTF COOSCCFCN0 S60CHRESrAS
+OOO OCCT oO      OOOO CeO Ooocrr                 CET OOO Oo               SOOO OCI OOOCDCErIEa
+ERR EERE REE      (TNT TT TT TT                 EERE EEEEE               PE TT TOILE TT
+ERE EEE Eee Eee      PTT TA ET                ERE EEEEE               TEER ERE ee eee
+ERE EERE REE      PTT Ta ET                ERE EERE               IEEE Cor HT EE
+SERRE EEE BEER   CUILLOIUULUIL LLU        LI       COLL EJUUWULILIL
+CLL O00 O000C LCL W0000GLNED08B0GHD06800080EGL5L000000                Q00000GL0D0 000GD0LEN0
+Cr JOC JO00CICL JOC OL OO Q000!              CLL O000LOLLOWO 000CDdLLDo
+CLO ICL_LO000C WEL DOOO0CINoD008BEHIIDat      iO              CLL 00000 CLILWO0 000CDdLDe
+CII I Q00CLICL O00 JOO0OD0CLLL OO)                     OO000CICLLOo
+CLL OOO00CLICLLOOO00CDCIDOOC0CLDED6e0n0EEHDoS6G0060EGE5500080               CLLO0 000CDCLLD0
+COORG el RneAACrReRAAARAerTRARAAReaGErRAARAAR COR apeAmeAtAn eaacncrarnP
+TTT TA A I TE
+COCO oni i COCCI AA OI nl OI LT TTR TT Poon no ERR Eee
+COCCI EE ES SA nS
+CCCOOCDOC CCC OOD COICO ODODE OCC OOOO ODDIE OOOO COCO OOOO E CED CODE
+O00 0SCS6550880C SECS 0SGSSEFSAR 536563536 SSS6S6GH35550SS GEEED SSSR G35 SASGEGRcrsSE
+COCO OSCOCRos55 a 00) OFS
+OO 0RCR6C06880C SECS 0SGSSEFSHR S366 3SSSSGS6EGSS5550SS GSEED 6SS6GGS5F68 SSGEGScrsSs
+Clooeececnerrmcs COCR CE ROCCE ECR S000CEERCCCOSSCETERSSG00 CEEER SSEE#EGCEERE ue OFFERS
+PTTL UU ILL UU LL LOU ILL LU UL
+
+
+--- Page 42 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q42.
+A spring is made from loops of thick steel wire as shown.
+There are two extra loops, one on each end of the spring.
+The student measured the diameter d of the steel wire and obtained a value of 2.52 mm.
+(i) Explain which instrument he used to measure the diameter.
+(2)
+(ii) Estimate the percentage uncertainty in the student's value for d.
+(1)
+Yo UNC! TAINLY IN = oe eeeecccceceeeeeeeeeaeeeeeeeseaeeeeeeeeeeeeeeeeeas
+(iii) The student used a balance to measure the mass m of the spring.
+He obtained a value of 32.0 + 0.5g.
+Estimate the percentage uncertainty in the mass of the spring.
+(1)
+Yo UNC!FTAINAY 1 111 = oo eee ec ceeccce cece eeeeeeeeeeeeeeeeaeeeeeessaeaeeeeseaeess
+(iv) The student calculated the density o of the steel using the equation
+Calculate the percentage uncertainty in his value for the density of steel.
+(1)
+% uncertainty in value for density of Steel = ....... ec ccceceeeeceeeeeceeeeseeeeseeeessaeeeeaes
+
+
+--- Page 43 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+(v) Determine whether the data collected leads to a value for the density of steel in
+agreement with the standard value.
+
+density of steel = 7 800 kg m™?
+(4)
+(Total for question = 9 marks)
+Q43.
+A mobile phone is powered by a lithium-ion battery. The information shown is taken from the
+battery.
+651W h
+(i) The watt-hour (W h) is an alternative unit for energy.
+Show that the maximum energy that can be stored by the battery is about 25kJ. 1 Wh =
+3600J
+(1)
+(ii) Calculate the maximum charge that the battery can provide.
+(2)
+Ma€axXiIMUM Charge = .........ccceeccseeecceeeeeceeeeseeeeseeeaeeeeeaeeessaees
+
+
+--- Page 44 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+(iii) The mobile phone 'runs out of charge’.
+Calculate the minimum time taken, in hours, for the battery to fully recharge.
+charging current = 0.90 A
+(3)
+MINIMUM TIME = 1.00... cece ecc cece ceeeceeeeseeseeeseeeeseeesseeeseees MOULS
+(Total for question = 6 marks)
+Q44,
+A series of experiments was carried out in the 1970s to investigate the structure of protons
+using the linac at Stanford, USA.
+An electron leaves the accelerator with a momentum of 20 GeV /c.
+(i) Explain, with reference to base units, why GeV / c can be used as a unit of momentum.
+(2)
+(ii) An electron with initial momentum 20 GeV / c collides with a stationary proton. After the
+collision the electron is deflected by an angle of 20° as shown and its momentum is 9.1 GeV
+/c. The momentum of the proton after the collision is 11.9 GeV/c.
+initial direction                       ;  —
+of electron             a 120°
+Sa / ------4----------
+proton’
+Deduce whether the law of conservation of momentum is obeyed.
+(3)
+
+
+--- Page 45 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+(iii) The collisions between electrons and the protons in these experiments are sometimes
+inelastic.
+
+State what is meant by an inelastic collision.
+(1)
+
+(Total for question = 6 marks)
+Q45.
+A student modelled the behaviour of a circuit containing a cell of emf 1.5 V with internal
+resistance 3.0 Q, using a spreadsheet. In this model the cell is connected across a resistor.
+The student used the model to investigate how the power P dissipated by the resistor varies
+with its resistance R.
+
+ Current A] P SW
+
+The student concluded that the power dissipated by the resistor is a maximum when R is
+between 2.5 QO and 3.5Q.
+
+
+--- Page 46 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Explain how this spreadsheet could be improved so that this maximum can be located more
+precisely.
+
+(2)
+(Total for question = 2 marks)
+Q46.
+A teacher is demonstrating how to measure the speed of sound in a steel rod. The
+equipment comprises a hanging steel rod and a hammer connected to a data logger as
+shown.
+jobber band pr wt fee |
+pupecyemecge wet | a  on  yo 4 | = .  -  |   an : u ie Ea es A
+‘Steelrods "| he  eR    | im Sad Sa ph    eo ae
+sein 3     eS ae
+The rod is tapped at A with the hammer. A compression pulse travels to B and is reflected
+back. When the reflection reaches A the hammer loses contact with the rod.
+Whilst the hammer is in contact with the rod the output from a 5 V supply is recorded by the
+data logger.
+
+
+--- Page 47 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+The graph shows the output from the data logger for one hammer tap.
+6.0 -FaSa           (yj jf fo            Pf pt          (yy jf yy
+Le
+§ (COCO 00000 00000CCEED 00 OOOODCLLOOIODODDODO0RRILoo
+=    RSESEIHECEris ieee seis poidesdtavezcaitoitent
+2.9 FEEEBEEEEREEEEEEEEE EEE GE
+=    ESSERE EERE JOOOOODE! soaaatesseseaeeeeest
+ ,» HBSHESHESEH HES HEHESGuEHEHESe
+cop SHEE EEGREEG EEE SE EE
+B    Eee ee His poidosdtasezsaitoitent
+So BGP HEE Saree ee AEE eeecereb erates
+Bp issesisessccisesstecistsicsineetesistsscsiitsies
+0.0 COCO oe ARE PEERS SOC 00 DSSS oe eer
+)         500       1Oo0       1500       2000      2500
+time / ws
+Explain why a data logger is appropriate for this demonstration.
+(2)
+(Total for question = 2 marks)
+Q47.
+A student carried out an experiment to determine the resistivity of nichrome wire.
+He used an ohmmeter to measure the resistance of a length of nichrome wire as shown.
+The diameter of the wire was measured as 0.27 mm + 0.01 mm.
+The length of the wire was measured as 1.25 m + 0.05 m.
+
+
+--- Page 48 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Determine which of the three measurements introduces the greatest uncertainty into the
+value for the resistivity.
+
+Your answer should include calculations.
+(4)
+(Total for question = 4 marks)
+Q48.
+Which of the following is the SI base unit for the Planck constant?
+fl A Nm's*
+a    Nms
+El C kgm?s”
+Fl    kgm?s
+(Total for question = 1 mark)
+
+
+--- Page 49 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q49.
+A student carried out an experiment to investigate the current-potential difference
+characteristics of a diode using the circuit below.
+He plotted the graph of potential difference V on the y-axis against the corresponding current
+/ on the x-axis.
+Which graph would be obtained by the student?
+(1)
+ A  /   /
+J
+¥
+ D      |
+(Total for question = 1 mark)
+
+
+--- Page 50 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q50.
+In an investigation to determine the speed of sound in air, a student sets up an oscilloscope
+to display the waveform of a sound wave as shown.
+Aas ee
+HE 4-H
+The timebase is set to 25 us / division.
+The student sets the timebase on the oscilloscope to a lower value per division.
+Describe any changes to the appearance of the waveform on the screen.
+(1)
+(Total for question = 1 mark)
+
+
+--- Page 51 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Mark Scheme — Working as a Physicist
+Q1.
+Question                       |       Ld A                                 A digioaal (aridagce:        ir
+a                          Acceptable Answer                        Additional Guidance      Mark
+Number
+a Ba
+Q2.
+Question.          Answer                                                                                         Iiark:
+Wuaber
+a Fo
+Q3.
+iresiioa,       Amer                                                                                        lack
+Number
+Incorrect Amswrers:
+A — correct waits but J and € are not base wots
+B—cormect units but J 1s mot a base unit
+CC —cerrect units but € is mot a base wot
+Q4.
+Question     Answer                                                                                         Mark
+Numiber
+Incorrect Answers:
+A— Coulombs 15 not an SI base unit
+B — Incorrect, a3 the wit for charge m SI base umits is As
+C—Js" is not in SI base units
+Q5.
+Number              _        _                           Answer                                              Mark
+Incorrect Answers:
+A —(2 is not a base wnt
+B — ¥ as not a base wmit
+LD — © as not a base wi
+
+
+--- Page 52 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q6.
+Question       Answer                                 Additional Guidance                              Mark
+Number
+D is the only                          A is incorrect because coulombs is a
+ is incorrect because joules is a
+derived wnit
+iC 1s incorrect because newtons is a derrved
+unit and kilograms ig a base unit
+Q7.
+Cmestion | Amearer                                                                                                    Iwhark
+Tnoorrect Ams mers:
+A energy is a derived quantity
+(speed is a derived quantity
+D velocity isa derived quantity
+Q8.
+Questiom   fee =P table                                    Additional gumlance                                    Ila
+Number      answer
+AL           The only correct answer is A because areal image is produced at a disiamoe of
+30 com trom the lens
+B is not the correct answer because the object distance is less than the focal
+length so the image 2s virial,
+Cis not the correct answer because diverging lenses produce vitivel images
+with real objects
+Dis not the comect answer because diverging lenses produce virtual images                 .
+with real objects                                                                                                                                   I
+
+
+--- Page 53 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q9.
+ri)            An explanation that makes reference to
+the following powuts:
+o The imtercept represents the          qd)
+temperature of the aw atwhich the ~~
+volume occupied would be zero               (a)
+o This 1s the absolute zero (of
+temperature)
+;              .                  () | Per MPS accept atomes/molecules       34
+0 Absolute zero 1s the lowest                                   stop moving
+attainable temperaime                           |         -
+(Cr absolute zero 1s. the:
+temperature at which the
+atomemolecules of the gas hawe
+Gi)           MLAS at
+Resolutiom:
+® Tita comect that uorertmties.
+would be reduced by using high            a
+Tesolution mstments
+o But the instnuments are mot hogh      (1)
+resolution
+o There could be asystematic enmor (1)
+(imi the measurements)
+(srapli:
+oe The poids do not le on a pertect                                                      |
+straglit line                                                                                                                                                           4
+(Or the te relationship may mot            (ly
+o Temperature mienept may notbe (I)
+accliate
+(Or there may be extrapolation.
+o Wore poms are needed Or a         (1)
+wider ramze 1s needed.
+
+
+--- Page 54 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Qi0.
+                                       Acceptable Answer                                 Additional Guidance
+« Time anuriber of (complete) oscillations                Allerni:
+and divule this time by the munaber of               (1) | MPi2Use a light gate with a data
+(complete) oscillations                                                logger
+« This increases the total tume recorded               a    Or video oscillation and play back
+‘Or this reduces the effect of                           “frame by frame
+MPI)   me (Dependent on                           _,, | MP2: this reduces the effect of
+oe                                                    (1) | reaction time (Dependent an
+* Time trom the midd-pomt of the oxcillation                 KP 1)
+« se amarker to identity the mid-poait of the    a)
+oscillation,                                             | MIPS: accept equilibrmam point for
+Or pendulum is travelling fastest at the mid- (1)      mid-point
+oat
+« Each method reduces the (percentage)
+uncertainty (in the value toc 1)
+MES: can’t be awarded on its
+OurL
+Qii.
+Cimestion         ee                                          oa aele     ey ws
+                         Acceptable Answer                               Additional Guidance             7
+(a)                    * Wear satety glasses (to protect eyes from breaking wire}
+‘Or wear suitable footwear (te protect feet from falling
+‘Or place sand tray under masses (to catch if they
+                                               Acceptable Answer                                              Additional Cuidance                                                                     a
+cy              o A= 2 eubstitated into w = fA                      gy | Pa faedA=2beow= afb
+            ;                 ra                                     fli      P=  i ag dfers — E
+e wvesubstinted ito v — iP                             GQ) v    | we ape    a
+« Correct re-amangement into y— nex +e format (1)     Bs (=) “Fe 20 gradient ae
+(a)                                               re           Gra dent  Ft alemilated                                                                             (l j                                                                             Exanople  oo calculation
+ee                    “                         ,             (004s —0}m?                   —
+* Use od gradvemt ane                     (lh                      oradient — ——_@ ___. — 3,87 « 10° ms
+”              a               Gratieat   (1S50—-O0)% ios” a7 x 10"m"s
+« SIG cometent wit ther             (ly                       Av 287 «102% mets—2
+calculated value od pu (24 amg)                                                               ae-179em
+
+
+--- Page 55 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q12.
+Mumher                                           Acceptable Answer                                      Additional Guidance:
+iia                An explanation that makes reference to the following pois:         Aceept: use richet to close wp micnometer
+Enther                                                                                                       toavood squashing the ware
+« Take readings im ditterent posiions/‘onentaiens aleme the
+wire: (amd calculate a mean)
+* As wire diameter may mot be mmiorm                 i)      LAP? accept cross section for clhamefer
+oF                                                                                                             MPS: accept to reduce the ettect of tandem emer
+@ (Check (and comect fit) for sero                 (1)
+« Zero amor reduces the accuracy ofthe measurement 1      a
+‘Ov Zero emor moves the value anay from the ime value       MiP? accept systematic emer not changed by repeat | 3
+Q13.
+Question aq. a                                     a ae       mae                   —
+Q a                     Acceptable Auswer                            Acthittowall ulamce            Mark
+Number
+An explanation that makes reference
+to the following pois:
+o §6High precision means a souall                    Credit MP1/MP? if the explanation
+spread of values                                      (1) | of igh accuracw precision 1s made
+® High accuracy means close to                  a reference toa relevant part of
+4                               ne ciacram
+the time value                                (a)               agra
+Aavy TWO tron:
+o Ads precise but mot accurate
+(as there 1s a small spread but
+displaced from the centre of
+the target)                                      (1)
+® Bas both accurate and precise
+(as there 1s a small spread
+centred on the target)                              (1)
+® iC as nether accurate mor
+precise (as there is a large
+spread displaced trom the
+centre of the target)                                 (1)
+® Das accurate but not precise
+(as there 1s a moderate spread                                                                                                                 4
+centred. on the target)                              dy                                                                                                   i.
+
+
+--- Page 56 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q714.
+Queshion                           .                                             a on peas        aes                  .
+ae                       Acceptable Answer                      Additional Guidance      Ml aorlk
+Number
+o Accuracy relates to how close the measurementis | This refers to dogital, dial or
+to the ime value (1) OR accuracy depends on the | vermer callipers but at
+way i which the measurement is made (1)               reference to a compass style
+°® Callipers reduce random‘measurement errors im        callipers MP2 would become:
+determining the value, grving alower uncertainty | The callipers would reduce
+in the measurement than that for a metre rule (1)       parallax errors due to
+o so scientist B has not made a more accurate             movement and WIP 3
+measurement he has made a measurement with         becomes a mare accurate               a
+lower uncertainty (1)                                                 measurement because it 1s
+closer to a true value
+Q15.
+Question                   Acceptable Answer                      Additional Guidamce | Mark
+o Accuracy is (A measure of)
+how close a                                 (1)
+measured(calculated value as to
+the true value
+o Precision 1s (@ measure of) the            (1)
+consistency of values abtamed                  |
+by repeated measurements
+
+
+--- Page 57 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Qi6.
+Question                   an. k                                       ays      ee
+                     Acceptable Answer                                                   Additional Guidance
+i(i)              An explanation that makes reference to the
+followings pomts:
+o Shows expansionIn{¥)—InfV,)—be (1)
+fe      s    "o
+° Conipares with y= sor c andl              (1)                                                               3
+shows that mais [ho                               :
+Question                   an. &                                       ays      rang
+                     Acceptable Answer                                                   Additional Guidance
+(m)               La values correct and to 2 of    (1)
+Ag      "    ‘                              Mh,  -              ,                         cate g              cate g
+* 3 decimal places               |  in(hvyy) | (hy
+* Line of best fit                     (TD           —             =            —
+iui)                 «  Gradient determined Wsite       0) | MP?- unit can be EO!
+laree triangle
+* bmrange (0.026 + 0.028)     (1)    Rxample of calculation:
+°C! to 2 or 3 sf wath umit        |
+« Inverse In of intercept        (a           (3.04 — 0.35)     O02? oG—a
+determined                  “* |gradient =   ;        |
+_      a     say     ;             (0 — 100)
+* Foam range (19 > 22) ¥      (I)
+FRa= ee" V = 20.1 V
+Ee Ue dete es emcee ae eevee ce Eecee a ecteneeTE ECE
+a i a i  ame ele te ete = eel a    i
+En REUENEeeecese tatoo esas eee reat Seer eae eT EeTESrset ie  eIEReEnISEE Scene
+SEES IE SSS BSE SHEE RIE HCC EE ae HIRES Se FIGS CSI SSe Se Sse Ge Sse ESS STe Sage Rac eee He tie rie bec hee
+ee ee ce ce meee stcaes Hescneasee
+ae Hae eS : ecu te Beeet  Settee
+EEC EFSF AIC Sch FF cicir  [a a Cf
+PRN soe raeasgheee  oecenstaeceas te catsusrs Sass ttt: \cteess snes cetnensetccet teeeseretesacacertesscersts
+gestssar ieee feseronceastsecssetetssaisccttccesicrsasfessertesstaverettecesieterarsceeioeittars
+la (FIV)       a
+POI cece oe ve 2e eceede 0 cece ea eege tetera cere cueceqeeteseece ge eeede4cceececctedetetsee;ee te ceeade da
+cE EE ECEE EERE  sce ae EERE thee : cel FEESELEEEEEESE Peele oboe eet ee ecE EEE eee Ee cEEEPEE
+Se ee
+ESSE ee eee eee ecE reese CrP erCeeeeee CECH aPPeeECeE ses
+og EEEERRREEE EERE EERE AEA eS A Eee pe ee eee Pe eee eee eee ee EP
+ih       Lc      oh      30      “i      Si)      a      70      #0      oO      Loo
+
+
+--- Page 58 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q17.
+                            Acceptable answers                                     Additional guidance
+number
+An explanation that makes reference to the
+following pouuts:
+© Light gates can record short times accurately (1)
+OR with smaller uncertainty (1)
+° Because human reaction time is not mvolved (1)                                                      z
+Q18.
+Question            hoceartalile. A-neasren:                    A ditianal Catdance          WiTeccclle
+Number                     Acceptable Answer                                   Additional Guidance                  Mark
+@             « discards value for J;             (ly
+° L,=85.7 (em)                (1) | MP2: anewer to 1 dip. only                    4
+Example of calculation
+. SRS+860+85.5 _
+a)             gm an ft            (1) | ECF ftom (i)
+o UseofT = 2m lz                 MP2: accept P= 19s
+o T=1.86s5                     (ly |      om ew wm
+()    Example of calculatzon                                  2
+P= an [—
+Ao
+Q19.
+                              Acceptable Amsmver            Aulclitional (suidanoce                                                                   pC
+@          «© Meantime calculated (1)           Cred individual velocities and then mean velocity bem
+_                                 calculated
+e Dseofs — ut         (ly
+acum elk                Example of calenlatiom                             3
+e w=O059 ims“)      (1)                 oe    7       ee                            “
+.                 64046354 68364+638)s _
+fey == 6.37 s
+f= —— = 3.92 &~ 10-* met
+tt    B47 <    3.92 #10" mea
+(ii)              fee cif ap a 287s)         (1) Show that value gives 10.5 Pa
+“eee il       ay                  10.7 Fas if 0.0392 ms! wed
+@ = 1 (Pas), 20 itis honey A  (1)| Atiow eef fiom ()                                          5
+Example of calculation
+_ 2x (50x 10") x 81 ms & (F750 — 1360) ke?
+a                               9x35 102 ms
+~iq?= 108 Pas
+
+
+--- Page 59 ---
+
+Working as a Physicist                                                                                                                            PhysicsAndMaths Tutor.com
+Q20.
+                                 Acceptable Answer                                      Additional Guidance
+« Heshonuld have moved the microphone over more        Alternative:
+inphase positions (ho determine multyple              W     MP1- move microphone
+wavelengths })                                        “| betargzen atutiuphase
+positions                                   a
+. This would reduce the uncertainty im the value (for       MP2: a8 IL 18 Caster to
+dd) (dependent wpon MP1)                                     im     judge when WAVES are in
+         antiphase (peal
+corresponds to a trough)
+Q21.
+                             Acceptable Answers                                                           Additional cuidamee
+o «(Comment that a straight line graph
+throveh the origin (up to 5M) is                  _.
+consistent with Hoolkes lay JF ec x                      (1)
+° «(Comment that indicates that the
+ extended length 400 imi is not                   ra
+covered by the student's results                              (1)
+o Useof AR, ==FAx and F = kAx                       Example of calculation
+sith Ae = 0 4m                                   E=21+ 1.05 =19.95—-
+oO;                                                    22.05 N ov!
+extrapolated readings from graph                     (1) | o4m=8.0N
+o Candidate's calculated energy value            1)     AF) (max) = : sf B00 Mx
+compared with 1.6 J amd valid                     (1)      D4m=-146]_
+conclusion sven                                                       wees
+Fither
+os Use of SoU to determune the range
+ind (manufacturers)                                                   (1)
+° «(Comparison of values for £ with
+comclusion comsistent with                         _
+cancidates calculated value                           (1)
+(or
+* Calculates % ditference between
+candidate's calculated value for #                  (1)
+o Comparison of calculated Yo
+ditterence with 5%. ane) conclusion         (1)
+mace                                                           we
+
+
+--- Page 60 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q22.
+Question                           Acceptable Answers                                                        Additional cunlamce                          Tlaork:
+Aumlber
+(ay         « Sound travels as a loneriucinal
+Wane                             ah
+Or ina series of compressions and                  Accept: Direction of enensy transter Or
+rarefaction                                                                           propagation of the wave On disection                    3
+e With oscillations vibrations of fair) UW)  of wave travel motion
+particles/molecules parallel to the
+direction of enerey transter
+Question                           Acceptable Amswers                                                        Additional 2uilamce                          Tilak:
+umole
+(iy     @ he lea that there as a wile       iQ                             1
+variation in the first taro readiness
+Ouestiom                 Acceptable Amswrers                                                      Additional guidance                                  Tilak:
+umole
+(by)                                                                                             Esamole of Calculation
+& yseg Balftherangeofvaluce      (i) | SEx@Sie 0455) . 100% = 85%
+mean value                                                                        OA? 2:
+e  qweareeaeae: iaeeataisaiee — i Se  ql)        a o4 a    ;        ranreofwaluee pa mr      z
+® percentage uncertamiy= 6.5%    Acoept calculations based om  —— (1¥%)
+                      mean value  ~*    .
+Question                     Acceptable Amswers                                                          Alditional cuidamce                                 Tilak:
+umole
+(ya)      ° attemnt to calculate Av        (1) | Example of Calculation
+160m 160m   7Aras!
+—__ —- —— = ims
+i4os 4a s
+Use of 80 mi LAv =3.7) soores MP1 only
+Question                           Acceptable Answers                                                        Additional cunlamce                          Tlaork:
+umole
+(byfiv) | Max 2:                                                                                      Do not accept take readmes aver mone
+® insuiticient number of results        (1) | days
+® identines one other varnabletotake (1)             ,    _     ae
+inte account                                                    (1) | MP? examplessaind speed direction,
+e diiterence (in for v) could be due to            humuchty, air pressure
+human reaction times                                    (1) | MP3 do not crecht human error
+® weertamnty imcesults may account                                                2
+for the difterence
+
+
+--- Page 61 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q23.
+Number             Acceptable answers                          Additional guidance                Mark
+;         .      -       .         .   .                        nied   ==_---_-_=-__-__-_-_-___=-___-____-_-___-__-__-_-—:
+force tor weight)                               = 4   Sau EEscuyeG EHEESNSEEEEEEEESREEEEEEIEEE
+—                                                pie === 222522: ===2===222===2=222= 22222222         =
+Scales                               (1)           7   =        =)
+.   |                                                fa pee S SSeS  SE SSSE SSS ESSSS==S5=S55=5===5===
+Plots                                 (l)             0.0      OS      Lo      LS      2.0
+Line of best fit                                    (1)                                    Compression | co
+        eee ny aa ara rap oF werght Beans
+               compression. Units may be im mor cm for
+               compression. Allow paper to be landscape
+              MPS: scales only im 1_2,4,5 acd momst cover at
+                     |
+10.00           MP4: a? mm square tolerance, check all poimts
+Question                       Acceptable answers                                              Additional guidance                            Mark
+Number          Acceptable answers                    Additional guidames             IMar'
+(aj) | © States that best fit line is         (1) | plunger position plotted i (ajia) then only
+through the origin                                           MP? may be awarded for attempt at gradient
+e $o it fits Hooke’s law because   ay
+extension 1s proportional to      =
+force                                                                  MIPS: values selected trom at least half way
+                                           alone line or a triangle using over half the lime is
+e Uses comesponding values      (1) | used
+from best fit hne from (a)() to                                                                                                                                                     4
+determine gradient                               MP4: conditional on MIPS and allow any value
+)                                          that rounds to 1 sfas 600
+e Spnag consiant= 100M /        n
+which, 1 sf, is the stated
+AMSET |
+Question        Acceptable answers                    Additional guidance               Wark
+Number          ACCS MIE as wers                        A a, Ae                  cE
+(hy        e Use of AP= bar          (1) | Example of calculation
+o» UseofARs=% FAx      () | AF =f = 6101 of! = 0.054 m=33.944
+:   AR = Yo PAs = 9 x 3294 = 0054   O90 J
+© Use of k=‘ nn"        CD | = an? 50 0.907 = % x (0.0041 + 0.0354) kg x ¥
+-        v=i75 me!
+
+
+--- Page 62 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Questo           Accentable answers                      Addttanal auidanc              Teralle
+Number                           Acceptable answers                                                     Aulditional ouidamce                                 Wark
+
+tc)                     Work may be done agamst
+friction (by the spruelmarble)
+‘Or EE 1 gamed by the eprng
+Or GPE gamed by the piston
+amd marble
+‘Or the light gate must be above                                                                                                                        |
+the launch position so the                                                                                                                                               1
+marble 1s already acceleratme
+downmands
+‘Or statement of friction
+between tio specified parts im          |
+launch system                                       )
+Q24.
+a                             Acceptable Answer                          Additional Guidance      Mark
+Number                      :
+I =
+Q25.
+Question     Answer                                                                   Mark
+Number
+D — derived. unit
+Incorrect Answers:
+A—not a base quantiby
+B — not a base wnit
+C— not a derived quantity
+Q26.
+                  Acceptable answers                                                                  Additional cuidance                        Walaak
+The only correct answer is A                                           BC and 0) are not base unats
+AlMpere
+ue                                                          1
+
+
+--- Page 63 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q27.
+Onestiom           |   _              a qu ge om ge         oe
+me 4             Acceptable Answer           Additional Guidamce      Wark.
+Numiler              |
+D kemse*
+Q28.
+Question            oa               a tae    .        a.
+a oe          Acceptable answers        Additional guiclance     Wark
+Numer                                      |
+The only correct answer is A.                                                     ke m s*                                                        I
+EB is nat correct because thease are base
+nits of force
+iC is not correct Dacause there are mot
+base wits
+ID is net correct because fhese are mot
+base units
+Q29.
+(hestiom.                          Acceptable Amswers                                        Aulchitonal guidance               Wark
+Number
+Max 1                                                               (1)
+® Develops new technologies
+o Develops altemative emery sources
+o Raises public awareness
+® Secures fundime tor other projects                          I
+Question                          Acceptable Amswers                                                       Additional guidance                       Mark
+Number
+e (The longer the wine) the
+larger the extension (for a                        (ly
+miven force)             .
+® (50) smaller percentage     (1)                 ,
+Uncertainty (10 measurement                                                                                                                             a
+of extension)
+
+
+--- Page 64 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q31.
+Cnestion         ;     a    &                           a Uae   a gm                   a
+               Acceptahle Answer                                          Additional Guidance                             Mark
+ee ems       ~ los     MOOS em
+e Use of half resolution,  (| uncertainty ine Siem t= 0.10 %
+to calculate %4         @                   ti CT
+mcertainty           “                     qe
+oy      : ot TP         Oh Uncertainty in ae 08 8 00 By = 29 Sy
+oe Sb uncentamty mo P= 3   a)   ~         eee 1 - ge
+xs Uncentaimty im Fr    “—
+© Yuncertainty inp —qy ‘| % UROettainty inp = G x 0.1%) + 0.29% = 0.59%
+(Mo MOCerhaaniay im ree +            :                                     .
+4 uncertainty iF)     “| Range = +Tp0 * 2580 kem-* = 415.5 ke m—*
+e Use of % uncertainty
+to calculate upper      | Density range = 2565 = 2596 ke
+value or density                    (I)
+® Upper value of density
+2596 (kg mi)
+(2616 (kg mi) if
+“show that” valwe
+e Glass is in the range
+and Quartz ism't, so at
+flay aot be genuine
+Allow use of half resolution in,
+either ror mv to calculate
+minimum band maim we
+and then. calculate maximum p
+for WEP] — hai
+RCP ton (a)
+
+
+--- Page 65 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q32.
+Question       Answer                                                     Additional Guidance          Mark
+Number
+                                                                               3
+(i) |e Calculation of mean            (1)      Example of calculation
+o Use of half range Or nvaximum (1)    Fi   (1.404+1.4441.424+1.41) mm
+difference from the mean          a           4
+_       a    a                    =1,47 mm
+o so uncertainty = 1.4%       qd)           |
+ou  (1.44 — 1.40) mm/2  100%
+ML = —-@$AjA
+142 mim
+(ii)         o Useot A = nr*             ro      Example of calculation                       3
+. Tee at po!              og                             a \2
+o Useork =             (1)              (1.42 x 10m)"
+o p=6.9x 10 a (£2 mi), so   (i      a=t |       2
+wire 1s made                                   168 x 10-8 m2
+trom stainless steel
+0.72 0% 1.58 « 10~° m*
+a FS
+:                   LS 11
+69x 10-7 Gm
+Q33.
+Question               Acrambalnle, armeesere                      Adi@itional euidauce          Ai llaul:
+                                 Acceptable answers                                                     Additional euidance                       Hla le
+® (Vener) callipers Or travelling
+microscope Or micrometer                             (1)
+® Measure diameter in dutterent places. andl           (1)
+calculate mean                                                                      y
+
+
+--- Page 66 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q34.
+is ig fa ii,                          j        a a     4                                             ra ee        ay om                              '
+                           Acceptable Answer                                         Additional Guidance
+Number
+MAX3                                                                                        3
+® Voltmeter must measure                                    Accept “voltmeter readme would
+altematmg pds                                               (1) | change too fast to measure”
+Or voltmeter would mdicate zero a)
+DoT A.C.                                        “
+o AUC. voltmeter would give an.
+tos. pid. directly
+e WVWoltmeter may draw current andl     (1)
+attect the circuit itwas  comnected
+‘Or oscilloscope would have little          .
+effect on the camcuit it was
+commected to                                                       (1)
+° Accuracy would depend upon the
+calibration ot the woltmeter
+® A (dietal) voltmeter would give
+better resalution than          MGASUTINE
+trace hereht on an oscilloscope.
+: west "                                            Acceptable Answer                                                       Additional (snidance                  Miark
+una ler                             *
+e Data not recorded to the same siidp               (Ty
+° Positions of mass holder not recorded                (1)
+z
+
+
+--- Page 67 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q36.
+Question                                          Acceptable answers                                                       Aulditional guidance                    Mark
+Number                                                =
+lage 3
+e The timeis too shortto be measured byastop
+watch Or there 1s. reaction time.                                (I)
+e Another variable could have been controlled  ()   MEP? need to specity a variable ez.
+aa:     |     |              current or pd.
+e Repeats should have been taken and a mean    n             7
+calculated                                                 (1)
+® Identities that there is an anomaly (at about 5
+W) that has not been cheched/tepeated                    (I)
+e Smaller weight mtervals (around 6 MN) to       ;
+identity the mascinum,                                              (I)
+Or plotitake more data pounts around 6 N.
+® Donthnow where the maxinumissocan't (1)                             5
+make a. judeement that there 1s a macim00£«1£                                                                            -
+efiiciency at 6 6
+® The conclusion ignores the decline atter6.N ql)
+(so 1s imcomplete)
+Q37.
+Question      Answer                                                      Additional | Mark
+Number                                                                      Guidance
+o Comparison with y= mx+e                (1)    f
+o Gradient is 1/f and constant [allow reference ()              1       ,
+to m for “gradient |                                    TAL = fo —1
+Q38.
+Quest mt                                                                                               Additional (uidamce                Tifark:
+uma ler
+e An erroris the difference between the    (1)  Accept calculated (thei for measured
+(measured) result. and the tue value        "| result'walwe
+Accept theoreticallactual value for
+e An uncertamty is the interval/range im    a)  tme value
+which the (tre) value can be         _
+consmlered to lie                                                                  Z
+
+
+--- Page 68 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q39.
+Question      |                                                                                                      ae
+nn     Amswer                                                                            Mark
+Number
+C 201%
+Incorrect Answers:
+A—the calculation has not been multiplied by 100 to give the % uncertamty
+_ 2           a       .                       aa       4 gas
+B— the uncertaimty in mm has not been converted to cm and the calculation
+has not been multiphed by 100 1e2>= 0.01
+D — the uncertainty im mum has not been converted to cm 12. a 100 = 1
+Q40.
+Question     _                                   Uatet et ote                  _
+                   Acceptable answers                               Additional uitdamce              NMark
+« calculation of gradient of the graph       ty |.        gg
+-            -                  MP2: use of ——
+« Useofs—= “af to obtain value for g    (ly           grathemt
+» Total uncertainty = 7%                  (1) | MP3: percentage uncertainty = 3% +3
+° Calculation of % difference Or Range gy |%+1%
+of calculated &                                                         )
+« Judgment on accuracy of expernment               MPs: Se Conperiscn of total                 5
+with reason                                                                              uncertaimty wath                                                          "
+“o Giferemce
+‘Or comparison or calculated range with
+0. 81ms*
+Example of calculation
+ao 5 | i is  2    eee
+Gradient = ==" = 0.232 3
+moe!
+x       a      z
+&  2228? m2  S07 ms"
+Percentage
+ana:      (Time =-Rerme 2),
+difference-(——==———) * 100
+A     81 mm z=     &
+12%
+
+
+--- Page 69 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q41.
+          Acceptable Answer                                Additional Guidance
+© Log values      (D    cept log or ln (1 ee)        |
+table                      .        N      (D/num)
+|               0.710    0.000  0.000
+o <Axescorrectly (i)        0350 © | 0.301     196 | 0.693
+labelled                  0-940    O4T7  1.10
+Gi  eae ile. scales   i         7  —     —o     os      =
+e Suitable scales (1)         108     0609  i él
+o All pomis       (1)
+plotted        i
+cormectlhy
+o Lineofbest fit (4)
+drawn
+o  Determine     (i)                                        a
+large triangle          =  a
+from graph     - nee Set eee!
+© P=5.0-52 Cee UAE EE
+-     7                ooo 6820
+5) 107 Ga)                                                                                     ;          |
+       om)                                              logiy N
+q=05                                       :
+
+
+--- Page 70 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q42.
+Chnecti                                                               Agditional (surance
+Questiom            Ft      14. &                                                                             "J
+umber                    Acceptable Amswer                           Whole question to be chpped together              Mart
+to allow full ECF
+(a)               0 Micrometer (screw
+gauge) Or digital calypers (I)
+o Because the measured
+value mcicates a.                                                                                                                7
+resolution of 0.01 nom,           (1)                                                                                                       2
+(ml)          o “op uncertamiy = 0 Yo       (0) | Example of calculation:
+Cu00S mame,
+Cn certainty ——— 100 o = 0.20 Op
+(um)        o Oo uncertamiy = 1.6 Mo      (1) | Example of calculation:
+ty lncertainiy   320 ae   Me = 1G OG           l
+(iv)         o %® uncertamiy = 2.7             Example of calculation:
+[1 or 2 si]                          () | “oo uncertamnby = 00) Se 16 Sot 2 & 02
+= 2
+Allow ECF from.
+e UseorV=LX =.                                           Fzample of calculatvon:
+@ [se at or =                   a  i= 0.806 mt x 1 ar
+ee ee ee
+® Uneertamty m density = 200 be           PS yaaxi0 ms!           5
+o So maximum density is (O00 ke          -       a         ame       guy EF
+mor? which as lower than the                Uncertainty _ p= (7400 kgm x 100?
+standand value                                          = 200 kg mi*
+Or comment consistent with
+thea calculated value                                      (1)
+Allow ECP from (a)(m) ame
+Q43.
+Question                              Acceptable Answer                                      Adthttonal Guidance                Wark:
+Number
+(a)                                                                                               Example of calculation
+Use of 3600 » Wh to give energy               6.91 Wh=6.91 « 36005 = 24
+stored = 24900 (1)                        (1) | &fo]
+1
+                       Acceptable Amswer                                    Additonal (suidamce
+Number
+(an)                                                                Example of calculation
+° Useof = WO                         @ | Q====6512€
+(ect for calculated enersy trom.
+o O=6510C                              (1) | @a@))
+(show that value gives = 6545 C0)        2
+
+
+--- Page 71 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+‘Ouestiom                          Acceptable Answer                                 Acditional Guidamee              Mark
+Number
+
+(ama)                                                                                         Example of calculation
+° Useof O = Or W= Fir                    dy) «= an = 7935.65
+f= =201h
+;   vr... .¢ time in seconds                  aa, |. me    a      .
+o Use of  enn                         (1) | (ecf for calculated charge from
+e ¢= 2.10 (hp                                        (1)
+(show that value gives f= 2.02 hh)          4
+Q44.
+Question.               Acceptable answers                        oq asge.      og.           Mark
+lec Te                                                                               Additional guidance
+Number
+® nits eV fenercy) base wuts: keno? s~ Or
+hase umits of momentum: kee as!
+o divide enersy by units of speed (c) ms!
+ives ke ms! whack are units of
+momentum Or multiply wuts of
+momentum by speed (c) ms! to sive wruts
+of enerey ke m* s?
+(i)          o resolves a y-component or x-component of | Example of calculation                           3
+electron momenton                               Dy = 9.1 (GeV /cjsin20 = 3.1 GeV fc
+p, = 9.1 (GeV fcjcos20 = 6.55 GeV/c
+Dot proton
+o applies moment conservation in x-          = 20 (GeV fc) - 3.55 (GeV/c) — 11456
+direction of y-direction
+(1)                                                        Dovotan = ¥312 + 11.452
+o® comparison of total momentum atter Or       Alternative:                     ees
+7          ~       Alternative:
+momentum of proton after plus comment       a
+a                                                            = 9.1 (GeV /c)sin20 = 3.1 GeV /c=11.9(
+ = 15.2
+Altemative:                    oe                                  So total g atter= 11.9 GeV/c cos 15.27
+e draws a vector triangle                                    9.1 (GeV /cjoos20
+=11.576.55=3004 Gee
+o §=6Lses cosine mile
+° (Calculates angle from three sides = 204°
+(iia)         ° © (fetal) kinetic enercy net conserved                                                                  1
+
+
+--- Page 72 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q45.
+Ouestion              '     ttm                         Additional guidamee          no
+a rT cu                 Acceptable Amswer                                    ~~            Willard
+Number
+@ use smaller increments for resistamce.       a
+* around area or peak                      ri
+Q46.
+nese                                     Acceptable Answer                                                 Auldditional (uilamece
+An explanation that makes reference to the                         ME? examples:
+followin                                                                      time interval between measurements
+@ The time interval is very short           (1) | 8 small
+Iviany recondings/sec
+e the wea of alugh sample rate (arth        |
+the datalogger)                         (I)
+Ov (Percentage) uncertamiy im
+measurement would be small (when                                                                                                       -
+using the datalogger).                                                                                                                                                         2
+Q47.
+Question             cmervtatles leaner,                     UL Ucdtdiicanall (rfdeemaca         Tard
+Number                               Acceptable Amswer                                              Adlitionall (suidamce                      Nilark
+e The measurement of resistance          a)   MPI accept use of 0.05 sraing 0.3%
+has an uncertainty of 0.6%              we   Example of calculation:
+Uncertamty im
+e The measurement of the length                 |     O.1ee ae a ene
+has an wncertamby of 4%               @| #   1g 90 1 = 0.52%
+e The measurement of the diameter         -     a 0 o- m
+has an wncertamby of 4%                  (1)     L-—_— a 100% — 4.09%
+« The So uncertainty in diameter is              Uncertainty im
+doubled giving the greatest             (1)         O0la        .
+amount of uncertainty mito the                     a= x1 = 37%                    .
+value for the resistwity                                             eet Et                                                 4
+Q48.
+. uestion                                     Ans vrer                                     Mark
+Incorrect Answers:
+A—Wis not an SI base wt and incorrect arrangement
+B—W is mot an SI base watt
+|                           DD — ineorrect arrangement
+
+
+--- Page 73 ---
+
+Working as a Physicist                                                                          PhysicsAndMaths Tutor.com
+Q49.
+Question   oman                Susp ge         4 Toc
+ee                   Acceptable Answer               Additional Guidance        Nlark
+Number
+|
+Q50.
+Question       Answer                                                     Additional Guidance          Mark
+Number
+7  so Fewerwaves/cycles onscreen (1)      Accept wavelensth mcreases    -

@@ -1,0 +1,1770 @@
+
+
+--- Page 1 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Electrical Circuits and Internal Resistances
+Q1.
+Small electrical devices are often powered by electric cells; different devices use different
+types of cell.
+The cells normally used in a television remote control have an e.m.f. of 1.5 V.
+(i) Describe a procedure to determine the internal resistance and e.m.f. of an electrical
+cell. You should include a circuit diagram.
+(3)
+(ii) Describe how you would use your results to find a value for the e.m.f. and internal
+resistance of the cell.
+(3)
+(Total for question = 6 marks)
+
+
+--- Page 2 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q2.
+A student is planning to collect data to produce a current-potential difference graph for a
+filament lamp. Her teacher suggests two circuits that she could use.
+Lo
+Circuit 1                                                 Circemit 2
+Circuit 1 uses a potential divider and circuit 2 uses a variable resistor to vary the potential
+difference across the filament lamp.
+The student sets up the following circuit with the filament lamp. The battery has negligible
+internal resistance.
+12¥
+>                5600
+(i) The reading on the ammeter is 17.5 mA.
+Calculate the value of the potential difference (p.d.) across the filament lamp.
+(2)
+Od across filament lAMP = ...........cccccecccseeeeceeeeeeeeeeeeeeceaeeseeeseeeees
+
+
+--- Page 3 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+(ii) When a voltmeter with a resistance of 1.5 kQ is connected as shown, the p.d. across the
+filament lamp decreases.
+ZV
+|     —~          5602 7
+(v)
+Explain why the p.d. across the filament lamp decreases.
+(3)
+(Total for question = 5 marks)
+
+
+--- Page 4 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q3.
+A student is planning to collect data to produce a current-potential difference graph for a
+filament lamp. Her teacher suggests two circuits that she could use.
+Lo
+Circuit 1                                                 Circemit 2
+Circuit 1 uses a potential divider and circuit 2 uses a variable resistor to vary the potential
+difference across the filament lamp.
+“Discuss the suitability of each circuit to collect the data.
+(6)
+(Total for question = 6 marks)
+
+
+--- Page 5 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q4.
+A potential divider circuit may contain a component known as a potentiometer. One type of
+potentiometer consists of a track with terminals X and Y at either end. There is a sliding
+contact that can move along the track connected to a terminal Z as shown.
+track                                                                                                                        end view of track
+x Y    a |:
+sliding contact         Zz                  5.0:num                                   <—___>
+The length of the track is 115 mm and the width is 5.0 mm.
+The resistance of the track between terminal X and terminal Y is 12.0 kQ.
+Resistivity of track material = 0.49 O m
+The potentiometer is used to monitor the displacement of a moving tool on a machine in a
+production line. The tool is attached to the sliding contact. The potentiometer is connected
+to a resistor of resistance R and a potential difference is applied as shown. The tool moves
+through a maximum displacement of 60 mm from end X, producing a maximum potential
+difference of 5.0 V between Z and X.
+=
+12V |              OY
+—| _—
+<—__—_o7
+©               ov
+(i) Show that the potential difference between X and Y is about 10 V.
+(2)
+
+
+--- Page 6 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+(ii) Calculate the value of R.
+(3)
+(iii) When the circuit is assembled, using the correctly calculated resistance value and a
+battery of e.m.f. 12 V, it is found that the maximum output from the potentiometer is slightly
+less than 5.0 V.
+Explain why the maximum output is slightly less than predicted.
+(3)
+
+
+--- Page 7 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+(iv) The tool on the machine should not travel with a speed any larger than0.8 ms".
+The graph shows how the displacement varies with time for the downward stroke of the
+moving tool.
+
+fl a BREE Gee   BRR Se ee eee eee
+2    25 il ad ld dG Ge GG Ee
+(EBS RARE oe    BE a Ee Be td ld
+
+pe | em ed ed Ed Ed Ed EEE BP a WG dG dD ds
+‘eg (GGT ETE Eee ee ee DI ee DD ai
+60) Jace i [fe ep Aen LT [RRR ECE Pes Sno eee
+DERE RER EEE SEE Re eee eee ee ERE eee
+GGG EE GG GN GGG GG Gr, Gc Gl GO EE EN
+FEET CC COED DSR EE Ere b Poet feb bbb IEEE TTT Tr
+2S
+Oe Ba BS
+Ph aE SO Be ee
+
+a A a a a aa kt :
+
+eed ed 2 dt Ed dd
+PEELE PEPE EEE EEE EL Claret lll Pel eelellel tell lle te] al dy:
+Diislacement Gum   el el el tt SLE EES
+SESPMACSGT OSE SEC CECE EE EE EE EERE EE BEE EEE EEE ECE ELE GRE EECCECEE
+9 9
+= HG GS Gl ll 9 ED
+es Ses Pc ee ec |
+Gt     See EE ARE ECE ee eT Cri:
+HDPE [se [ipof afd. of ff      Ee ee ee ee ee eee
+2 6 0 8 8
+st ete Nl a a a
+BS dG 9G
+
+2) #5 :
+DRE RE Ae eee 2 | DB
+
+lt ed a dG a Gl a dB) nt a
+
+gs WEE Cs BD Ee ED ed Ge a? is) Re EG dt
+tC a i Gd) SE aC ald id 8G EO)
+
+By a a dd lO? Bl
+
+el i i la el al 2 ed ot ll ld
+0                           “Ol,                        65
+
+ime fs
+Deduce whether this speed is exceeded by the moving tool.
+(4)
+(Total for question = 12 marks)
+
+
+--- Page 8 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q5.
+Carbon paper is an electrically conducting paper. A student cut a sheet of this paper into the
+shape shown, to carry out an investigation.
+16.0em       oe       | Oem
+10.0) cau,
+The student followed the procedure below to set up a potential divider circuit:
+o connect the 16cm and 8 cm wide ends to a 1.5 V cell
+o connect the 16 cm wide end to the negative (0 V) terminal of the cell
+o connect a voltmeter so that it measures the potential at a point 15cm from the 16cm
+wide end.
+Add a circuit diagram to the diagram below to show how the carbon paper is connected.
+(2)
+(Total for question = 2 marks)
+
+
+--- Page 9 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q6.
+Part of an electric circuit is shown.
+120
+;           vi   |
+a,                 60
+|
+What is the current shown by the ammeter?
+HA 3A
+Fa    4A
+fC 5A
+a    6A
+(Total for question = 71 mark)
+Q7.
+An electric motor is used to pull a truck up a slope at a constant speed.
+The electric motor circuit includes a battery with no internal resistance, an ammeter and a
+very high resistance digital voltmeter as shown.
+ | - -] |       motor
+The truck moves through a vertical height of 0.20 m in 15 s. The current in the motor is 8.1
+mA and the potential difference across the motor is 12 V.
+mass of truck = 550 g
+
+
+--- Page 10 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Calculate the efficiency of the motor.
+(4)
+EfPICIONCY = ......cccccseesccceeseeecaeeeeeseeseeeeeseeesaaeeeeseeeees
+(Total for question = 4 marks)
+Q8.
+A student investigates the motion of a friction-free trolley down a ramp. On the top of the
+trolley there is a metal loop which makes contact with a length of thin resistance wire, AB,
+fixed above the ramp. The resistance wire has a uniform diameter.
+The trolley accelerates down the ramp and the metal loop stays in contact with the wire
+along the full length of the ramp.
+_-metal loop
+a                  _~ thin wire
+The student uses a protractor to measure the angle @ between the ramp and the horizontal
+and records a value of 4° with an uncertainty of +1°.
+
+
+--- Page 11 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+(a) The two ends of the wire are connected to a 1.5 V cell. A data logger, set to measure
+potential difference, is connected to the metal loop and to the negative terminal of the cell.
+
+_inetal loop
+Ae            aa                      =                 4B
+|
+data logger
+Explain how the potential difference recorded by the data logger will vary as the loop moves
+along the length of the
+wire AB.
+(3)
+(6) The graph shows the data obtained from the data logger.
+1. > OOOO      CLI)      CLL)            OO
+EE cree ere ere Et
+1.4 BEES SEE EES EEE ee
+Ab issizitzteatossusissctesicssseistoatesis evenitont
+a      JODO IOCO) EEEEEEEE EEE EEE EEE COO)
+sai :eeseeestesiHeeLEUECUESEREEERIEEHE Hip EELECat
+PC) hessntsnenssenssnens(seansseuenisessis7<usisenae scans
+dos HIsEsHRTEMTaREERaEREenia!
+7 EESER EE EE
+Bog EERE EITEEEHsSEEe reECPTHESH SHEESH PREC
+=  o.4 4 00CD0Co5     COoo0 aera COOC DOCS     OCOD
+02 EEE EEE Eber Ee FEES EIDE EE
+Leite ODOC OOOO GT Oe
+0          0.5         1.0         1.5         2.0         25
+tune /s
+
+
+--- Page 12 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Determine the velocity of the trolley at 1.5 s.
+1.5 V represents a distance of 2.00 m.
+(4)
+AVA =1(0 101 | 0 Ae
+(c) The student calculated the velocity of the trolley at 2.0s tobe 1.5ms.
+By considering the acceleration of the trolley, determine whether the student's measurement
+of 8 was within the uncertainty quoted.
+(4)
+(Total for question = 11 marks)
+
+
+--- Page 13 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q9.
+This resistor combination is connected to a battery of e.m.f. € and internal resistance r.
+02 =f
+WH
+The switch is closed for 5 minutes.
+Calculate the energy dissipated in the resistor combination.
+E=9.0V
+r=2.50
+(4)
+Energy dissipated in resistor COMDINATION = .............c cece ceecceeeeeeeeceeeseeeseeeeseeeseeesaeees
+(Total for question = 4 marks)
+
+
+--- Page 14 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q10.
+The graph shows how current varies with potential difference (p.d.) for an ideal diode.
+CLUE |
+An alternating p.d. Vin has a peak value of 3.4 V.
+(i) Calculate the r.m.s. value.
+(2)
+(.IN.S. VAIUC = 0... ccccecccecceeeceeeteeeeeeeeeeteeeeeeeeueseueeeeeenes
+(ii) Vin is applied to a diode and resistor as shown.
+           V,
+The p.d. across the resistor is Va and the p.d. across the diode is Vp. Vp is the output.
+Explain why Vin = Ve + Vp at any given time.
+(2)
+
+
+--- Page 15 ---
+
+Electrical Circuits and Internal Resistance                                                                      PhysicsAndMaths Tutor.com
+(iii) The graph shows how Vin varies with time.
+Sketch a graph of Vp against time using the axes provided below.
+(3)
+F  =  We
+~ FRRREEEEEEEFEEERARGR EEE no BOOIKOOCOCLIOO Aco
+QWIWIWI OUI OL OWILILL ISL TIL) QUILT
+,         QUOC 3 DOA DOOD) rare 7 as : open eeee oeeeee     Ot
+3.    Ef Soaceemeeee ate octone    come
+COC OSCR COS 00000056 CE5F0 06750 COSeECETAoSSroc
+oc IEEE   00000 an CO OonoC 00 OOOO ooo
+_bo    BEET EEE CEE e BOOCDCLEOOOCON
+Ht cenaaay COC ia ion i AIC
+EERE EEE EEE HEHE CEE HH EE
+_I  i    LJ SSEEEE COIL   == OUI) 5 OIL IL LTS fae
+jac SCEot eee SECECnonne Poco heen! th Pocemeneee   5000
+0  |    ins eeeeee   oon             eee PCL) ins DOr (aaeanee             : ane 7    fi   _ i
+DOCT CT 7O05        ha   DOO PORCHCTTMt, poe Cc)
+MOOCL LI neni           Oo           DOC OC Oh es CAG
+_I      EEE EEEEE jann SO          i EE En Eee  |   EERRE
+H EEE ACE econ              ' EEEEECH EEA
+Bee Eee feceeres SOOOODOCCO CU RCOCC ODO OOOIOIG
+COC Ooo DS 0OW00 CE oc           DOT                 CO)
+ )   mm) ST         CH) EEE              _
+POOR LL im OOOO ChE coeEcooo ACP ooo NOonoC
+LEILA TT a sens OLLI TOILE HE EER ERR
+SILL ELLLIE LE LLL LULL UIE EE ULI LLL
+VV
+ih]
+i izusssnsnassssscssssnnsnshtesshsssnsnasscses
+OCC OOOOnooooo coo00          OOOC OIC
+O00 0e0geSa88 CSSr60          OOeCRCe
+4  _]      SHiornoiiis bite 1==a8 eee eect -) Ae
+a]               0009090808088 GSS 68          O10 CoCr}
+OCCA cooh0e   OneCare
+DCCC EE COOSSOOSD CEEED DOS CORDCCEREEDOSOOS
+—_S    DOOOCLLEUDDDODODODOD CLLELDOODOD COOOL DD ODDOD
+ACCC                 AIS Ieee
+)  FerHiiessstoit        5           85       BS              5      5
+).    [ASS5eI = paeee = RAREEE poor Bee 7  “FERRE    THLE i i,
+BEER EEE EERE C HDC ER EER AS co  POO
+Spee eee    aon ocr HH           ASCE CCH
+BEE EEE EEE EEE EEE HEE EEE EEE
+OI G6        ASCE HA a
+_I    WOOL LELELIDOODOODDOD CLL LD ODDO DOOC DELL DUODDRODO
+OCC                   1==a8                nOoCRCr                :
+OCC                   1258                NOeCRCrr                :
+4 _I      BEE EEE             {| [jf )           HULL IIT)          L_)
+— 3) 7790000600 9009900500 E5555 aSSeosSSe0sScrHnSeesEeq
+DOODOCT TT ROOOOOR0000 CeETD S000 Seer PerePe seer
+LEI TT TT ILE ILE OLDIE a LL
+LEILA TE EEE Oe COCO tt
+ILLICIT LLL AOoG LL} Et) Hd LLEIULA LL EL I
+(Total for question = 7 marks)
+
+
+--- Page 16 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q11.
+The world solar challenge is set every two years, in Australia. The challenge is to complete a
+three thousand kilometre route with a vehicle powered only by the Sun.
+Vehicles have their surfaces fitted with solar panels, as shown in the photograph.
+ee :
+eae epee ee Ty eee re eee
+Se ee OS) Pee
+eS <==
+i ee     _        Sy
+es SO
+oe Poe 1
+(Source: © EAURENT DOUEN/LOOK, AT SCIENCES SCIENCE PHOTO LIBRARY)
+One of the solar panels has an e.m.f. of 8.2 V when in sunlight. The terminal potential
+difference is 5.5 V when a current of 0.45 A is drawn from the solar panel.
+Calculate the internal resistance of the solar panel in these conditions.
+(3)
+Internal reSIStTANCE =o... ceecccececeeceeeeceeeeaeeeseeeseeeeaeeeseeees
+(Total for question = 3 marks)
+
+
+--- Page 17 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q12.
+The diagram shows a combination of three identical resistors.
+What is the combined resistance between P and Q?
+  A 4Q
+    6Q
+  C 8Q
+    120
+(Total for question = 71 mark)
+Q13.
+The diagram represents a resistor of resistance R in a series circuit with a cell of e.m.f. € and
+internal resistance r.
+Pe
+l    é      r       l
+|        pt
+Po id
+Which of the following correctly gives the potential difference V across the internal
+resistance?                         |
+  AVe= e(Rt1)
+r
+  B ya
+R+FKr
+:              e(R +r)                                                       ;
+   CV= —                           (Total for question = 1 mark)
+  p ye
+(R+F)
+
+
+--- Page 18 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q14.
+The diagram shows a potential divider circuit that contains a negative temperature coefficient
+thermistor.
+The temperature of the room containing the circuit increases.
+Select the row of the table that correctly shows the changes in readings on the meters.
+©
+(Total for question = 1 mark)
+
+
+--- Page 19 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+A student is investigating how the internal resistance of a dry cell varies over time. She sets
+up the circuit shown to draw current from the cell.
+
+ric                           ‘te
+330 0)                        |
+         data logger
+The student proposes to use a data logger to monitor the terminal potential difference (p.d.)
+of the cell over a period of time.
+The graph shows how the terminal p.d. varies as the chemical energy store in the cell is
+depleted.
+A  RRR C eR ERR en ar RRR nee ao ee eee ee oe
+(A ke oe oO en
+(SN
+al = a Eo Piet elt ety Tt te| tel tel stats teie ie tat a
+i SSSR OR EAS ee ee ee eo ee Bo
+(ESBS S22 0 a2 Bn ee ERE Ee
+O05 DASE EEO EC EEOC EEE SCC C IC EEG Scr rican cee:
+(a a
+ EERE ECE eee Cee aif
+BG, GEER CEE CESECE PEE EEE COCc ee Ser Peet ereneen
+coe        [A tO
+ar             Se 8
+al  Al ay em :
+emg A YN PC ee
+: la A :
+23° DRIER OCOR GET CDCI EG LG CIR RIG)
+“GE, Se ah  AEP a dD Gk a
+ce        “ECE a i ts 9 a Gd Ed 8 kd Gk
+lcm Elsa: ER a a 2
+PEER RUBE BDORE EE EE EE EO CE BERR Be ee OB ae ee
+ER a
+IS e002So 88 PRS GO SERED PORES RSS eee ese Ree eR eee #
+  PAGER ERR Rrra BESS RE GAA TA Ie eed 7
+eg SERS CSR Oe ee ee
+ees l,l
+aii) CO) OU
+io         ao        a         et        ee.         £00.
+i ol-chemical.cncrey store depleicd:
+(i) Explain, using the graph, why the current drawn from the cell decreases as the chemical
+energy store in the cell is depleted.
+
+
+--- Page 20 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+(ii) Determine the internal resistance of the cell when its chemical energy store is 80%
+depleted. Assume that the e.m.f. of the cell remains constant at 4.0 V.
+
+(3)
+Internal reSIStTANCE = ..... eee ceeccsececeeeeseeeceeeeaeeeseeeseeeeaeeeseeees
+(Total for question = 5 marks)
+Q16.
+A student determined the latent heat of vaporisation of a liquid using an electrical heater to
+boil the liquid in a Pyrex beaker.
+The apparatus used is shown below.
+, FP
+Pyrex beaker      |
+heater    |
+Tueyaacl ——-
+a es ee
+She connected the heater into a circuit and took measurements of the potential difference V
+and the current / for the heater.
+
+
+--- Page 21 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Complete the circuit diagram to show a suitable circuit.
+(2)
+(Total for question = 2 marks)
+Q17.
+A student set up the circuit shown and measured the current / through the filament lamp for
+a range of values of potential difference (p.d.) V.
+‘
+Om
+The student's data is shown in the table.
+
+
+--- Page 22 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Using the circuit shown the student was unable to obtain data for p.d.s less than 2.5 V.
+Draw a diagram of a circuit the student could have used to enable a full range of p.d.s from 0
+to 12 V to be investigated.
+(2)
+(Total for question = 2 marks)
+Q18.
+A student wanted to plot a graph of current against potential difference for a light emitting
+diode (LED). He used the circuit shown.
+Add an ammeter and a voltmeter to the circuit diagram that would enable the data to be
+collected.
+(1)
+(Total for question = 71 mark)
+
+
+--- Page 23 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q19.
+A student is deriving an equation for the total resistance of resistors in series.
+She writes the following steps but does not justify them.
+Step 1 Ve V+ ¥,
+Step 2 but V = IR
+Step 3 so TR = LR, + LF,
+Step 4 but I = [, = I,
+Step 5 Therefore R = 'R, +R,
+Which step is justified using conservation of charge?
+(1)
+El A Step 1
+Fa    Step 2
+fC Step3
+Ee]    Step 4
+(Total for question = 71 mark)
+Q20.
+A set of festive lights is made up of five parallel strands of filament bulbs. Each strand
+contains 50 bulbs in series as shown.
+230,  3 A ise
+ay AL oo {R)—
+SHS 50 baits
+Ss 50 bulbs
+vay 50 bulbs vey
+ay Pr ae  Cr
+ae | 50) bulbs a
+
+
+--- Page 24 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+(a) When a bulb is working normally its resistance is 8.0 Q. If the filament of the bulb
+breaks, the lamp is designed to still conduct and its resistance becomes 3.0 Q.
+(i) The filament of one bulb on a strand breaks.
+By considering the effect this has on the remaining bulbs in that strand, explain why it is
+recommended that broken bulbs are replaced as soon as possible.
+(3)
+(ii) The set of festive lights are fitted with a 3 A fuse. Five bulbs in one strand break.
+Determine whether the fuse blows.
+(3)
+
+
+--- Page 25 ---
+
+Electrical Circuits and Internal Resistance                                                                      PhysicsAndMaths Tutor.com
+(b) A student investigates how the cross-sectional area of a fuse wire affects the current at
+which the fuse blows. She uses pieces of wire of the same material and length, but different
+cross-sectional areas. She steadily increases the current through each piece of wire and
+records the maximum current through the wire before it breaks.
+
+She then plots a graph of maximum current against cross-sectional area.
+14                                           OO OL DDOODDL DD CODCOD DOC OT) OT OOO
+LEI ILL LEE ILL ELEILELE ELL ILLIE LEE EE ILL LILI
+;     ;                                                    LEE IILLIEEI EL LILLIE ILL ELE ILL [ELT IU IL  ela)
+1 eo   |!       L)                 OODLE OLLI LULU ULL LIU Ua
+~~    OOOO OOO          OOD DD OOOO) | B00) 9) DOTA yt TT 990) BTA} a OLLI)
+anne                             POOL               SOC
+FEE EREERE THERE ERE EEE eee FEEFE pCO cee
+Sean8                                  COOOL                  COLO er OOO
+il fi   |         ERE                  PEEL LLL LILLE LE         SOmROeRESD ERE ERE
+ae           Ly 7                                          TEE TT ILETL TT PTT fy                     ERE RRR EE BEA eee eee
+LL                                  COLO OC                 COCO OO CO
+HEHE                                      HAE  COO                   Ce CC iaseneeaan
+al  ourgane             a  aan SHEE EEE TET TILT ssrestans eri TT TTT TT I EERE EEE
+Ae LTD,  o.@ 00000             D000 OC       9 SUD COICO DDC Oe
+current / A  HE ACCC EEE ACEC Coch ee coc ecco Cocco
+LUDO SST ee DOO OCC POO
+            OOO000000 000000003 OSC COO COC CCC C0 8oCG
+0.6 -OOCDOCCOOO COCO OCCT OOOO COO DIOC OOOO rr ESEEEEH
+OOOO 00000 00000 0R0C7 OGRE COC OSC BIS
+LO OOOLWDOLDODDDD O00 OLDS CD CDC DOC DOD 0ST DDD
+PEP ILE LT PILE EE ILL re CL TTY TEI LTP IL ET TPE EEL ILE EEL
+.  DOOCOOO COCO OOOO COCCI Cre
+0 al  JULIO ULL Os   LE ELLE LL OULLELLUDDLLLELDIDLILLEL LLL LILLIE LL&L
+wee                   ERE RRR EERE! eee ee eee                            ER ERE EERE eee
+SOOO ea OCF                                          COCO
+tet IU Le AEE  EERE EEE ssrestacts Te BEE
+;        ;                            PET LEE LEE a a                                          ERR EERE eee
+0.2 RS Sp ODES EDC OO ODCD Sooo eco                Se
+Corer EEE Tr                   EEE EERE eee
+DSL                            CoOL                            COCO
+;    [Oe0o000c0                  ERE EE EEE                  TEE LT EELELLILLLILE LLL LI |
+aaa SE |
+iD        01      0.02      COS      D4      0.048      0.06
+(Cross-sectional area / min
+(i) Describe how the student should determine the cross-sectional area of the wire.
+(3)
+(ii) State the relationship between the maximum current and the cross-sectional area of
+the wire.
+(1)
+
+
+--- Page 26 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+(iii) The student chooses a piece of wire, of the same material and length as used in the
+investigation. The piece of wire has a diameter of 0.40 mm.
+
+Use the graph to determine whether the piece of wire is suitable to use as the 3A fuse
+wire for the set of festive lights.
+(4)
+(Total for question = 14 marks)
+Q21.
+Three resistors, of resistance R:, Ro and R3 respectively, are connected in parallel across a
+cell. The cell has negligible internal resistance and electromotive force e.
+g
+fi
+
+
+--- Page 27 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Use the principle of conservation of charge to show that the total resistance Ry of the three
+resistors can be found using the expression
+
+ip KR #,
+(3)
+(Total for question = 3 marks)
+Q22.
+Three resistors, of resistance R;, Ro and R3, are connected in series across a cell. The cell
+has electromotive force (e.m.f.) € with negligible internal resistance. The current through the
+cell is /.
+Derive the formula for the total resistance Ry of the circuit in terms of R1, Re and Rs.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 28 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q23.
+A student carried out an experiment to determine the electromotive force (e.m.f.) of a cell.
+The current in a circuit was changed by adjusting a variable resistor. A graph was plotted of
+the voltmeter reading on the y-axis against the ammeter reading on the x-axis.
+Using the data obtained, the value of the intercept on the y-axis was the e.m.f. of the cell.
+Which of the following circuits should have been used?
+c                                               D
+BA
+Ac
+(Total for question = 71 mark)
+
+
+--- Page 29 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q24.
+A student is asked to determine the e.m.f. and internal resistance of a cell using standard
+laboratory apparatus and a graphical method.
+(a) The diagram below shows a cell with internal resistance. Add to the diagram to show the
+circuit she could use.
+(2)
+|                      |
+|                      |
+(b) Explain how she should determine the e.m.f. and internal resistance of the cell.
+Your answer should include a sketch of the graph.
+(5)
+(Total for question = 7 marks)
+
+
+--- Page 30 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q25.
+Students are investigating how the current through a filament lamp depends upon the
+potential difference across the lamp. They are provided with a power supply of 12 V anda
+variable resistor.
+Two students set up different circuits as shown.
+@
+a]     iG      O   xh   O
+R
+Circuit A                                                                                Cirenit B
+Evaluate the effectiveness of the circuit used by each student in obtaining data for a current-
+potential difference characteristic graph. Assume that the voltmeters have infinite resistance.
+(5)
+(Total for question = 5 marks)
+
+
+--- Page 31 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q26.
+A student set up a circuit containing a light dependent resistor (LDR) in series with a fixed
+resistor as shown.
+60V |.            Sm vam
+As the student moved a lamp towards the circuit she observed the potential difference (p.d.)
+changing across the fixed resistor.
+With reference to the electrons in the LDR explain this observation.
+(5)
+(Total for question = 5 marks)
+
+
+--- Page 32 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q27.
+A student is experimenting with different combinations of springs and recalls that in physics it
+is often possible to model different physical situations in similar ways.
+The student suggests that a parallel combination of springs could be a model for a parallel
+combination of resistors in a circuit.
+Wr
+fa ir       TT
+Derive an expression for the effective resistance Re of two resistors R; and Re connected in
+parallel in a circuit.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 33 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q28.
+A potential difference, V, is applied to two resistors in parallel, each of resistance R.
+A current, /, flows through the whole circuit.
+The correct expression for the power developed in each resistor is given by
+  A P=IV
+    P=1V/4
+  C P=VW/2R
+    P=FRI4
+(Total for question = 71 mark)
+
+
+--- Page 34 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q29.
+Read the following press release and then answer the question that follows.
+"Lockheed Martin Demonstrates Weapons Grade High Power Fiber Laser
+BOTHELL, Wash., Jan. 28, 2014 — Lockheed Martin has demonstrated a 30-kilowatt electric
+fiber laser, the highest power ever documented while retaining beam quality and electrical
+efficiency.
+The internally funded research and development program culminated in this demonstration,
+which was achieved by combining many fiber lasers into a single, nearperfect quality beam
+of light — all while using approximately 50 percent less electricity than alternative solid-state
+laser technologies. The unique process, called Spectral Beam Combining, sends beams
+from multiple fiber laser modules, each with a unique wavelength, into a combiner that forms
+a single, powerful, high quality beam."
+(Source: Lockheed Martin Demonstrates Weapons Grade High Power Fiber Laser Wash
+Bothell, Jan 28, 2014)
+A student uses a laser pointer to measure the internal resistance of a cell.
+The laser uses a battery of three small cells.
+The student obtains the following results:
+(i) Calculate the internal resistance of the battery of cells.
+(2)
+Internal reSIStANCE = ........eccecccecceeeeeeeteeeeeeceseeeeeeeeeeneeseeeeess
+
+
+--- Page 35 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+(ii) The student notices that the manufacturer of the laser pointer claims it is as efficient
+as industrial lasers. At a distance of several metres the laser pointer produces a circular
+spot of diameter 6 mm and intensity 140 Wm.
+Use this data and the data in the passage to evaluate the manufacturer's claim.
+(5)
+(Total for question = 7 marks)
+
+
+--- Page 36 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q30.
+A solar panel uses electromagnetic radiation from the Sun to generate electricity.
+In one installation a sensor in the solar panel measures the intensity of radiation arriving
+from different directions. A motor rotates the solar panel so that it always faces the brightest
+part of the sky.
+The circuit diagram shows how a light dependent resistor (LDR) can be used to produce an
+output potential difference (p.d.) that is dependent on the intensity of light. This output p.d. is
+connected to a motor circuit that operates the movement of the solar panel.
+1.0ko i     output pad. to motor circuit
+==
+24V |                       b               >
+Initially the motor is switched off. The light intensity increases and the resistance of the LDR
+decreases to 750 Q.
+The motor switches on when the output p.d. is above 13 V.
+Deduce whether this change in light intensity causes the motor to switch on.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 37 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+
+Q31.
+A cell of e.m.f € and internal resistance ris connected across a fixed resistor of resistance R.
+There is a current / in the circuit and a potential difference V across the fixed resistor.
+
+Po
+
+!  |
+
+|                |
+
+|
+
+Le  7
+The term ‘lost volts' refers to the difference between the e.m.f. and the terminal potential
+difference.
+Which of the following is an expression for the lost volts?
+4 A I(Rtn
+4]    Ir
+fC IR
+Fa    K(R-1r)
+(Total for question = 1 mark)
+
+Q32.
+A cell of e.m.f. € and internal resistance r is connected across a variable resistor as shown.
+A student varied the current in the circuit using the variable resistor.
+The current / and the corresponding potential difference V across the cell were recorded.
+A graph was plotted of V against /.
+
+
+--- Page 38 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Which of the following statements about the graph is correct?
+p-aEIs
+   °
+(Total for question = 1 mark)
+Q33.
+A cell of e.m.f. € and internal resistance ris connected across an external resistor of
+resistance R.
+[etl
+|                  |
+Po
+Which is the correct expression for the terminal potential difference V of the cell?
+  A V=ertlr
+    V=e-lTIr
+  C V=et IR
+    V=e-I/R
+(Total for question = 71 mark)
+
+
+--- Page 39 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q34.
+When a light dependent resistor is illuminated, its resistance falls from 1000 kQ to 0.1kQ.
+The light dependent resistor is connected in series with a fixed resistor.
+Which of the circuits shown would produce the greatest output potential difference Vout when
+illuminated?
+t+                                      4
+102 i    a                         10 k&2 i    Vout
+  Vo  Vow
+10 a2 i                                10kQ i
+(Total for question = 1 mark)
+
+
+--- Page 40 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q35.
+A torch uses a 1.5 V dry cell. Over time, the light intensity produced by the torch decreases
+as the cell 'goes flat’.
+Student A sets up the following circuit in an attempt to measure the e.m.f. of a cell.
+Explain why the voltmeter reading will not be the e.m.f. of the cell.
+(2)
+(Total for question = 2 marks)
+Q36.
+A cell of e.m.f. 1.5 V is connected to a 5.0 O resistor. The terminal potential difference
+across the cell is 1.0 V.
+Which of the following is the current in the circuit?
+fA A O1A
+a]    O.2A
+fl C O3A
+Ee    O.5A
+(Total for question = 71 mark)
+
+
+--- Page 41 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+
+Q37.
+Two resistors of resistance R; and R2 are connected to a battery as shown.
+The terminal potential difference of the battery is V.
+Which of the following gives the potential difference across the resistor of resistance R?
+    A  iy yr
+    B   4h
+
+R+R,
+    Cc  * yr
+    D  % a
+
+R+R,
+
+(Total for question = 1 mark)
+
+Q38.
+A student set up a circuit containing a light dependent resistor (LDR) in series with a fixed
+resistor as shown.
+When the lamp was at a distance of 10 cm from the LDR, the reading on the voltmeter was
+2.4V.
+
+
+--- Page 42 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Calculate the resistance of the LDR at this distance.
+(3)
+Resistance of the LDR & ............cccccccseeeecceeeeecseeeeeeseeeeeeseeessaaeess
+(Total for question = 3 marks)
+Q39.
+The circuit diagram shows two resistors in series across a battery of e.m.f. 6.0 V and
+negligible internal resistance. A voltmeter with low resistance is connected across the 40
+resistor.
+@)
+The reading on the voltmeter is 1.8 V.
+Calculate the resistance of the voltmeter.
+(3)
+Resistance of Voltmeter = ...........cccccccccseeeeceeeeeseeeseeeeseeeeseseessaaeees
+(Total for question = 3 marks)
+
+
+--- Page 43 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q40.
+A circuit was constructed as shown.
+| 302 |
+| 402 |
+Calculate the total resistance of the resistors in the circuit.
+(3)
+Total reSiStaAnCe = oo... ccceccccccecccseeeeeteeeseeteneceeseeteneeneetaes
+(Total for question = 3 marks)
+Q41.
+Two resistors are connected in parallel and the current in one of them is 2.0 A, as shown.
+2.0A —   1208   |
+602
+ |
+Ld
+Which of the following is the total resistance of the resistors in parallel?
+fH A 200
+a    400
+fl Cc 900
+Fa    180 O
+(Total for question = 71 mark)
+
+
+--- Page 44 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q42.
+A student set up a circuit containing a light dependent resistor (LDR) in series with a fixed
+resistor as shown.
+60V |.            Sm vam
+The student wants to modify the circuit so that a light bulb lights up when the room goes
+dark.
+She modifies the circuit as shown below. When working normally the resistance of the light
+bulb is 3Q and the p.d. across it is 3V.
+a
+6.0V |        7p - Tt |
+Explain, without further calculation, whether this circuit would work as intended.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 45 ---
+
+Electrical Circuits and Internal Resistance                                                                      PhysicsAndMaths Tutor.com
+Mark Scheme — Electrical Circuits ana Internal Resistance
+Qi.
+7 uesfion                     Acceptable answers                        ‘Addition al      Mark
+number                                                                                             riddance
+(i)                 A description that makes reference to the followime pomts:
+Circuit diagram showing:
+o Cell, variable resistor and ammeter im series and
+voltmeter in parallel with cell (1)
+o Recording pairs of readimgs of terminal p.d. and
+current (1)
+o Use the variable resistor to obtain 4 other pairs of                 Should be between
+readings (1)                                                               5 and 10 other pairs| 3
+(u)                A description that makes reference to the following pots:
+© Plot a graph of terminal potential ditterence on the y-
+axis and current on the x-axis (1)
+o Intercept om the y-axis equals emt. (1)
+° And gradient = -r (1)
+Q2.
+           Acceptable Answer                                          Additional Guidance
+(®               « Useotk =F (1)   Example of calculation
+© Fa22V         )) vr=175 x 104Ax 5600=98V                                  3
+* WVieo = (12 — 9.8)V =2.2 V                                                     |
+
+
+--- Page 46 ---
+
+Electrical Circuits and Internal Resistance                                                                      PhysicsAndMaths Tutor.com
+(ii)            An explanation that males reference to the
+following poumts:
+
+Ether
+
+* The effective resistance of the
+combmation 1s less than the           (1)
+resistance of the lamp              A}
+
+* The combination has a smaller     1
+fraction of the total corcuit         (1)
+resistance
+
+* Hence a smaller fraction of the   ()
+
+supply pd. falls across the lamp ~~
+
+* The effective resistance of the    (1)
+
+combination is less than the       we
+resistance of the lamp
+
+o ‘The total circuit resistance               _
+
+decreases and the cument imcreases         )
+
+e So the pid. across the resistor incteases        (1)
+(sothe p.d. acooss the lamp mmet decrease)  -
+
+@ Current flows throvch voltmeter       (1)
+
+@ So circuit crmemt increases              -
+
+Or current through sesistor increazes (11)
+
+® Sothepd acrosz thevesivtor increases (1)
+
+
+--- Page 47 ---
+
+Electrical Circuits and Internal Resistance                                                                          PhysicsAndMaths Tutor.com
+Q3.
+Question          ’        _                                                ews     ym                                     ~
+Number            Acceptable Answer                                           Additional Guidance                                      Mark
+This question aseesses a studemt*s          Marke are fbr imlicative content amd for how the
+ahbilins to show a coherent                        answer is structured and ehows lines of seasoning.
+linkage and fuliy-eustained                       tor indicative content.
+Teis0niN                         (|
+Indicative content:                        ener a    Bee Or aad   |                             crue!
+dadieaiivs    Tears aired cd                         ee
+I'l        Both circuits ace           Maren -      for indigative                                    aul
+h             “14!                          ini acen in || marbine pei              :       _—        rear
+suitable because            pails een in mar ang pn             a aar        zl
+they allow                  ee
+feadines of                :    — _— 4. _        Aawoieetdpamteel        j
+ACRE,                      = ee ee ee         ‘ibs Maeve based   |
+p.dL/current for .            resis
+io       For concust | the           Total marks awarded ts the sum of marks for mdicatiwe
+minimum pd.              content and the marks for structure and lines of reasonime
+across the lamp               IC points | IC mark         Max linkage           Max final
+is OV Garhen the                                         mark              maar
+ininimum wd.                :           -              =
+fhe maxionm. pd.
+across the lanrp is
+ithe slider is at the might)                                                                                                                                                                           )
+C3 For circuit 1 the
+across the lamp
+18 the supply pd
+
+
+--- Page 48 ---
+
+Electrical Circuits and Internal Resistance                                                                                       PhysicsAndMaths Tutor.com
+(when the slider
+is at the might)
+
+Tc       For carcust 2
+adjusting the
+resistor changes
+the circuit
+resistance (so
+the current 1s
+varied)
+
+Or for cumcust 2
+the battery pd.
+is shared
+between lamp
+resistor
+
+Ics So for ciecuit
+depends. upon
+the resistance
+of the variable
+resistor,
+
+TOG     Circuit 1 is
+better because it
+allows a basmer
+(acuit 1 is
+better because it
+alors pds
+dowm to OV to
+be used
+
+
+--- Page 49 ---
+
+Electrical Circuits and Internal Resistance                                                                      PhysicsAndMaths Tutor.com
+Question                                                 e aaeas         -                     ot
+Number                     Acceptable answers                                Additional guidance              Mark
+
+(ay       Oo pees ratio of leneths to                          (1)      Exanple of calculation:
+determine p.d. across                                                                       lis
+potentioamerer                                                            ped acroes potentiometer = Glam
+_ | SV=96¥V
+(ail)          © determimes p.d. across A               (1) | Example of calculation:                       3
+o apply a   TR ta   |        .                       current in circuit = Fao   6.0) *10
+potentiometer to determine           fu
+i!
+current                                     ()
+Or uses ratio of resistances —                           pod acmoes A= 12 -—O6=-24 57
+ratio of pds                                                    ~ aur
+o B= 3000 c                              :
+R= 3000 © (show that value gives
+(ili) |o A battery has internal resistance          (T)                                                       3
+o There is apd. across the                           Accept “lost volts” for MP2
+intemal resistance                                    (1
+.          a                   -                 .                  ff]           must be the subject
+e Termmal pod. less (than emf)           (                         :
+Or refers to Y= EF — fr
+Gv) |o tangent drawn on the curve                tp
+o uses a triangle base of at least              () | MP2 dependent on MP1
+O06 s                                                                      .:                 ;
+displacement ¢ mm
+jeg GEBEEEEEER BRERA EERE SEE
+° attempt to find a grachent                  ch)           HSREE RPE ISE cers See cece ar eice irra:
+i
+ac
+SEAN i a
+o velocity=0.68ms" sovelocity           brad eases sed eseatanateseeneneade
+not exceeded                                            |                 PrscaRnceePeetdecssanerakeseaneacae
+act tt AERP REE E REP SEPP ISEIEEE |=
+allow range from to 0.60 ms™ to                                 ened (Ser eneeet cues PeEmaeeret nese
+0.80) en e-!                                                                      a ca
+OL ae                                                          FEE |e ceo cic | ee ee oc cee
+eR
+a ee rl (
+a          A
+dient         60) mom
+|                0.144 — 1.056
+
+
+--- Page 50 ---
+
+Electrical Circuits and Internal Resistance                                                                      PhysicsAndMaths Tutor.com
+Q5.
+Cmestion               a ee                      A Udehecnall econkelerrcce,          Aeansle
+* cell connected to both ends of paper                                       |                |
+with comect polarity            (1)                        |
+|
+e oltmeter with one end commected to                                                      [
+OV end of paper and. other to halfway                                                                           |
+alone nannow stip of paper          (1)              ons,        |
+Q6.
+Question                              Acceptable answers                            Auichiional guidance                Wark.
+Number
+The only correct answer is D                                                                  6A                                            1
+Ais not correct beacause as if is 2d
+Bis not correct beacause 24 +24
+(Cis not correct beacause 24 + 3A
+Q7.
+Qu - n                   Acceptable answers                            Additional guidance             Mark
+Number
+Bxaniple of Calculation
+o Use of Ee = mgt                         (1) | Bp = 0.55 ke = 9.81 ms“ x 0.20 m
+Ep = 1.08 J
+o Use oft P =P and P= =              7   Useful power = —! = O02 We
+) | pogixiQAx12V
+o Use of Efficiency =                              Input power = 0.00772 W
+useful power output                                         Trypant enemy = Hoo7o « 15 = | 46 J         4
+total power input                                       Efficien cy =  Lune J = (74                      .
+   Lae]
+(Or
+o Use of Efficiency =                 (1)
+useful enerey output
+total energy input
+0 Bfitcremcy = O74
+
+
+--- Page 51 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q8.
+Question                Acronis te amemen                        Laditious? enidene           —
+Number                              Acceptable answers                                            Additional suidamce                    Nilark
+*   F at topistart = ov a ge ca            Alternative MIS
+Or secogaition ‘potential divider’                  Constant Current (J) in wire (1)
+Or Fincreases (by implication)             (1) | ped. across section of wire =r between
+Or Fat bottom = 1.5V                                               A and loop (1)                                                        3
+© Two sections of wire act ae series                  Increases from OV to 135V himearhy (1)
+(Or comment about.A proportiionalta ~~
+length,
+® potential difference proportional te     an
+length of ware                            _
+                           Acceptable answers                                            Additional suicdamce
+(by                 .        -                        Example of calculation
+* Tangent drawn at 15s                   ’
+* ‘Scales pd. to give distance            a)    Gradient = aan —— = () VVe
+o Gradient detemmuned using a base of                       As LS Vrepresents 2.00:m
+triangle of at least 10s
+ty         200m
+Or use of ¢ = "a Fane camect Fly      y= 09 Yel *T sy =19 mes!
+read from eraph                      an
+« wyeloctty=10me! -13 me!
+Onestion             Pe                   A dcltd3navel aunicl emacs         5 Tea qd:
+Number                              Acceptable answers                                            Additional suicdamce                    Nllark
+(c)           Use of      a                    (ly    Example of calculation
+°      Sear v=u + at                          :     15ms‘=19ms"*+ax05s
+o WUkeota—¢sméd                    @        O3ms" oy
+« Calculates a value fora, @ ory         ©           —                             4
+(using a SUVAT AND a=gsin@)                                   :
+        ,      a                  , | 06ms" =9 8lms™ sin
+* Wall companson of them calculated    @     -  ” 7        meee
+quantity and the stated quoted                            e=3.5°
+Wicertainhy.
+
+
+--- Page 52 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q9.
+Question        Auswer                                                        Additional Guidance           Mark
+Number
+o Useof V= IR
+(1)
+o UseofP=J7R
+(1)        Example of calculation
+sf
+o UseofP =-                                                   OV
+t              (1) | J =———=0.121A
+(7242.5) 2
+0 F=320J     ECF from (a)                (1)        .                     3
+                        P = (0.121 A)? x 720
+[show that answer gives 323 J]
+= 1.05W
+Or
+o Use of Y=JR to find I            (1)    E = 1.05 W x 300s
+                     = 316]
+eo Useot V=iIRtofindterminal pd (1)
+o Use of W= Vit                        (1)
+=                                       (1)
+0 F£=320J ECF from (a)
+[show that answer gives 323 J]
+Qi0.
+Cestiom    _—                              pense      .
+at :         Acceptable answers                  Additional guidance           Wark
+Number
+(i)                                      y                         (1) | Example of calculation:
+= UF    vo               eS
+i     Use of —_ cy                              Ema 24 VF
+clay eenen                    Aucceptahble answers                                       Additional guidance                         hilar.
+Number
+(it) |e Eneroy is conserved
+Oo Ranchoti's lar        iy
+On potential                                         accept work dome for energy                                                (2)
+diiieremce is ener
+per unit charge:                                   accept Van for emt
+e So the sum of pds ima              (1) | Alternative:
+SEMES CUCUIL MUSE                     Cunmentis the same in both components (1')
+equal the en1.f
+applied                            iMin= I¥n+ JFpand J cancels       fab)
+(MPS is dependent om
+Gil)         ee                a i a as
+ei     Alteruste half cycles ot sine      (ly  na Ba mgs .  “Foon sad oad - cae vee
+a ert) Mees dey St the       (My |e eis oid Ye eee Sec
+°® Horizontal line im 1 halt         -       OSS Sa ee
+cycle and negative                .           oe oh SEH EER ERO Pe
+A ceceeles eho, ac        (ll    OO Es RS TEE oO ies aoa ne See pee]
+e horizontal limes/spaces. at a
+value of potential
+ditrerence af Qin VW to
+
+
+--- Page 53 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q11.
+Question | Acceptable answers                                      Adilitional guidance              Mark
+Number                                                       ~
+° Calculates p.d. across mtemal resistamce (7)     Example of calculation:             5
+ee                               vy. = 8.2¥ —S5.5V=2.7V
+o Useota= Fit                       (i)     .     ITV
+i" =
+° Internal resistance = 6 02                     a             Nao A
+r= 60002
+Q12.
+Number
+ne i: ee
+Q13.
+Question         Answer                                                                                helfauk:
+Number
+a A » a
+Q14.
+Number
+I = a
+
+
+--- Page 54 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q15.
+                Acceptable Amswer                                 Additional tuidance
+@) | An explanation that makes
+reference to the following:
+o The (tenninal)                            In MP1 do not accept woltage for pd.
+pd. (of the cell)         — fo.           _
+peor          (1) | MP2: Accept foc because
+OO                    (extemal) resistance in the circuit is         2
+o ta” sothe              constant, so the current decreases
+o f = 57 50 the             (i)
+current
+decreases as the
+(external)
+resistance 1 the
+cimcwit stays
+constant
+an           e Useofl= ¥                     (1) | Answer m range with no workme
+an a               shown scores MP3 only
+with #=220 0                                                     |
+or (220 + 1)                                   Example of calculation
+o (Sumofemf =           != 320m bOOxtOT A
+sim of pd.                       (1)
+leadime to)                            —_ e—V (40-3.52) V 30.00              3
+use of r= E&—) ~            |      I     L6Oxto"@A
+with J from MP1
+eo r=300 (allow      (1)
+ADSWETS 1h rane        “ss
+28 ()— 32 00)
+Q16.
+                        Acceptable Answer                                                Additional Guidlamce
+® Series cacut with power
+supply, heater amd.                         (1)
+0 Voltmeter conmected mm     ;
+parallel with heater      ()                             2
+
+
+--- Page 55 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q17.
+         Acceptable Answer                                            Additional Guidance
+e potential divider      (1)          in       o      Pe
+circuit diagram = J |— ae     ;
+drawn as shown              |      ye
+enatich not essential, accept
+potential doader wath acrow drawn
+through resistor                                                                             4
+° correctly              fan)                 _ Lf
+incorporated into                                |                       ov}                     |
+the siven circuit    oO
+Q18.
+Question           Acceptable Answer                Additional Guidance       Mark
+umm ver
+e Aumimeter im senes with LED and
+woltmeter in parallel wath LED                     (Dy                                                                                                  1
+Q19.
+(Ouestion     Answer                                                                      Klar
+Number
+D Step 4
+Tncomect Amswers:
+A—this step uses the conservation of energy
+B— this step 1s just a statement of Ohm's law
+iC — this step uses the conservation of energy
+
+
+--- Page 56 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q20.
+Nuinniber
+(aj(i)    An explanation that
+
+Makes reference to
+
+the following points:
+
+» totalresistance of .,
+strand decreases  ‘1)
+
+e this increases the     (4)
+Curent in the          “s
+strand OR
+remaining bulbs
+are brighter
+
+® greater power f
+energy                  _.
+consumption with     (1)
+blown bulbs OB
+reduces the lite of
+the remaining
+bulbs
+
+Nuinniber
+(aj) |o use of ¥ = IR and           (1) | Example of calculation:
+
+addition of resistances           Total current = sum of current in
+current in strand with 5          current in the unhealthy strand
+blown bulbs                               fame he,                    |
+
+                                                i=4(28")+ (Geasareen)
+use of VY = FR and
+add ition of resistances             r=20A
+in series to determine
+current iin healthy
+strands
+Use of resistance in
+parallel and series to
+determine total
+resistance
+
+(3)
+
+o JO A <3 A so fuse      (1) | Allow credit for a consistent
+
+does mot blow                      conclusion from an incorrect
+calculation of current
+
+
+--- Page 57 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+     Acceptable           Additional quidance
+Number         Answer
+(bjt) |° wusea            (i)
+micrometer
+gy     ay         ra’
+o As (=)       (1)
+ A=ar
+and r ==
+* repeats         (1)
+readings iin     i
+ditterent
+planes/ pos
+ithons                                _
+euestion          Acceptable Answer            Additional   Mark
+Number                                         quidance
+(b)00) | ° current directly proportional      PT ay
+to cross-sectional area                                  (1)
+     Acceptable Answer                    Additional quidance
+Number
+(by (ii)                                                                      Example of calculation:
+| ealenletec era —        ray      ‘amon  ...   o
+° calculates area =          (1) | asa") = 0.13 mm?
+0.13 (mm*)                           4 og fF
+* Use of y—me +e          (1)
+,      |                                |= 128 AX 015 mm 384
+eo 328A <3 Asothe         (1)  Wire is suitable as J < 3 A
+wire is suitable to                   |            —           .
+A ge -               Allow credit for a consistent
+se as a fuse wire           ee   ee
+conclusion fram an incorrect
+calculation of current
+Accept converse working te          Hay
+find diameter of 3 A fuse wire | (4)
+Q21.
+Question              Acceptable Answer             Additional | Mark
+Number                                       Guidance
+io  Or = G4 ~ Qs + Qs           ( 1 )
+» O/f/f= Ihence , =           1
+eo fo éfR hence Re             (1)
+a” Ra Re               (3)
+
+
+--- Page 58 ---
+
+Electrical Circuits and Internal Resistance                                                                      PhysicsAndMaths Tutor.com
+Q22.
+Question                        Acceptable answers                                  Additional sundance                Mark
+Number                                                           =
+Example ot calculation
+° A statement applying the            @     &=F + a +F3
+conservation of enerey to the     _
+circuit                    £=2y=iRit at R
+e Use of Olum’s law for each         ) |e eo minman
+term individual pd leading to                         Rr= Rit fot is                                                     3
+the cancelling of currents m          ()                                                                       |
+the equation
+Rp = Ait is
+Q23.
+Question | a pswer                                                                                                 Mark
+Number
+A                                                                                                            1
+Le Hd
+Incorrect Answers:
+B — the ammeter would measure the current in the cell, but the voltmeter
+would not be measurme the pd. across the cell
+© — the voltmeter would measure the p.d. across the cell Dut the ammeter
+would not be measurme the current im the cell
+D — the voltmeter would measure the p.d. across the cell but the ammeter
+would not be measuring the current im the cell
+Q24.
+Question                              .       aun ¢                                       gaa ona        =
+ae                                   Acceptable Auswer                             Additional Guidance | Mark
+Number
+ia)                © Means of varying the current (1)
+o Ammeter, voltmeter and variable resistor correctly              Accept a circuit that
+connected (1)                                                                              will allow correct                 2
+measurements to be
+(ib)                An explanation that makes reference to:
+°o Vary the current using the vanable resistor (1)
+°o Record comesponding values for f and Pi)
+0 Graph of V agamst [is a straight line with
+negative grachent (1)
+0 The ef is given by the miercept on the V axis (1)                                                  _
+° The intemal resistance is grven by the gradient (1)                                       3
+
+
+--- Page 59 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q25.
+Question          |      |                      Additional | ,.
+Q   co         Acceptable Answer          - .,.... | Mark
+Number                                        Guidance
+® in circuit A, Vy =IR,,.     (1)
+and £=~————,
+(Rome v Recior)
+« when Reesictor has its       (1)
+maximum value, I + 0
+« hence using circuit A     (1)
+the current will never
+be zero which is a
+limitation
+OR range of p.d.s
+measured is limited
+« in circuit B the supply      (1)
+p.d. is divided up in
+the ratio of the two
+circuit resistances
+Fie =——_— *F
+,       a                 (5)
+« so by making Ra           (1)
+equal to zero a Tull
+range of pwd. s
+(from OW to 12 Vj
+can be applied
+which makes the
+circuit more
+suitable
+
+
+--- Page 60 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q26.
+‘ues “on                    Acceptable Answer                           Additional Guidance          Mark
+Number
+An explanation that makes reference to              MPI e.¢. Wihe tirequency of the
+the following:                                                                        hieht as hich enough the electrons
+will gam emerey from the light (and
+® The wlea that the electrons sam enerey   dy  jump to the conduction band)
+trom the light
+LDR) the                                                                    (1) | of the lamp moving towards the
+intensity brightness/illumination of                     LDR unless stated otherwise
+hight falling on the LDE mcreases
+o ‘This imcreased the number of          (1) | MPS accept charge carrier
+(conduction) electrons                                        (density) for electrons
+° Which reduced the resistance of the          (1)
+° decreasing the potential ditterence
+across the LDR Or increasing the                 (1)
+potential difference across the timed
+resistor voltmeter                                                                                i
+Q27.
+meee ee                              Acceptable Amswer                                      Additional (swidamee              Wark
+Sumber
+0 Seel=—h+h                   (1)     If student assumes that R, =
+|     ~                  _    |      R    “
+y                           hg = + Rog = 2.
+oe Useot i= z with the same       (1)      then MP1 and MP? only
+F tor every ferm
+|           |         1                    _       For MPS, can assume algebra it         a
+o Alcebra to show — =             dy      equation seen
+Ry Rs                                         Example of derivation
+=the jf=-
+&
+Reg Hy He
+Q28.
+Question    .     _               waa       oa       ~
+wwmb         Acceptable amswers | Additional guidance | Mark
+number
+>
+
+
+--- Page 61 ---
+
+Electrical Circuits and Internal Resistance                                                                      PhysicsAndMaths Tutor.com
+Q29.
+Question                            |     ‘tattle, Avessmae                          Additional          ——
+Number                                                             Acceptable Answers                                                           Cuidance                      Wark
+ea)               o state oruse of £= F 7 ir (1)                                                  Example of calculation:
+o p=Ze oti)                                                                       41V=37 V7 0014 Ax pr
+r= 28.60             z
+(i)            o use ofl = Bd (I)
+o weotP=/F (1)
+° =6calculation of etiiciency of pointer (T)
+o anahsis of data im passage to give efficiency of laser as
+approximately 4006 (1)
+° comparing data analysed to draw a conchosson that the clan 1s
+not justified. (1)
+Q30.
+Chiestiom              Acceptable Amswers                                              Aalditional guidance                  Wark
+Number
+oe WLeses ratio of
+Tesisiamces to pds
+uses! =—— and ¥ =JR       Ch)       Beoeqt— 1430 fl
+Bpooal
+Example of Calculataom
+e Ontpui pd =13.7 (VW)              (1)      ai (=e)
+« Compates their answer                       |         gy      1000 M@ 4
+to 13 (V) with                           ay | Mine = 24 V (sens ag000)
+conclusion consistent                             —-37" CO!”           3
+with their answer
+13% > 15 so motor is om
+Q31.
+Question                                          Acceptable amswers                                            Aulditional ¢uidamce                        Wlarls
+Number
+a
+Q32.
+Question | Answers           Additional Guidance           Mark
+Number
+D
+sradient                Intercept on
+Hams
+        |
+(1)
+
+
+--- Page 62 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q33.
+'    _.. | Aeceptable Answer      Additional quidance        Mark
+Number
+a ede 5
+Q34.
+Question | Answers      Additional Guidance      Mark
+Nwirvier
+B         i}
+Q35.
+Suestion                                     Acceptable answers                                                       Additional guidance
+® Due to the intemal resistance of the              (1)
+cell
+® There is a potential difference acnoes                         5
+the intemal resistance of the cell,                                                                                                 ~
+Or there wall be “lost volts”                    (1)
+Or F= &_-—ir
+Q36.
+Question           ccmeuritenctelics axperae             At cn W aca tcle ce      oe
+eT             Acceptable amswers              Additional guidance       Marl:
+Num ler
+I Be; eG
+Q37.
+Question        Answer                                   Additional Guidance                               Mark
+Number
+B is the only                           A is incorrect because this does not
+correct answer                        sive the correct ratio
+C is incorrect becauge this does not
+sive the correct ratio
+D is incorrect because this does not
+give the correct ratio
+
+
+--- Page 63 ---
+
+Electrical Circuits and Internal Resistance                                             PhysicsAndMaths Tutor.com
+Q38.
+Juesiiom                                Acceptable Answer                                        Acditional Guidamce               Wark
+Number
+® potential difference across the LDE =
+3.6 V                                                                              (1)
+Or —   seen Or ee seer
+nie (R475 0) seen Mt  (R475 Oy seen
+ee                       MP? use of F = 18 with 2.4 V or
+© Dseor ? =i                            (l) | 36 only
+(Chr resistance ratio x 6.0 V =
+comespondimng pd.
+Example of calculation,
+o R=1108                     (1)
+f=24 VAS = 00082 A
+Voltage across LDR = 6.0 VY —
+R=
+0324
+(Or use of ratios
+ee 60 V=24V
+(Rt7Smy
+Q39.
+(Question               |     14                               Gated               ir...
+                 Acceptable amswers                            Additional cuidamce             Mark
+Exther
+® Use of equation(s) to determine                  Example of calculation
+the total resistance of the                              |        |
+woltmeter and 40 © resistor im             (   R   ) 6VH=12¥V
+parallel (34.3 0)                   (Ty) | \eootres "0
+1¢6. potential divider formula or
+Olma's lane                                       (ly) | #= 34.290
+oS                      34.290 400 ° Ry                 k)
+o Ry= 280 (8)                    Ry= 24029
+® Use of Ohin's law to detennme         (ly
+the coment through voltmeter       _
+Le. cument m 40 0 resastor               (1)
+calculated (0.045 ©) amd           _
+subtracted trom current im 80) £2        (1)
+® Use of Ohin's law with 1.8 V to
+calculate the resistance of the
+voltmeter
+o #,= 240 (0%)
+
+
+--- Page 64 ---
+
+Electrical Circuits and Internal Resistance                                                                      PhysicsAndMaths Tutor.com
+Q40.
+Question                    ,                                                       nates          .                        _
+—                      Acceptable answers                            Additional guidance             Mark
+Number
+Rxample Calculation
+oe DLUse of = — + = for resistors        (1)    —_ = 4 + —
+Rp fy By                                Rp 30 40
+in parallel                                                                                                                                                             3
+ran)   Ap = 17 02                                    7
+o Useoft Ry = R, + Bo for            /
+PESisiors im series                                 fa     Ar =2041 +10 =47 3
+o Rp Haro
+Q41.
+Question | Acceptable answers                                                                              Additional | Mark
+Number                                                                                                guidance
+The only correct amswer is B
+Ais not correct as 1700/3 —400                                                                              1
+Cis not comect as 120 0O/3=-400
+Dis not correct as 170 O83 =—40 0
+Q42.
+uesiiom                                Acceptable Answer                                        Acditional (suidamece               Mark:
+Number
+An explanation that makes reference to the
+following:
+® Combined resistance of (ight) bulb and.
+LDE is about 3 ©) (im the dark)
+Or the combined resistance is less than (I)
+the resistance of bulb/LDE
+°° The combined resistance is always            ()
+noch less than the (75 62) treed
+Tesistance
+             ewe       |    MES: accept ihe wlea that the pd.
+o The p.d. across the bulb wall be much       CD) | across the bulb is never high enough
+less than 3 V and so the bulb will mot                     to male the bulb come on in the dark
+come on (an the dark).                                                                                                     3

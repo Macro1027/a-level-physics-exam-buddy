@@ -1,0 +1,1570 @@
+
+
+--- Page 1 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Interference and Diffraction
+
+Qi.
+In an experiment to determine the wavelength of light, a diffraction grating is illuminated with
+light from a monochromatic source. A series of bright spots is observed.
+The experiment is repeated and the distance between consecutive bright spots increases.
+Select the row of the table that gives two changes to the experimental set up which would
+both cause the distance between consecutive bright spots to increase.
+
+(1)
+
+Number of slits per mm in the | . ‘avelensth atthe eht saurce
+(Total for question = 71 mark)
+
+Q2.
+In 1905 Einstein published his equation for the photoelectric effect.
+In 1916 Millikan demonstrated that the maximum kinetic energy of photoelectrons is
+consistent with Einstein's equation.
+Millikan used a device known as a monochromator to ensure that a single wavelength of
+light was used to illuminate the surface of the lithium.
+A monochromator separates wavelengths using a diffraction grating.
+Calculate the angle at which a diffraction grating would produce the most intense line at a
+single wavelength of 6.1 x 10°’ m.
+number of lines per mm for grating = 600 mm’
+
+(3)
+
+
+--- Page 2 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+ANGIE = 0... cecccceeecceeeeeseeeeceeeeeseeeeseeeeneeeeenaeeeseneens
+(Total for question = 3 marks)
+Q3.
+Read the extract and answer the question that follows.
+In the 17th century there were two proposed theories to explain the refraction of light. Using
+a wave model, Huygens stated that light slows down when it passes from air to water. Using
+a particle model, Newton stated that light speeds up when it passes from air to water.
+Newton's theory was more readily accepted until the speed of light in water was measured in
+the 19th century.
+In the early 20th century, Einstein used observations from the photoelectric effect to provide
+evidence for the particle model of light.
+Nowadays, both the wave model of light and the particle model of light are accepted, as
+each can be used to explain different aspects of the behaviour of light.
+Diffraction and interference can be explained using the wave model of light.
+In an investigation to determine the wavelength of light from a laser, the light passed through
+a diffraction grating with 300 lines per millimetre.
+A diffraction pattern consisting of a series of bright dots was observed on a screen.
+The following data were recorded:
+distance between grating and screen = 2.00 m
+distance from central maximum to 2"? order maximum = 89.0 cm.
+Calculate the wavelength of light from the laser.
+(3)
+Wavelength = .........ccccccescecceeecceeeeeeeeeseeeeeseeeeeseeeeneneess
+(Total for question = 3 marks)
+
+
+--- Page 3 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q4.
+Light from a laser pointer was passed through a diffraction grating. The light was
+perpendicular to the diffraction grating as shown. A diffraction pattern was produced on a
+screen.
+difttraction                             eee /         |
+grating               ae                             x
+laser pomiter
+<—__p—______>
+The distance between the first order maximum and the central maximum of the diffraction
+pattern was x. The distance between the diffraction grating and the screen was D.
+Distance x was measured to be 0.500 m with a metre rule. The wavelength of light A; from
+the laser pointer was 650 nm.
+The laser pointer was replaced with one that produced light of a different wavelength. The
+new distance x was measured to be 0.400 m.
+D=1.45m
+Calculate the wavelength A2 of the light emitted by the replacement laser pointer.
+(5)
+(Total for question = 5 marks)
+
+
+--- Page 4 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q5.
+In a spectrometer, light from a tube of hot gas is passed through a diffraction grating.
+The diagram shows the zero order and the first order maxima for the line spectrum
+produced.
+first order                   aero                   first order
+          A      —       order       .          A
+(a) The spectrometer measures the angles between the different lines and the zero order.
+One of the lines has a wavelength of 650 nm and is observed, in the first order spectrum, at
+an angle of 19.9° from the zero order.
+Calculate the number of lines per metre of the diffraction grating.
+(3)
+Number of lines per Metre = ...........cccecccseccceeeceeeeeceeeeeeeeeseeeeeseneesans
+(b) Explain one precaution that could be taken to ensure the accuracy of the measurement
+of the angle.
+(2)
+
+
+--- Page 5 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q6.
+A beam of light from a laser is directed at a diffraction grating.
+The diagram shows the positions of the central maximum and the first order maxima on a
+screen.
+Maxim
+maxim
+Which of the following would cause the first order maxima to be closer to the central
+maximum on the screen?
+(1)
+
+El A moving the laser closer to the grating
+Fl    moving the screen further from the grating
+fl C using a grating with more lines per metre
+Ee    using laser light with a higher frequency
+
+(Total for question = 71 mark)
+Q7.
+For two waves of light to be coherent the waves must
+
+(1)
+
+El A always have a phase difference equal to 0.
+Fa    oscillate in the same plane.
+fl C havea similar amplitude.
+a    originate from one source.
+
+(Total for question = 71 mark)
+
+
+--- Page 6 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q8.
+The arrangement shown was used to determine the wavelength of light emitted by a laser.
+screen    | A ’
+2 bern     —.
+A      / Zoe 7“                 Z fo      dittraction
+er                                            a                   grating
+A laser light beam was shone at a diffraction grating. A series of dots of light was produced
+on ascreen. The angles 9 between the light ray to the central dot and the light rays to the
+dots labelled 1 to 4 were measured with a protractor.
+Describe how the angle 9 could be determined without using a protractor.
+(2)
+(Total for question = 2 marks)
+
+
+--- Page 7 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q9.
+The arrangement shown was used to determine the wavelength of light emitted by a laser.
+Screen              a a
+A      . Zee “ne                y a      chiftraction
+er                                            a                   grating
+A laser light beam was shone at a diffraction grating. A series of dots of light was produced
+on ascreen. The angles 9 between the light ray to the central dot and the light rays to the
+dots labelled 1 to 4 were measured with a protractor.
+(a) Describe how the angle 6 could be determined without using a protractor.
+(2)
+
+
+--- Page 8 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+
+(b) Plot a graph of n against sin@ on the grid below.
+| nme cot cn CC i cl a aC cE en Ga (cn ALOR heel eee:
+Resssins Ra connaRHGHGtnEAnitne? tetRRinnAecHEKE SESE GEE Goat Sonu meee Coc soc eeegceaueUSEGe
+7      |       i   IH]   |__|  | EE A   2M WW | sf   BRR ee eee   : I] a        Al    Meet = PPL Le Js
+IECECEREDCEIEE EOE CE EE ORE CC CC REnCCECRECoEOEHene BAe ee aco ee oe ae
+ Te lt a | ds ect BP De TC |
+Ye PC CPt YT Sl Rt) OO 1 YOO
+; UGE SERGE 2S eee CSO Coe eee ee Oe ae |
+ RS00000Ri08 Go0eaSeGe8 Cece CAMoe CeOR eae o Deco eeeeo Reon Soc oee cea nee J ES
+ os  EE z eae os  PEE 5 PAE Cece  3 Pr oe =F   rE FR EEE Ee coer   SIGS ERE Eo
+Jebus auos ceeeeceheeteeea sere: ;ecevgeede aeedsesercen detec’ -atusecaesseeseedeet seat tens’
+| Ba   sD BB   BREE ERE  ER GR
+|e) NC a | ee
+ee A) dT 6 oS Gl Sd ee GY
+igguGhe ea: catsdowess (eves coded (tucezedaz cued dease fesaearedt secseveeaeoreveumesaceesvere
+| cress ee er ee Sie Rereele Bee i ee oie nie ls er    =SEED)      fete biel     ET
+IERRERFEERHEEEREEEEL GEE bore SEUREEEL EC ELLER BE esr Pte pet PEEP EE CEEEE Ee EEELUEEEL ET a RAE
+| DEE HY 9 |e [|  ERPS CARRE Rees Eee eee Oe ee He esl |
+VE Fe ne 8 7M NT OC A a 9) SD), YEW OAT) ll] CO
+I ee BEE EREEE CREE EE CECE Per ECP aEL ZEGE BERR GUoe FREE ee eee See GREE es ae
+\EEEEECICIoo  Eas   w Brees PRECISE EER SE Seer i  :  ase 3 2 i i
+EE i GO Nt Fe a Ra a a aE) ET
+fd ce dG i ed | ed ae ee a el CT
+SSS C0SRHNs FeEBORRBEo Ree ORE EC oSe eae Bae 63 dl 0 Ol
+FEREEEEE PEPER EDP EEE EE EECEPEEEER EE ere EEE EEE PEE EE pee EERE ERE EPEeE Peer Ere
+f| BLE a SU aan aoe (DT Od Get Ga GO Lg te Rae GDP
+Hebe E =F ee Cee eee ores eee ee BEEBE 2a o ede DEERE Ree ae eee | ER
+fT I 9 EP SN Ge 9) EE | WG OO | a | |) EB
+Ae]      fad dd Ne   a   MOE GT    i ET kN
+|CSEEEIIEIECEICE Ee   BEER EEE RAPE EEE REP EEFEFEPREERE   acca tt 0
+We   Il   eee   ae FREE]     Honea   IIE EI    a Ltt   te eet Eee] lle]   =
+el i       Baie       =.= Fel    EI     (a    a     we: Pe LE    [eA       |         |.
+
+(c) The diffraction grating has 300 lines mm".
+
+Determine the wavelength of the laser light.
+
+Wavelength = .........ccccccsececceeeeceeeeceeeeeeeseeseeeeeseeesneeeess
+(Total for question = 10 marks)
+
+
+--- Page 9 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+
+Q10.
+The arrangement shown was used to determine the wavelength of light emitted by a laser.
+
+SCrecih              a 4
+
+7 a py alumamemnereettorc alll     —
+
+A      ‘ Zee 7“                 J f      diftraction
+an                                            Pa                   grating
+A laser light beam was shone at a diffraction grating. A series of dots of light was produced
+on ascreen. The angles 8 between the light ray to the central dot and the light rays to the
+dots labelled 1 to 4 were measured with a protractor.
+The diffraction grating has 300 lines mm".
+Determine the wavelength of the laser light.
+(4)
+
+
+--- Page 10 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Wavelength = ..........cccccsececceeeeeeeeeceeeeeeeseeseneeeseeeeneeeess
+(Total for question = 4 marks)
+Q11.
+The experiment was carried out with laser light of wavelength 600 nm. The diagram below
+shows two paths taken by the light after it has passed through the two slits A and B. The
+diagram is not to scale.
+—__—_    | ~-™. ee  oO
+monochromatic            a
+a  >
+(i) Point O is a point equidistant from the two slits.
+Explain why there is a bright line at this point.
+(3)
+(ii) The next bright line is observed on the screen at point P. Lines AP and BP show the
+path of the light from each slit to the screen at P.
+State the difference in the lengths of the paths AP and BP.
+(1)
+Difference in lengths Of Paths = .............ccccseccccceeseeceeeeeeseeeeeeseseeeeeseeeeens
+(Total for question = 4 marks)
+
+
+--- Page 11 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q12.
+Barnard's star is a red dwarf star in the vicinity of the Sun. The wavelength of a line in the
+spectrum of light emitted from Barnard's star is measured to be 656.0 nm. The same light
+produced by a source in a laboratory has a wavelength of 656.2 nm.
+A diffraction grating can be used to analyse the radiation emitted by a variety of sources.
+(i) A diffraction grating of known grating spacing is used in a school laboratory to analyse
+the light emitted by a laser.
+Describe how the diffraction grating is used and the measurements that should be taken.
+(3)
+(ii) A diffraction grating with grating spacing of 2.2 x 10° m is used to determine the
+difference in wavelength for the spectral line emitted by Barnard's star.
+Comment on the suitability of using a diffraction grating with this spacing. You should
+include appropriate calculations.
+(4)
+(Total for question = 7 marks)
+
+
+--- Page 12 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q13.
+In everyday life the effect of diffraction is more significant for sound than for light.
+This is because
+Ee} A light has a much shorter wavelength than sound.
+Bs]    light is a transverse wave but sound is a longitudinal wave.
+EE} C light is an electromagnetic wave but sound is a mechanical wave.
+    the speed of light in air is much higher than the speed of sound.
+(Total for question = 71 mark)
+Q14.
+Sound waves can diffract around obstacles as shown in the diagram.
+l   fl   l   fl   |   fl   l   |   l   |   l   |   —s
+obstacle ———            of
+The diffraction effect is
+fl A greater for large amplitude sound waves.
+a    greater for low frequency sound waves.
+fl C independent of the frequency of the sound waves.
+Fl    independent of the speed of the sound waves.
+(Total for question = 71 mark)
+
+
+--- Page 13 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q15.
+A student obtains the following diffraction pattern on a wall by shining a red laser beam
+through a single narrow slit.
+The corresponding graph of intensity against position is shown below.
+| intensity
+
+(a) Explain how the diffraction pattern is created.
+
+(3)
+(b) Explain how the pattern would differ if green laser light were used instead of red laser
+light.
+
+(3)
+
+
+--- Page 14 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+(c) A student replaces the single slit with a diffraction grating and obtains the pattern shown
+In the photograph.
+
+Qo RR
+The photograph shows the zero order maximum and the first and second orders on either
+side.
+The student takes measurements to determine the grating spacing.
+|                        ————— first onder maximum
+        —         fe Ne                        Vzero order maximum
+chittraction |<                                =
+crating
+The student measures x, the distance between the zero order maximum and the first order
+maximum, and y, the distance between the slit and the screen.
+x=23cm
+y=1.5m
+Number of lines per millimetre = 300
+Calculate the wavelength of light from the laser.
+(3)
+Wavelength = ..........ccccceseecsseecceeeeeseeceeeeeeeeeeeeneesseeeens
+(Total for question = 9 marks)
+
+
+--- Page 15 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q16.
+The diffraction of light provides evidence for the wave theory of light.
+A student carried out an investigation to determine the wavelength of the light emitted from a
+laser pen.
+He shone the light from the laser pen so that it was incident perpendicularly on a diffraction
+grating. The diffraction grating had 200 lines per mm. He observed the diffraction pattern on
+a screen 3.00 m away from the grating. The pattern consisted of a series of bright dots.
+(i) Give a reason why a laser is a suitable source of light to produce a diffraction pattern.
+(1)
+
+(ii) The student measured a distance of 102 cm between the central maximum and the
+centre of a third order maximum.
+
+The table shows the range of wavelengths for each colour of the visible spectrum.
+
+Deduce the colour of the light emitted from the laser pen.                                      5
+
+
+--- Page 16 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+(Total for question = 6 marks)
+Q17.
+* The light from a lamp is reflected from the surface of a CD, which consists of a spiral track
+of elongated bumps.
+               CD surface showing spiral track
+I / (fit ee aw Wy \\ \ |                  of bumps with a smooth reflective
+CHITA C )) a                surface in between.
+(Source: hitp:i'gantisreerajry blogspot.cowk/2012/04/you-cant-rmasine-world-tthere-are litral-)
+A physics student notices that although the light from the lamp is white, different colours are
+seen in the reflected light. He suggests that the colours are produced when diffraction occurs
+at the surface of the CD.
+Discuss the extent to which the student's suggestion explains the presence of colours in the
+light reflected from the surface of the CD.
+(6)
+
+
+--- Page 17 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+(Total for question = 6 marks)
+Q18.
+A method to determine the wavelength of light using a converging lens was first proposed by
+Sir Isaac Newton.
+A converging lens is placed on a plane glass plate. The lens is illuminated from above with a
+parallel beam of monochromatic light, as shown.
+Some of the light is reflected from the upper surface of the lower glass plate and some from
+the lower surface of the lens. Interference between these two reflected waves produces
+circular fringes. The pattern is viewed through a microscope.
+——
+light source:            |                                  Mii So
+=         SO     wk A                                ‘Ht ey Ny
+conversme lens —— :
+glass plate              ————                                             Pattern seen through
+side view of apparatus                                                                      mUCTOSscape
+When considering the principles of this experiment, a student suggests that interference
+fringes would only be produced with monochromatic light. This is because interference
+requires coherent light waves.
+Discuss the validity of the student's suggestion.
+(4)
+
+
+--- Page 18 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+(Total for question = 4 marks)
+Q19.
+The diagram shows a coherent beam of light incident on a metal ball bearing.
+A dark shadow is seen on a screen behind the ball bearing. There is a small spot of light in
+the centre of the shadow. This spot of light is known as the Arago spot.
+illuminated
+4 screen
+shadow . |                       “
+f                  oO = Avago
+7                 ball                                                   i”              spot
+f                 bearing                                                                    :
+ed lieht                                             SCTeet,
+Appearance on.
+Experumental set-up                                                          screen
+(a) Use Huygens' construction to explain the behaviour of light as it travels past the edge of
+the ball bearing.
+(2)
+
+
+--- Page 19 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+(b) Explain why a spot of light is produced at the centre of the shadow.
+(3)
+(Total for question = 5 marks)
+Q20.
+Light can be modelled as a wave.
+Diffraction provides evidence for the wave nature of light.
+Use Huygens' construction to describe what happens to light waves after passing through a
+narrow gap.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 20 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q21.
+Read the extract and answer the question that follows.
+In the 17th century there were two proposed theories to explain the refraction of light. Using
+a wave model, Huygens stated that light slows down when it passes from air to water. Using
+a particle model, Newton stated that light speeds up when it passes from air to water.
+Newton's theory was more readily accepted until the speed of light in water was measured in
+the 19th century.
+In the early 20th century, Einstein used observations from the photoelectric effect to provide
+evidence for the particle model of light.
+Nowadays, both the wave model of light and the particle model of light are accepted, as
+each can be used to explain different aspects of the behaviour of light.
+A ray of light travelling in air is incident on some water with an angle of incidence of 35°. The
+angle of refraction is 26°.
+Deduce whether this is consistent with Huygens’ statement about the speed of light as it
+passes from air to water. Your answer should include a calculation.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 21 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q22.
+Read the extract and answer the question that follows.
+In the 17th century there were two proposed theories to explain the refraction of light. Using
+a wave model, Huygens stated that light slows down when it passes from air to water. Using
+a particle model, Newton stated that light speeds up when it passes from air to water.
+Newton's theory was more readily accepted until the speed of light in water was measured in
+the 19th century.
+In the early 20th century, Einstein used observations from the photoelectric effect to provide
+evidence for the particle model of light.
+Nowadays, both the wave model of light and the particle model of light are accepted, as
+each can be used to explain different aspects of the behaviour of light.
+Give two reasons why Huygens' theory for the refraction of light eventually became
+accepted.
+(2)
+(Total for question = 2 marks)
+Q23.
+Details supplied with a school microwave transmitter and receiver include the following
+information:
+Transmitter supplies a 10 GHz polarised EM wave.
+Receiver detects EM waves im a simele plane contamige the direction of propagation,
+producime an audible output proportional to the nucrowave mitensity.
+
+
+--- Page 22 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+A student uses the microwave transmitter and receiver to investigate interference using the
+set-up shown.
+
+        :
+transmitter                   | recerver
+metal plates                               :
+As the receiver is moved along the dotted line, alternate points of maximum and minimum
+intensity are detected.
+Explain why points of maximum and minimum intensity are detected.
+(4)
+(Total for question = 4 marks)
+
+
+--- Page 23 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q24.
+Plane wavefronts pass through a gap in a barrier. The gap is much smaller than the
+wavelength of the wave.
++ Sd ID)
+Which diagram best shows the resultant shape of the wavefronts?
+  A
+  Cc
+(Total for question = 71 mark)
+Q25.
+In a concert hall, sound waves produced by an instrument are reflected from different parts
+of the hall. Two coherent sound waves meet at a point where their phase difference is TT.
+What is the smallest possible path difference to produce this phase difference?
+  A k/4
+    A/l2
+  C 3A/4
+    A
+(Total for question = 71 mark)
+
+
+--- Page 24 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q26.
+A stationary interference pattern is created by the superposition of waves from two sources
+which are close together.
+For this to occur the waves must
+  A bein phase with each other.
+    be transverse.
+   C have the same amplitude.
+    have the same frequency.
+(Total for question = 71 mark)
+Q27.
+Huygens' principle states that every point on a wavefront is a source of wavelets which
+spread out at the same speed.
+State what is meant by a wavefront.
+(1)
+(Total for question = 71 mark)
+Q28.
+A monochromatic beam of light of wavelength A from a laser is directed at a diffraction
+grating of line spacing d.
+A student calculates the value of d/A in order to determine the expected number of visible
+maxima.
+The calculated value of d/A is 4.7
+How many maxima are visible?
+a A 4
+a    5
+Bc Q
+4    11
+(Total for question = 1 mark)
+
+
+--- Page 25 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q29.
+Read the passage and answer the question that follows.
+Atoms can be promoted into an excited state when they absorb energy. This results in the
+release of radiation at a random time. When several atoms are close together a quantum
+effect can occur. When one atom emits radiation this affects all the other nearby excited
+atoms. The excess energy of many of the atoms is released simultaneously and an intense
+flash of light is produced. This effect is called superradiance and can be used to produce
+lasers that emit a narrower range of frequencies than conventional lasers.
+Superradiant lasers are highly monochromatic.
+Explain why a monochromatic light source is important in diffraction experiments.
+(3)
+(Total for question = 3 marks)
+
+Q30.
+In an experiment to determine the speed of sound in air a student connected two
+microphones to an oscilloscope, as shown.
+
+oscilloscope              =—__ @ ——>                                                    N loudspeaker
+
+See         microphone      microphone         y          ‘\\
+
+PL LLL               i         \ |      2                                |
+
+ht                                signal generator        I |
+The microphones detect sound from the loudspeaker, converting it to an electrical signal.
+The signal is displayed on the oscilloscope screen.
+
+
+--- Page 26 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Both microphones were initially positioned the same distance from the loudspeaker. The two
+signals were in phase on the oscilloscope screen. The student slowly moved microphone 2
+towards the loudspeaker, until the two signals on the oscilloscope were in phase again. He
+then measured the distance d between the microphones to determine the wavelength A of
+the sound waves.
+d= 20.5cm
+The oscilloscope trace for the signal from microphone 1 is shown below.
+
+The time base of the oscilloscope was set to 0.20 ms div”.
+Determine a value for the speed of sound in air.
+(5)
+Speed Of SOUN = 2.0... ecceecccsesccceececeeceeseeceeeeeeseeeeseeeeeeeees
+(Total for question = 5 marks)
+
+
+--- Page 27 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q31.
+The photograph shows an ultrasonic mouse repeller used in a house.
+The mouse repeller produces ultrasound that repels mice but cannot be heard by humans.
+The mouse hears ultrasound directly and by reflection from the walls.
+The mouse repeller produces ultrasound of frequency 26.0 kHz.
+speed of sound = 340 ms“
+A student makes the following suggestion.
+"If the ultrasound reflects off a wall directly opposite the mouse repeller a standing wave is
+formed, so there will be areas in the room where the mice will not hear the ultrasound."
+Evaluate this suggestion.
+(6)
+(Total for question = 6 marks)
+
+
+--- Page 28 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q32.
+A student used a diffraction grating to determine the wavelength of the light emitted by a
+laser. Light from the laser passed through the diffraction grating and the student observed a
+pattern on a wall 4 m away. The pattern consisted of a central maximum and 1* and 2"
+order maxima as shown.
+| Snl onder
+ciitraction                      — —
+laser                    a ~ eee
+[                  =—— - —                                                          central maximum
+|                    — ae       oo  Ist order
+lee                                                —~=| 2nd onder
+The student measured the distance between the central and a 2™ order maximum as 1350
+mm. The diffraction grating had 300 slits mm".
+Measuring the distance between the two 2"? order maxima would produce a smaller
+percentage uncertainty in the value of wavelength.
+Give a reason why.
+(1)
+(Total for question = 1 mark)
+
+
+--- Page 29 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q33.
+Read the following press release and then answer the question that follows.
+"Lockheed Martin Demonstrates Weapons Grade High Power Fiber Laser
+BOTHELL, Wash., Jan. 28, 2014 — Lockheed Martin has demonstrated a 30-kilowatt electric
+fiber laser, the highest power ever documented while retaining beam quality and electrical
+efficiency.
+The internally funded research and development program culminated in this demonstration,
+which was achieved by combining many fiber lasers into a single, near—perfect quality beam
+of light — all while using approximately 50 percent less electricity than alternative solid—state
+laser technologies. The unique process, called Spectral Beam Combining, sends beams
+from multiple fiber laser modules, each with a unique wavelength, into a combiner that forms
+a single, powerful, high quality beam."
+(Source: Lockheed Martin Demonstrates Weapons Grade High Power Fiber Laser Wash
+Bothell, Jan 28, 2014)
+Traditional solid state lasers convert about 20% of electrical input energy to light output.
+The high power laser uses Spectral Beam Combining involving several beams with different
+wavelengths instead of a system using coherent beams.
+Explain how combining coherent beams could lead to Zero intensity in some parts of the
+combined beam.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 30 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q34.
+A two-beam oscilloscope is used to display signals from two microphones as shown.
+Pt tt tt TT TT tT
+Pt} yet te
+| at TA ht ||
+PS RSA
+Y| | INNZ YT IN SZ
+Pt tt tT ET
+PT ttt} Tet tt ft
+Which of the following could be the phase difference in radians between the traces?
+A
+   c=
+   p =
+5
+(Total for question = 1 mark)
+
+
+--- Page 31 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+
+Q35.
+* The photograph shows a pipe organ in a concert hall.
+
+= pus eA Ee os oa LEY AS 8 2s Ei nat
+
+ete il | ne ane
+
+: see sonia can gcse -_
+
+(Somme: evry icaragiiving Comvartic lesphotos/ leurs) (A020 Maps ets ie):
+When the organ is played, sound travels through the air to a person in the audience as a
+wave. It is found that there are some positions in the concert hall where particular
+frequencies are quieter than others.
+Explain why this might be the case and give an action that could be taken to eliminate this
+problem.
+(Total for question = 6 marks)
+
+
+--- Page 32 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q36.
+The photograph shows an ultrasonic mouse repeller used in a house.
+| 4 oe) ||
+The mouse repeller produces ultrasound that repels mice but cannot be heard by humans.
+The mouse hears ultrasound directly and by reflection from the walls.
+The mouse repeller produces ultrasound of frequency 26.0 kHz.
+speed of sound = 340 ms“
+State what is meant by superposition of waves.
+(2)
+(Total for question = 2 marks)
+
+
+--- Page 33 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q37.
+Light from a laser pointer was passed through a diffraction grating. The light was
+perpendicular to the diffraction grating as shown. A diffraction pattern was produced on a
+screen.
+diftraction                             eee ,         |
+grating               ee                             x
+lager pomter          ;
+The distance between the first order maximum and the central maximum of the diffraction
+pattern was x. The distance between the diffraction grating and the screen was D.
+In another experiment, the light from the laser pointer was not quite perpendicular to the
+screen.
+Explain how this would change the diffraction pattern produced on the screen.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 34 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q38.
+Light from a laser pointer was passed through a diffraction grating. The light was
+perpendicular to the diffraction grating as shown. A diffraction pattern was produced on a
+screen.
+diftraction                             eee /         |
+grating               ee                             x
+lager pomter          ;
+<—___p—______>
+The distance between the first order maximum and the central maximum of the diffraction
+pattern was x. The distance between the diffraction grating and the screen was D.
+Distance x was measured to be 0.500 m with a metre rule. The wavelength of light A; from
+the laser pointer was 650 nm.
+The laser pointer was replaced with one that produced light of a different wavelength. The
+new distance x was measured to be 0.400 m.
+D=1.45m
+Explain one modification to this method that would decrease the uncertainty in the calculated
+value of Ap.
+(2)
+(Total for question = 2 marks)
+
+
+--- Page 35 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q39.
+The diagram shows a coherent beam of light incident on a metal ball bearing.
+A dark shadow is seen on a screen behind the ball bearing. There is a small spot of light in
+the centre of the shadow. This spot of light is known as the Arago spot.
+illuminated
+f/  sereen
+shadow . |                       °
+f                  oO = Avago
+f                 bearing                                                                    :
+Appearance on.
+Experumental set-up                                                          screen
+Frangois Arago first demonstrated this experiment in 1818 for a group of eminent scientists,
+to show the behaviour of light.
+State the model for the behaviour of light that this experiment demonstrated and explain why
+the scientific community accepted this model.
+(3)
+(Total for question = 3 marks)
+
+
+--- Page 36 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q40.
+The diffraction of light provides evidence for the wave theory of light.
+The diagram represents wavefronts of light, incident at a single slit. The points labelled A, B
+and C are points on the wavefront that has just passed through the gap.
+>A
+o Fi
+>C
+(i) Describe what is meant by a wavefront.
+(1)
+(ii) Add to the diagram to show how Huygens' construction can be used to determine the
+shape of the next wavefront, after the wave has passed through the gap.
+(3)
+(Total for question = 4 marks)
+
+
+--- Page 37 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q41.
+A student used a diffraction grating to determine the wavelength of the light emitted by a
+laser. Light from the laser passed through the diffraction grating and the student observed a
+pattern on a wall 4 m away. The pattern consisted of a central maximum and 1st and 2nd
+order maxima as shown.
+| Snl onder
+ciitraction                      — —
+erate                 — =           __ | st order
+laser _                    a -_ ——
+fd                 ————                                                        central maximum
+| —        a  Ist onder
+Le                                                —~=| 2nd onder
+The student measured the distance between the central and a 2nd order maximum as 1350
+mm. The diffraction grating had 300 slits mm".
+The colours and corresponding wavelengths of light emitted by commonly used lasers are
+given in the table.
+  520-460 nim
+Deduce the colour of the laser light the student used in this experiment.
+(4)
+(Total for question = 4 marks)
+
+
+--- Page 38 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Mark Scheme — Interference and Diffraction
+Qi.
+Question      Answer                                                                  Mark
+Wimmer
+A Using né=ilsin @                                                          il
+Number of slits per mm im the                       Wavelength of the light source
+(ifirachion crating
+Tncarrect Answers:
+B- wavelength decreasing would cause d to dectease
+C—oumber of slits‘nm decreasing would cause @ to decrease
+D both decreasing causes @ to decrease
+Q2.
+Cuestion    1                               Get ts                 eccl
+               Acceptable answers                                Additional uidamce
+oo    _.              Example of calculation
+« Useotad= 1 / m0 of shits per                d@=1/.400 000 = 167 = 10? ao
+e Useorni =dsind           | 61s 107 m = 167» 107 m™ sin 2
+() |@=2147
+a g@o—Di*
+Q3.
+Question        Auswer                                                       Additional Guidance           Mark
+Number
+o calculates 6 — 24° andd = 3.3x10-°m | Example of calculation
+o use of ml. = asin                              tmg@= —" g=24°
+ae     eran?                                       Dl TH
+oG/—- 656 10" m
+es ee er
+a= 300. ao 107° mo
+l=  a. 10   = w elm2é — 678 um
+
+
+--- Page 39 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q4.
+                           Acceptable Answer                                         Additional (suidance
+ee     , | Example of calculation               5
+o Useofingonomety to detenmme (1)        0.50 -
+é                                ad   tan if = . @=19,0°
+o Calculation of both angles         ()
+o Useofad sin@ = nA, to calculate   (1) | tan? = —__ = #15.
+o Useofd sinf = ma, with d 650 % 1077 m
+o i=53* 107 m (530 om)                   sn 19.0"     6
+?           (     )                      =1.99x10' m
+az = 1.99 x 10-*m
+* sin 15.4"
+= 5.29 * 1077m
+Q5.
+Question      A    ,    "              pases    ma           Me!
+ve gen bees       Acceptable Answer            Additional Guidance          Man
+Number
+(a)      « useofmA =dsin@ (1) | Example calculation
+d= 650 « 10° m / sin 19.99
+o use of L/d          (1)|}=1.9* 10m
+1/1.9 xX 10° m = 520 000
+» 520 000 lines per     (1) | lines per metre
+metre                                                           (3)
+Ouestion                |    |               pep      a           |
+ie              Acceptable Answer       Additional Guidance | Mark
+Number
+(b)       ® measure angle for first     (1)
+order on either side
+and divide by 2
+« jfthere isa zero errorit (1)
+will be eliminated
+° measure a larger angle      (1)
+» this will reduce the            (1)
+percentage uncertainty                                                         (2)
+Q6.
+‘Onestion     Answer                                                              Witla.
+Nuomolyer
+PF   I — using laser licht with a higher frequency
+Tncorrect Answers:
+A — this would have: no ettect
+B —this would make the maxima. turther from the central maximum
+CC — this would make the maxima further irom the central maxim
+
+
+--- Page 40 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q7.
+Question,      Answer                                                              Tilak:
+Aimer
+D originate trom ome source
+Incorrect Answers:
+A— coherence requires a constant phase ditference not necessarily
+B— planes not relewaat.
+C— amplitude not relevant
+Q8.
+Question                         Acceptable auswers                                      Additional guidance                 Mark
+Number
+e measure distance thom crating te screen
+(and from centre to dot x                )
+* usctoer=x7/ [to detemine      rah                          +
+Q9.
+                       Acceptable answers                                      Addinonal guidance
+Number
+e measure distance thom crating te screen
+I and from ceive to dot x                O
+* usctoer=x7/ [to detemine      rah                          +
+Question            Me coccrcihie Th Tle. cae ceeeemen                   a qaiet on eg         roa
+Same                Acceptable answers                      Additional guidance          Mark
+Number
+@ Ames with labels                   (1)
+® scales.                          (1)
+.  B  en me                  fal   MP2: scales only in 1,274.5 and ost
+* line of best tit                               “| cower at least half of paper
+IPS: a2 gum square tolerance, check      |
+all pownts                                                                  4
+Question            Me coccrcihie Th Tle. cae ceeeemen                   a qaiet on eg         roa
+Same                Acceptable answers                      Additional guidance          Mark
+Number
+« calculation of a gradient
+(1) | Example of calculation,
+® Use sradient = ald               ;                     7
+°                        a)            a
+om met pemein                         sradient = —— = 5.26
+* wed= (1.001 / 300)           (i)              OG
+° wavelength =63 > 107m         ()           —_ = 5296 F
+wavelength = 6.3 x 10m                         4
+
+
+--- Page 41 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Qi0.
+Num ler
+« calculation of a gradient
+(1) | Example of calculation
+o Use sradieni                            wo                  .        40
+BS                                    sradient = —— = 5.26
+° wed=0.001/300                    @)                         D6
+e wavelength = 6.5 ™ 10° mm             fl)                a0 Se oe A
+wavelength = 6.3 « 10% m                      4
+Qii.
+Question,                             Acceptable Answers                                          Acchtional guoclamce            Mark
+Nunber
+i@            An explanation that makes reference to the
+® Path lemeths (A-0 and B-O) are equal
+Path ditterence 1s zero
+o Will annve im phase Or phase              (ly
+chiference 1s zenn
+® (Brcht hne 1s position of) comstmctve (1)
+iltenierence/superpositien
+(ai)           ® 6000m0r600* 10° mOréi0~10" (1) | Do mot accept Gui)
+m Or one wavelength (Or i.
+Accept any comerct                             1
+equivalent value
+
+
+--- Page 42 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q172.
+Question             Lecamtalle Aa                     uaege peg        re:
+Number                            Acceptable Answer                                      Additional Guidance                Mark.
+ip         ® set up diftraction grating at right            An annotated diagram could score
+angles to light from laser                                (1) | these marks
+Ov set up grating parallel to screen.
+® mesgsure the distance between the      (1) | MPS accept between other comect
+diittraction. grating andl the screen                         specified ondlers.
+® measure the distance between 1st       (I)                                         ;
+order images on the screen                                                                                                                        5
+Number                                      Acceplable Ansirer                                                      Additional (suidance                        Wark.
+(a)    er                         MP4 dependent on MPS
+“BSE of d am e =i, So      (1) | Example of calculation:
+« Calculation of one of the diffraction            ()
+« Attemptto calculate a difference inthe ©) | *"1-
+angles                                                nn ae mean
+Or statement that the tao angles are                                                                        5
+very simular                                 a:
+« So (accurate) measurement would be      @                    2.281 i
+very difficult wavelenath could                 - 8 =17.348°
+Ov the ditterence in waveleneth could            .a agasa® aqean® ramet      4
+not be determined with this crating                   AG=1P 354" — 17-348          8
+Q173.
+
+Question                  _—                                      ce ee                      .
+                       Acceptable Amswers                                                     Aud ditional (-uidance                                  Mark
+SS
+Q714.
+
+Question                              .                                                          a
+Number                             Answers                                                  Mark
+The only correct answer is B                                                                                     1
+Ais incorrect because amplitude does nat affect the diffraction effect
+Cis incorrect because jrequency affects the waveleneih and hence the diffraction effect
+DD is incorrect because the speed of sound affects fhe wavelengi: and hence the
+diffraction affect
+
+
+--- Page 43 ---
+
+Interference and Diffraction                                                                                                                    PhysicsAndMaths Tutor.com
+Q15.
+; a es  ; .                                  Acceptable Answers.                                       Additional Guidance          Mark
+Questio                                    Acceptabl                                                       Additional Guid                 Mark
+Number
+fa)                  An explanation that makes reference to:                                               Accept relevant reference to
+o waves/light passing through anarow gap spreads out           evens construction for
+® light reaches the wall from each part of the slit wath,
+dittering phase relationships (1) OR light reaches the
+wall from each part of the slit with dittering path
+o owheothe waves meet superposition takes place and if
+the waves are in. antiphaze it results in destructive
+interference 20 a dark spot 1s seen (1) OR when the                                                                     3
+WHITES mect superposition takes place and if the waves
+are in phase it results im constructive imberterence so a
+brght(er) reciom ig seen (1)
+ib)                   An explanation that makes reference to:                                                Aocept a diacram clearhy
+;                                                      7                     to the same scale
+o reat lieht has a shorter wavelength than red light (1)            showing a narrowed
+(OR red light has a longer wawelength that green light (1)          pattern.  |
+o so green licht dittracts less than red light or red loght            MP2 and MP3 may be
+diffracts more than green light (1)                                                    awarded if reference is made
+° so the dark pounts would be closer to the centre                      to frequency difierence
+or more dark pomts would be seen m the same space on         father than wavelength.                 4
+the wall of central fringe narrower (1)
+i(c)              ® use of tigonometrcal functions to calculate & (1)                Example of calculation:
+© §6calculate difirartion sratime spacing (1)                               a= tar’ (0.23 m/15 my= 8.7"
+o wavelength =5.1™ 10° mm (1)                                     = 3.3 © 10-8 mm « sin 8."
+=5.1x 10? mm
+Qi6.
+Question                           Acceptable Amswers                                                            Additional guidance               Mark
+Numer
+(i) | Ay one
+o IWonochromatic or small range of
+wavelength / frequencies
+o (Coherent
+e Litthe diverzence of wave over a                                                                              1
+distance
+e Produces plane waverronts
+(ii)           oe @ = 0.005 mm or use of                      (1) | Exany ple ar Calculation
+=—_~__                                                @) | ¢=—*— = 0.005 om
+200 mm 2                                               (1            Se mum 2
+oe Use ofitan to find &                                  fv                        _
+e Use of asdsind with »=3                         | @= tan? (—) = 18.8°
+eo 4d=3.40 1077  (a)                                    4. (5x10 "mjxsinige GayM
+« (Concludes that the laser light is                            A= 2   ot
+oreen                                                                107"
+Or                                                                              (ly | 88 light is green,                                       5
+conclusion consistent with their
+value of 4
+
+
+--- Page 44 ---
+
+Interference and Diffraction                                                                                                                    PhysicsAndMaths Tutor.com
+Q17.
+TT                                  Acceptable Answer                                   Additional Guidance            Mark
+Number
+=
+This question assesses a student's ability to             Guidance on how the mark
+show a coherent and logically structured                 scheme should be applied:
+answer with linkages and fully-sustamed.                   ;               . oe gee
+reasoning,                                                              The matic for indicative content
+should be added to the mark for
+Marks are awarded for indicative content             lines of reasoning. For example
+and for how the answer is structured and                 an answer with five mdicative
+shows lines of reasoning.                                         marking pomts which is partially
+structured with some linkages
+The followimg table shows how the marks               and lines of reasoning scores 4
+should be aararcded for mdaicative content.                maths (3 marks for indicative
+content and 1 mark for partial
+structure and some linkages and
+Number of                 Number of marks                lines of reasons )
+indicative marking | awarded tor                     +            a
+points seen im              indicative marking               If there are mo linkages between
+answer                        pods                                  pourts. the Sale five indicative
+5                              marking pomts would yield ait
+no maths for linkages).
+*                The following table shows how the marks should be awarded
+(contimued) | for stracture and lines of reasoning.
+rn
+for structure of answer and
+sustained line of reasamne
+Answer shows a coherent amd                              3
+logical structure with
+linkages andl fulby sustained
+lines of reason
+demonstrated throughout
+Answer is partially structored                              ll
+with some linkages ated lines
+of reasoning
+Ansurer has no linkages                                   0
+between poms and as
+nHstmectured
+
+
+--- Page 45 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Question                                    .       .        .                                           Additional | .
+mr                           Acceptable Answer                       ——         Mark
+Number                              Pp        :                              Guidance
+
++
+(continued)   Indicative content
+° Analyses and interprets the text to comclode that diffraction
+occurs when light is reflected from the CD surface
+© Hach mag on the CD acts as a diffraction centre scattering
+hight 1 all directions
+© Interference occurs (superposition of light trom the multiple
+hheht sources)
+® In directions im which there is a phase difference equal to an
+even multiple of 1 rad constructive mterterence
+(remforcement) occurs OR im directions in which there 1s a
+path difference equal to a whole number of wavelencths
+constructive interference (remforcement) occurs
+© White light is a range (mixture) of wavelengths
+© Hence each wavelength of light remiorces im a different
+direction which explains why a spectrum is seen                                                         6
+Qi18.
+Ouestion                       a                                          a aeae     a ie                        ah <<a
+a —               Acceptable Answer                          Additional (Guidance                 Mark.
+Number                       *
+° (Coherent waves                        MP2: accept wavelength for
+have a constant             CD | frequency
+phase relationsinp
+o Coherent waves            a
+have the same
+irequency
+o However, for each         (1) | neces           Be
+frequency present          | MP4: hence with a white lieht source
+the (two) reflected                     you would see a set of coloured rmes                df
+o Hence with a mon         (1)
+monochromatic            ,
+source, a set of dark
+rings for each
+irequency would be
+produced
+
+
+--- Page 46 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q19.
+Question                        4       enh                                                  4 didlati          -                       Ln
+                        Acceptable answers                                       Additional euidance
+(a)           An explanation that makes reference to the                     Marks may be shown on a clearly
+followin                                                                                           labelled chagram
+® The hghtis ditiracted.                               (1)
+® (because) each point on wavefront actsas (1)
+a. source of secondary waves ‘Or wavelets
+enutted (from ports on the wavetront)
+Number                 Acceptable answers                        Additional guidance           Wark
+(by         An explanation that makes reference to the
+following:
+e Path leneths (ito centre of shadow from
+edge of ball) are equal                                    (1)
+ey
+path difference (at spot) is zero
+oe Wl amive im phase Ov phase ditterence       (1)
+18 ZeTO
+® (Bright spot is position of) constructive            (1)
+Mmterherencesuperposiiven                                                           3
+Q20.
+Cmestiom                                        Acceptable Answers                                                         Additional (oundamce            Mark
+Numlver
+o The wave spreads out (after passing
+through 2 gap)                                                                 (1)
+e Each pointon the wave acis as a source              .
+of (secondary) wavelets                                                 (1)
+e That inferfere/superpose                              (1)                                               4
+
+
+--- Page 47 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q21.
+Question       Answer                                                     Additional Guidance          Mark
+Number
+eo es         _      ¢ ..        Accept use of                        *
+o useotmuint:—nainGaamdn=-—- (1)          <P      _.                 3
+5     i             vo       musings = asinmGls
+o porous x10" ms”                    (1)                 .
+e conclusion compare their           (1)        to establish that      ;
+|         anak                  ay        nfweter)> 1 with conclusion
+‘answer to 3.0% 10°                                  .          €
+i                                                                                      refering to 7”
+Example of calculation
+, sings . .
+mf water)   “agg
+       3.0% 1O?ma*
+Yiieaier = —__ =
+(      }        L.2
+2.3% 10" mst
+Q22.
+Question      Answer                                                           Additional       Mark
+Number                                                                             (snidance
+o Expenmental evidence became available (eg speed of          MP1 the idea        3
+light im. water)                                                                                 of evidence
+oF                          a            ;             MP? the idea of
+wave model could be used to explain other properties                 further support
+ot ligt
+or
+Huygens’ construction could be used to explam
+interference dittraction                                  (1)
+° further support tor wave theary by other scientists
+(ec Thomas Young)
+or
+(younger) scientists were willie to accept new ideas  (1)
+Q23.
+Ouestiom                        Aoceptahle Answers                                         Additional euidamce                 Midlark
+®uumler
+e ‘Waves (from gape)                        (1) | Not superimpose
+superpose/interterence
+e Constmictrve (interference) when           (I)                            _.
+WAVES are in phase                                                          MES Do not accept out of phase
+‘Or path citterence 1s ni                                 |
+® Destructive (interference) when            (1)
+Wawes are in antiphase                                                                                                                                       |
+Or path difference is (ato.                                                                                               4
+e Links constructive mtentierence to          a
+desmuctive injerterence with
+mmm Zero mtensity
+
+
+--- Page 48 ---
+
+Interference and Diffraction                                                                                                                    PhysicsAndMaths Tutor.com
+Q24.
+Ouestion              .                                    begs                 -
+ee              Answer             Additional quidance | Mark
+Number                            =
+(1)
+Q25.
+Question                       my l linae              ws               '
+ee              Answer             Additional quidance | Mark
+Number                                                                    =
+B                                  (A / 2)
+(1)
+Q26.
+Question               5                                           a Adee            =                                 hee
+Q      oo               Answers                          Additional Guidance                    Mark
+Numer
+Q27.
+Questo,                             Acceptable Answers                                          Adchtional guidance            Mark
+Number
+® Line/surface jomme pomtsonawave (1)                                                       ]
+that are im phase
+Q28.
+<" = am                                               Acceptable amswers _   mane        Mark
+Number                                                                                                                     TUL ALCS
+‘The only correct answer is C because the maxnnum order reached                                   I
+comesponds to the highest mteger value less than of equal te line
+spacing dirnided by wavelength, which is 4, and there are that many
+orders ether side of the maximum plus a central onder
+Aas not comect because the maximum order reached comesponds to
+the highest integer value less than or equal to line spacing divided
+by wavelength, which 1s 4, and there are that many orders. exther
+side of the maximum plus a central onder, but this answer only gives
+the munber of orders an one side of the central onder
+Bis net comect because the maximum order reached comesponds to
+the highest integer value less than or equal to lime spacing divided
+by wavelength, which a 4, but this onder rounds 47 to 3 andl
+doesn't consider the central maximum of that there are orders on.
+etther side
+D ie not comrect because the maximum order reached comesponds to
+the highest integer value less than or equal to line spacime divided
+by wavelength, which is 4, but this founds 4.) to 3 and then
+adds the orders on the other side and the central maximum
+
+
+--- Page 49 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q29.
+Question                          Acceptable Amswers,                                                        Additional guidance                         Marl
+Number
+® ennisa very small range of
+mequencies/wavelenzihs             (1)
+6 so smaller variation at each            .
+dittraction angle                                          (1)
+® produce a clearer/sharper             :
+interference pattem                                    @)                                                                                                    3
+Q30.
+                         Acceptable Answer                            Additional Guidance
+« No of divisions read from oscilloscope trace           (1) | MP1: Minst be for a
+. Use of time base setting                                   a)    recogmsed part of wave
+ae                                            |      Example of calculation
+» Use of f= 1/T                                            no          :
+|                                               ;      T=3x* 020% 10 4s=
+« Use of v= fd                              (1) | 6.0% 10-s
+es v= 340 me!                               (1)
+6.0™ 10-45                 =)
+vp=167xit's -ix
+205 m= 342 mst
+
+
+--- Page 50 ---
+
+Interference and Diffraction                                                                                                                    PhysicsAndMaths Tutor.com
+Q31.
+o Waveand reflection willmeet (1) | Example of calculation
+o Superposition / interference                              AZ (013 ons
+occurs                                                  (1)       = 0.0065 mm
+o Where in antrphase, destructive         +
+intenerence                                    @)
+o ero/mimmum amplitude at           (ly
+nodes — so mice won't hear                     |
+Enther
+o But node separation = 4                                                                                        fi
+wavelength = (about)! mom,            qd)
+o Toosmalla space fora mouse fo
+avoid the ultrasound, so                  (1)
+suemestion mot comect
+o Wall absorbs some ultrasound so
+reflected wave has smaller
+amplitude than wcident wawe            (ly
+o® Tnoomplete cancellation, some
+Ulttascund even at modes, so                (1)
+sug@estion (probably) mcomect
+o Waves also anive from other
+walls/tlooc/cedlime/noultiple
+reflection,                                       (1)
+eo (Complete cancellation unlikely
+so suggestion (probably)                  (I)
+o JA standing wave will only be
+formed if the length of the room      qa)
+1s a whole number of half                        )
+wavelengths
+° (Otherwise there villbeoonodes Qy
+so ne silent spots where the
+mouse won t hear
+Q32.
+Number                                                                                    j
+o The resolution would be the
+same bout the distance
+measured is oreater
+or
+The uncertamty would be the              (1)                                                                         1
+samne but is divided by a
+
+
+--- Page 51 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q33.
+Question                            ecantalile Ameumeare                             Additional      Lilarle
+                                                         Heceptable Answers                                                                   (Guidance.              Mark
+An explanation that makes reference to:
+° coherent means there is a constant phase relationship (1)
+® for some parts of the beam the phase difference could be 150°
+antiphase (1)
+° cansing destructive interterence and theretore zero amplitude (1)                                              3
+Q34.
+Question                                         AMSWwer                                          Mark
+Nimmber
+Incorrect Answers:
+A — imoorrect
+B — inconrect
+D — imoorrect
+
+
+--- Page 52 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q35.
+Question                    \       |                                                ate) ae                   7
+— -        .                     :               Guidance on how the mark scheme
+Tins question assesses a student's                 should be applied:
+ability to shor a coherent and logically      “ omens “pp a
+structured answer with linkages and                 The mark for indicative coment should
+fully-sustained reasoning.      |                           be added to the mark for lines of
+Marks are awarded for indicative                     eee For example, ES
+content and tor how the answer 1s                     with five indicative marking pouuts
+structured and shows limes of reasonimg.          which 1s partially structured with some
+linkages and lines of reasoning scores
+The following table shows how the                 4 marks (3 marks for mdacative
+marks should be awarded tor indicative          content and. 1 mark for partial
+Compan.                                                         structure and some linkages and limes
+Number of        Number of                              ithe on linkages between
+tudicatve        marks avrarded.                    ne
+markings            for indirative                        points, the same frre imdicative
+points seen in | marking points                      marking pomts would yield an overall
+answer                                                score of 3 marks (3 marks for
+                 tmhicative content and mo marks for
+               linkages).
+number
+=                     The followimg table shows how the marks should be awarded for
+(contimwed) | structure and limes of reasonme.
+a)
+for structure of answer and
+sustained line of reasomng
+Answer shows a                                         4
+coherent and logical
+structure writh,
+linkages andl tulby
+sustained lines of
+feasoning
+demonstrated.
+throughout
+Answer is partially                                      1
+structured with same
+linkages and. lines of
+feasoning
+Answer has mo                                          in
+linkages between
+poms and is
+unstructured
+
+
+--- Page 53 ---
+
+Interference and Diffraction                                                                                                                    PhysicsAndMaths Tutor.com
+Oumestion                                                           Addttomal | .
+Q  ;  a                                                Acceptable answers                                               7          Mark
+Number                                                                                                                        guidance
+
+=                     Indicative content
+(contmued)
+o Sound waves incident upon surfaces within the comcert hall
+will be reflected.
+o Some frequencies will arrive trom different directions with a
+phase difference of (any odd multiple of) m radians (1) OR
+path difference is odd number of half wavelengths
+o Destructive superposition/imterterence will occur, causing
+the waves with those frequencies to be quieter than others.
+© (Other frequencies arrive with a phase difference of meno or
+(any multiple of) 20 radians (1) OR awhole number of
+wavelengths
+o Constrctive superposition interference will occur, causing
+wares with those frequencies to be louder than others.
+© Problem arises due to reflections from walls, so use
+absorbing material on surfaces to reduce reflections.                                                     6
+Owestiom,                                                         a                                                           Addiiomal | .
+Q  E                                                 Acceptable answers                                               7   s          Wark
+Number                                                                                                                        gnidance
+=                     Alternative approach based on stamding waves:
+(contimued)
+o Sound waves memdent upon surfaces within the concert hall
+will be reflected.
+°° Reflections from walls set wp standing waves (in room)
+°o Nodes and antimodes are formed for certain frequencies of
+sound
+o Nodes are areas of zero/low amplitude so the frequencies of
+those sound. waves will be quieter than others
+o Antmodes are areas of maximum amplitude so the
+frequencies of these sound waves will be louder than others
+© Problem anses due to reflections fram walls, so use
+absorbing material on surfaces te reduce reflections
+
+
+--- Page 54 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q36.
+Question               4       -                                           Tdteteanel) acants                    _
+               Acceptable amswers                                    Additional suidance              Marl
+e Two or more waves meet                         a)      Die anit accept sum or amp lites
+® The (resultant) displacement (ata            .
+point) is the sum of the individual             (ly                                                                      2
+displacements trom the individual
+WAVES
+Q37.
+Qmestiom,                  ;       a                                 eo ada"      yom                 oe
+                           Acceptable Answer                                         Acdifiomal fsuidance                 Mark
+An explanation that makes reference to                Allow 1 aark for space of                   3
+the following pounts:                                               maxima on screen will change
+°° Macca on one side move closer      ()
+to the central maximum                            ql)
+o Maxima on the other side move      “
+further away tron the central             (1)
+o Intensity of maxima would be
+different on cach side of central
+Q38.
+~neshen                             Acceptable Answer                                         Additional Guidance                 Mark
+Simmer
+An explanatoon that makes reference to                                                                                                         2
+the following pots:
+0 Measure the distance between the
+taro 1°/22* onder maxima                   ql)
+(Or measure the distance from the
+2 onder to the central maxiommm (1)
+(Chr increase the clstance trom the
+crating to the screen
+0 This mcreases the distance
+measured on the screen (amd
+Techice the “a ucertamiy |
+MP? dependent upon MiP 1
+
+
+--- Page 55 ---
+
+Interference and Diffraction                                                                  PhysicsAndMaths Tutor.com
+Q39.
+(estion.             A mmamtalnliea <ayemenare                  Ratt al nidleance        4 Tan clle
+                            Acceptable answers                                             Additional euicdamce                    Tilak
+® Wave model                             (1)
+Any tira
+e (Demonstration) provided expenmental
+evidence (im support of wave model)             (1)
+e (Demonstration) supported previous
+evidence                                (1)
+o® (This demonstration was) reproducible            |
+Or (This demonsiratian) could be                   (1)
+repeated by others                                                                                                                                                                                               a
+Q40.
+hmestiom                           Acceptable Amswers                                                       Additional guidamece                        ilar:
+Number
+(i)       o A line/surface/plane along          (1)                                         1
+which all the points are im
+phase
+(a)      eo A wavelet drawa centred om         (1) | Accept curved line, atc, cincle or
+any point on the lime AC                                     genucitcle for wavelets
+o immu: of three wavelets          _
+drawn fextendime to right hand           (1).                                 fel
+side) with radu equal (by eve)                                                            ee               ;
+to distance between imooming                 -                                           aoe ae
+wavefhonts                   (1)               [oS
+e Wee wavetioot drawn with,     I. 4
+comect shape and position                         |     |      | > \
+along leading edge of wavelets:     le   |
+Q4i1.
+Ouestion          Leraméalla demewars                   Additional swidanc:           ‘srl
+                          Acceptable Answers                                                            Additional guidance                              Mark
+o Use oftand =—                       (1) | Example of Calculation
+o Useofd= 1/300                                 d=1V(300 x 104m?) =3.33
+0 Use ofina = dsing                 (1) |,       4 85 ag ow
+© 4=4530 (om) with conclusion           (1)   O= tang — 18.05"
+Greeti
