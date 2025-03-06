@@ -8,6 +8,7 @@ from unittest.mock import patch, MagicMock
 # Add the parent directory to the path so we can import our modules
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
+# Import from src directory
 from src.pplx import Perplexity, generate_physics_question, process_guide, process_examples
 
 class IntegrationTests(unittest.TestCase):

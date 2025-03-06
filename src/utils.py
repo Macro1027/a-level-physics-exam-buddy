@@ -8,8 +8,17 @@ import logging
 import json
 from tqdm import tqdm
 import fitz  # PyMuPDF
-from pplx import Perplexity
+from src.pplx import Perplexity
 from src.constants import QUESTION_EXTRACTION_PROMPT, MARK_SCHEME_EXTRACTION_PROMPT
+
+def ensure_log_directory():
+    """
+    Ensure the log directory exists.
+    Returns the path to the log directory.
+    """
+    log_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "logs")
+    os.makedirs(log_dir, exist_ok=True)
+    return log_dir
 
 # Configure logging
 def setup_logging(logger_name="ExamProcessor"):
@@ -1162,14 +1171,6 @@ def main():
     end_time = time.time()
     
     logger.info(f"Total processing time: {end_time - start_time:.2f} seconds")
-
-def ensure_log_directory():
-    """
-    Ensure the log directory exists.
-    Returns the path to the log directory.
-    """
-    log_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "logs")
-    os.makedirs(log_dir, exist_ok=True)
 
 if __name__ == "__main__":
     main() 

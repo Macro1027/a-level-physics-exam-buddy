@@ -108,7 +108,11 @@ Strictly structure your output exactly as follows:
 
 ```
 <question> - (question text)
-(question 1 description)
+(a)
+(question 1 part a description)
+(b)
+(question 1 part b description)
+etc 
 
 <mark scheme>
 (question 1 mark scheme)

@@ -17,11 +17,27 @@ from streamlit_option_menu import option_menu
 import hashlib
 import time
 from io import BytesIO
-import src.pplx as pplx
 import os
 from pathlib import Path
-import src.styles as styles
 import re
+import logging
+
+# Import from src directory
+from src import pplx
+from src import styles
+from src.utils import ensure_log_directory
+
+# Set up logging for the main application
+log_dir = ensure_log_directory()
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler(os.path.join(log_dir, "app.log")),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger("PhysicsApp")
 
 # ===============================
 # Configuration and Setup
@@ -1230,3 +1246,131 @@ elif selected == "Settings" and st.session_state.authenticated:
 # Footer
 st.markdown("---")
 st.markdown("© 2025 A-Level Physics Question Generator | Marco")
+
+def generate_question():
+    """Generate a physics question based on user inputs"""
+    with st.spinner("Generating question... This may take a moment."):
+        try:
+            # Get user inputs
+            topic = st.session_state.topic
+            difficulty = st.session_state.difficulty
+            question_type = st.session_state.question_type
+            
+            # Load guide and examples
+            guide_content = pplx.process_guide("guide.txt")
+            examples_content = pplx.process_examples("examples.docx")
+            
+            # Try to get RAG examples
+            rag_examples = None
+            try:
+                from src.RAG import PhysicsRAG
+                rag = PhysicsRAG()
+                search_query = f"{topic} {difficulty} {question_type} physics question"
+                rag_examples = rag.search(search_query, top_k=5)
+                logger.info(f"Retrieved {len(rag_examples)} similar questions using RAG")
+            except Exception as e:
+                logger.warning(f"Failed to retrieve RAG examples: {e}")
+            
+            # Generate the question with RAG examples
+            result = pplx.generate_physics_question(
+                topic=topic,
+                difficulty=difficulty,
+                question_type=question_type,
+                guide_content=guide_content,
+                examples_content=examples_content,
+                rag_examples=rag_examples
+            )
+            
+            # Process the result
+            if result and not result.startswith("Error"):
+                # Parse the generated content
+                questions = []
+                current_question = {"text": "", "mark_scheme": ""}
+                
+                # Split by question and mark scheme
+                lines = result.split("\n")
+                mode = "none"
+                
+                for line in lines:
+                    if line.strip().startswith("<question>"):
+                        if current_question["text"]:
+                            questions.append(current_question)
+                            current_question = {"text": "", "mark_scheme": ""}
+                        mode = "question"
+                        line = line.replace("<question>", "").strip()
+                    elif line.strip().startswith("<mark scheme>"):
+                        mode = "mark_scheme"
+                        line = line.replace("<mark scheme>", "").strip()
+                    
+                    if mode == "question" and line:
+                        current_question["text"] += line + "\n"
+                    elif mode == "mark_scheme" and line:
+                        current_question["mark_scheme"] += line + "\n"
+                
+                # Add the last question
+                if current_question["text"]:
+                    questions.append(current_question)
+                
+                # Log the processed questions
+                from src.utils import ensure_log_directory
+                import datetime
+                import os
+                import json
+                
+                log_dir = ensure_log_directory()
+                timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+                filename = f"processed_questions_{topic}_{difficulty}_{timestamp}.json"
+                filepath = os.path.join(log_dir, filename)
+                
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    json.dump({
+                        "topic": topic,
+                        "difficulty": difficulty,
+                        "question_type": question_type,
+                        "timestamp": datetime.datetime.now().isoformat(),
+                        "num_questions": len(questions),
+                        "questions": questions
+                    }, f, indent=2)
+                
+                logger.info(f"Processed questions saved to {filepath}")
+                
+                # Store the questions
+                if questions:
+                    for q in questions:
+                        question_id = str(uuid.uuid4())
+                        timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                        
+                        question_data = {
+                            "id": question_id,
+                            "topic": topic,
+                            "difficulty": difficulty,
+                            "question_type": question_type,
+                            "question": q["text"].strip(),
+                            "mark_scheme": q["mark_scheme"].strip(),
+                            "timestamp": timestamp,
+                            "user": st.session_state.username if st.session_state.authenticated else "guest",
+                            "feedback": None
+                        }
+                        
+                        st.session_state.question_history.append(question_data)
+                        st.session_state.current_question_id = question_id
+                        
+                        # Update user stats
+                        if st.session_state.authenticated:
+                            username = st.session_state.username
+                            st.session_state.users[username]['completed_questions'] += 1
+                            
+                            # Update topic counts
+                            if topic not in st.session_state.users[username]['topic_counts']:
+                                st.session_state.users[username]['topic_counts'][topic] = 1
+                            else:
+                                st.session_state.users[username]['topic_counts'][topic] += 1
+                    
+                    st.success(f"Generated {len(questions)} questions successfully!")
+                    st.session_state.token_count += 1
+                else:
+                    st.error("Failed to parse generated questions.")
+            else:
+                st.error(f"Error generating question: {result}")
+        except Exception as e:
+            st.error(f"An error occurred: {str(e)}")
