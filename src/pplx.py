@@ -2,7 +2,11 @@ import os
 import sys
 from openai import OpenAI
 import docx  # Add this import
+import requests
+import time
+import logging
 
+logger = logging.getLogger("Perplexity")
 
 def process_examples(examples_path):
     """Process the examples file (DOCX) and extract few-shot examples"""
@@ -216,3 +220,64 @@ if __name__ == "__main__":
     if result:
         print("\n=== GENERATED QUESTION ===\n")
         print(result)
+class Perplexity:
+    """
+    Client for the Perplexity API.
+    """
+    
+    def __init__(self, api_key=None, model="r1-1776"):
+        """
+        Initialize the Perplexity client.
+        
+        Parameters:
+        - api_key: Perplexity API key (defaults to PPLX_API_KEY environment variable)
+        - model: Model to use (default: llama-3-sonar-large-32k-online)
+        """
+        # self.api_key = api_key or os.environ.get("PPLX_API_KEY")
+        # if not self.api_key:
+        #     raise ValueError("Perplexity API key not provided. Set PPLX_API_KEY environment variable or pass api_key parameter.")
+        self.api_key = "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"
+
+        self.model = model
+        self.base_url = "https://api.perplexity.ai/chat/completions"
+        self.headers = {
+            "Authorization": f"Bearer {self.api_key}",
+            "Content-Type": "application/json"
+        }
+    
+    def generate(self, prompt, max_retries=3, retry_delay=5):
+        """
+        Generate a response from the Perplexity API.
+        
+        Parameters:
+        - prompt: The prompt to send to the API
+        - max_retries: Maximum number of retries on failure
+        - retry_delay: Delay between retries in seconds
+        
+        Returns:
+        - Generated text
+        """
+        data = {
+            "model": self.model,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.1,  # Low temperature for more deterministic outputs
+            "max_tokens": 4000
+        }
+        
+        for attempt in range(max_retries):
+            try:
+                response = requests.post(self.base_url, headers=self.headers, json=data)
+                response.raise_for_status()
+                
+                result = response.json()
+                return result["choices"][0]["message"]["content"]
+            
+            except requests.exceptions.RequestException as e:
+                logger.warning(f"API request failed (attempt {attempt+1}/{max_retries}): {e}")
+                
+                if attempt < max_retries - 1:
+                    logger.info(f"Retrying in {retry_delay} seconds...")
+                    time.sleep(retry_delay)
+                else:
+                    logger.error("Max retries reached. Giving up.")
+                    raise

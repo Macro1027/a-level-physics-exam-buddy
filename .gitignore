@@ -31,14 +31,14 @@ env/
 *.swo
 
 # Project specific
-examples/
 raw examples/
+examples/
 *.log
-ocr_processing.log
 *.csv
 !physics_questions_db.csv
 *.pdf
 *.docx
+extraction_progress.json
 
 # OS specific
 .DS_Store
