@@ -9,17 +9,39 @@ import json
 from tqdm import tqdm
 import fitz  # PyMuPDF
 from pplx import Perplexity
+from src.constants import QUESTION_EXTRACTION_PROMPT, MARK_SCHEME_EXTRACTION_PROMPT
 
 # Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler("processing.log"),
-        logging.StreamHandler()
-    ]
-)
-logger = logging.getLogger("ExamProcessor")
+def setup_logging(logger_name="ExamProcessor"):
+    """Set up logging with file and console handlers"""
+    # Ensure log directory exists
+    log_dir = ensure_log_directory()
+    log_file = os.path.join(log_dir, "processing.log")
+    
+    logger = logging.getLogger(logger_name)
+    logger.setLevel(logging.INFO)
+    
+    # Clear existing handlers if any
+    if logger.handlers:
+        logger.handlers.clear()
+    
+    # Create handlers
+    file_handler = logging.FileHandler(log_file)
+    console_handler = logging.StreamHandler()
+    
+    # Create formatter
+    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    file_handler.setFormatter(formatter)
+    console_handler.setFormatter(formatter)
+    
+    # Add handlers to logger
+    logger.addHandler(file_handler)
+    logger.addHandler(console_handler)
+    
+    return logger
+
+# Initialize logger
+logger = setup_logging()
 
 class ExamPaperProcessor:
     """
@@ -36,6 +58,7 @@ class ExamPaperProcessor:
         """
         self.input_dir = input_dir
         self.output_dir = output_dir
+        self.logger = setup_logging("ExamProcessor")
         
         # Create output directory if it doesn't exist
         os.makedirs(self.output_dir, exist_ok=True)
@@ -170,10 +193,10 @@ class ExamPaperProcessor:
             # Determine how many pages to skip
             if is_ms:
                 # For mark schemes
-                if int(year) >= 17:  # 2017 and beyond
-                    pages_to_skip = 5
-                else:  # 2016 and earlier
+                if int(year) == 16 or int(year) == 19:  
                     pages_to_skip = 4
+                else:  
+                    pages_to_skip = 5
             else:
                 # For question papers
                 pages_to_skip = 1
@@ -227,60 +250,58 @@ class QuestionExtractor:
     Extract question-mark scheme pairs from processed exam papers.
     """
     
-    def __init__(self, examples_dir="examples/papers", output_dir="examples/questions", 
-                 progress_file="extraction_progress.json", use_llm=False):
+    def __init__(self, examples_dir="examples/papers", output_dir="examples/questions", use_llm=False):
         """
         Initialize the question extractor.
         
         Parameters:
         - examples_dir: Directory containing processed exam papers
         - output_dir: Directory to save extracted questions
-        - progress_file: File to track extraction progress
         - use_llm: Whether to use LLM for extraction
         """
         self.examples_dir = examples_dir
         self.output_dir = output_dir
-        self.progress_file = progress_file
         self.use_llm = use_llm
+        self.logger = setup_logging("QuestionExtractor")
         
         # Create output directory if it doesn't exist
         os.makedirs(self.output_dir, exist_ok=True)
         
+        # Load progress if exists
+        log_dir = ensure_log_directory()
+        self.progress_file = os.path.join(log_dir, "extraction_progress.json")
+        self.progress = self.load_progress()
+        
         # Initialize Perplexity client if using LLM
         if self.use_llm:
-            try:
-                self.perplexity = Perplexity()
-                # Load progress if it exists
-                self.progress = self.load_progress()
-            except Exception as e:
-                logger.error(f"Error initializing Perplexity client: {e}")
-                self.use_llm = False
+            self.perplexity = Perplexity()
     
     def load_progress(self):
         """
         Load extraction progress from file.
         
         Returns:
-        - Dictionary of completed papers
+        - Progress dictionary
         """
         if os.path.exists(self.progress_file):
             try:
                 with open(self.progress_file, 'r') as f:
                     return json.load(f)
-            except Exception as e:
-                logger.error(f"Error loading progress file: {e}")
+            except json.JSONDecodeError:
+                self.logger.warning(f"Error loading progress file {self.progress_file}. Starting fresh.")
         
-        return {"completed_papers": []}
+        # Default progress structure
+        return {
+            "completed_papers": [],
+            "completed_questions": [],
+            "last_updated": ""
+        }
     
     def save_progress(self):
-        """
-        Save extraction progress to file.
-        """
-        try:
-            with open(self.progress_file, 'w') as f:
-                json.dump(self.progress, f)
-        except Exception as e:
-            logger.error(f"Error saving progress file: {e}")
+        """Save extraction progress to file."""
+        self.progress["last_updated"] = time.strftime("%Y-%m-%d %H:%M:%S")
+        with open(self.progress_file, 'w') as f:
+            json.dump(self.progress, f, indent=2)
     
     def extract_text_from_pdf(self, pdf_path):
         """
@@ -884,57 +905,7 @@ class QuestionExtractor:
         cleaned_text = self.clean_text_for_llm(text)
         
         # Prepare the prompt based on whether it's a question paper or mark scheme
-        if is_mark_scheme:
-            prompt = """
-            You are an expert at analyzing physics exam mark schemes. I'll provide you with the text of a mark scheme.
-            
-            Your task is to:
-            1. Identify each question's mark scheme in the document
-            2. Extract the complete mark scheme for each question, including all subparts
-            3. Format each mark scheme with the question number as a header
-            4. Include the total marks for each question
-            
-            For each question, output in this exact format:
-            
-            QUESTION_START: {question_number}
-            {full mark scheme text for this question}
-            TOTAL_MARKS: {number of marks}
-            QUESTION_END
-            
-            Make sure to:
-            - Keep all original formatting and content for each mark scheme
-            - Include all subparts (a, b, c, etc.) under the main question number
-            - Extract the total marks from phrases like "Total for Question X = Y marks"
-            - Separate each question with the QUESTION_START and QUESTION_END markers
-            
-            Here is the mark scheme text:
-            """
-        else:
-            prompt = """
-            You are an expert at analyzing physics exam papers. I'll provide you with the text of an exam paper.
-            
-            Your task is to:
-            1. Identify each question in the document
-            2. Extract the complete text for each question, including all subparts
-            3. Format each question with the question number as a header
-            4. Include the total marks for each question
-            
-            For each question, output in this exact format:
-            
-            QUESTION_START: {question_number}
-            {full question text}
-            TOTAL_MARKS: {number of marks}
-            QUESTION_END
-            
-            Make sure to:
-            - Keep all original formatting and content for each question
-            - Include all subparts (a, b, c, etc.) under the main question number
-            - Extract the total marks from phrases like "Total for Question X = Y marks"
-            - Separate each question with the QUESTION_START and QUESTION_END markers
-            - Ignore any data sheets, formula pages, or other non-question content
-            
-            Here is the exam paper text:
-            """
+        prompt = MARK_SCHEME_EXTRACTION_PROMPT if is_mark_scheme else QUESTION_EXTRACTION_PROMPT
         
         # Call the Perplexity API
         try:
@@ -1191,6 +1162,14 @@ def main():
     end_time = time.time()
     
     logger.info(f"Total processing time: {end_time - start_time:.2f} seconds")
+
+def ensure_log_directory():
+    """
+    Ensure the log directory exists.
+    Returns the path to the log directory.
+    """
+    log_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "logs")
+    os.makedirs(log_dir, exist_ok=True)
 
 if __name__ == "__main__":
     main() 

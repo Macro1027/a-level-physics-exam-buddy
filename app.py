@@ -479,7 +479,7 @@ def generate_perplexity_question(params):
     current_dir = Path(os.path.dirname(os.path.abspath(__file__)))
     
     # Paths to guide and examples files
-    guide_path = current_dir / "guide.txt"
+    guide_path = current_dir / "examples/guide.txt"
     examples_path = current_dir / "examples.docx"
     
     # Process guide and examples
@@ -823,7 +823,18 @@ if selected == "Generate Questions":
             
             if use_perplexity:
                 # First extract thinking sections
-                clean_content, thinking_sections = extract_thinking_sections(response["question"])
+                if "question" in response:
+                    clean_content, thinking_sections = extract_thinking_sections(response["question"])
+                else:
+                    # Handle the case where "question" key doesn't exist
+                    print(f"Available keys in response: {response.keys()}")
+                    
+                    # Use a default or the entire response if appropriate
+                    if isinstance(response, str):
+                        clean_content, thinking_sections = extract_thinking_sections(response)
+                    else:
+                        clean_content, thinking_sections = "", []
+                
                 # Clean the content to remove unwanted characters
                 clean_content = clean_output_text(clean_content)
                 formatted_content = format_latex_content(clean_content)

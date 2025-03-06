@@ -104,6 +104,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Perplexity AI for providing the question generation capabilities
 - Streamlit for the interactive web framework
 
+## Logs
+
+The application generates various log files to help track processing and troubleshoot issues:
+
+- **app.log**: Main application log
+- **processing.log**: Exam paper processing log
+- **extraction_progress.json**: Progress tracking for question extraction
+
+All logs are stored in the `logs` directory. You can safely delete these files if you need to start fresh, but they're useful for debugging if you encounter any issues.
+
 ---
 
 © 2025 A-Level Physics Exam Buddy | Marco

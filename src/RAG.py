@@ -8,6 +8,25 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import docx  # python-docx for .docx files
 import glob
+import json
+import logging
+import argparse
+import time
+from tqdm import tqdm
+import pinecone
+from pplx import Perplexity
+from src.constants import EMBEDDING_GENERATION_PROMPT
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler("rag_processing.log"),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger("RAGProcessor")
 
 class PhysicsExamProcessor:
     """
@@ -428,41 +447,374 @@ class PhysicsExamProcessor:
         
         return text.strip()
 
+class PhysicsQuestionRAG:
+    """
+    Create and manage a RAG database for physics questions using Pinecone.
+    """
+    
+    def __init__(self, questions_dir="examples/questions", 
+                 pinecone_api_key=None, pinecone_index_name="physics-questions",
+                 perplexity_api_key=None, embedding_model="r1-1776"):
+        """
+        Initialize the RAG processor.
+        
+        Parameters:
+        - questions_dir: Directory containing question files
+        - pinecone_api_key: Pinecone API key (defaults to PINECONE_API_KEY environment variable)
+        - pinecone_index_name: Name of the Pinecone index
+        - perplexity_api_key: Perplexity API key (defaults to PPLX_API_KEY environment variable)
+        - embedding_model: Perplexity model to use for embeddings
+        """
+        self.questions_dir = questions_dir
+        self.pinecone_api_key = pinecone_api_key or os.environ.get("PINECONE_API_KEY")
+        self.pinecone_index_name = pinecone_index_name
+        self.embedding_model = embedding_model
+        
+        if not self.pinecone_api_key:
+            raise ValueError("Pinecone API key not provided. Set PINECONE_API_KEY environment variable or pass pinecone_api_key parameter.")
+        
+        # Initialize Perplexity client
+        self.perplexity = Perplexity(api_key=perplexity_api_key, model=embedding_model)
+        
+        # Initialize Pinecone
+        pinecone.init(api_key=self.pinecone_api_key, environment="gcp-starter")
+        
+        # Create index if it doesn't exist
+        if self.pinecone_index_name not in pinecone.list_indexes():
+            logger.info(f"Creating new Pinecone index: {self.pinecone_index_name}")
+            pinecone.create_index(
+                name=self.pinecone_index_name,
+                dimension=1536,  # Dimension for embeddings
+                metric="cosine"
+            )
+        
+        # Connect to the index
+        self.index = pinecone.Index(self.pinecone_index_name)
+    
+    def get_embedding(self, text):
+        """
+        Get embedding for a text using Perplexity's Sonar model.
+        
+        Parameters:
+        - text: Text to embed
+        
+        Returns:
+        - Embedding vector
+        """
+        try:
+            # Create a prompt for embedding
+            prompt = EMBEDDING_GENERATION_PROMPT.format(text=text)
+            
+            # Call the Perplexity API
+            response = self.perplexity.generate(prompt)
+            
+            # Parse the response to extract the embedding
+            # This is a simplified approach - in a real implementation,
+            # you would need to use a specific embedding endpoint or parse the response properly
+            try:
+                # Try to extract a JSON array from the response
+                import re
+                embedding_match = re.search(r'\[[\d\.\-\,\s]+\]', response)
+                if embedding_match:
+                    embedding_str = embedding_match.group(0)
+                    embedding = json.loads(embedding_str)
+                    
+                    # Ensure it's the right dimension (1536)
+                    if len(embedding) != 1536:
+                        # If not, pad or truncate
+                        if len(embedding) < 1536:
+                            embedding.extend([0.0] * (1536 - len(embedding)))
+                        else:
+                            embedding = embedding[:1536]
+                    
+                    return embedding
+                else:
+                    # If no embedding found, use a simpler approach
+                    # Convert the text to a simple vector based on character codes
+                    simple_embedding = []
+                    for char in text[:1536]:
+                        simple_embedding.append(ord(char) / 255.0)  # Normalize to [0,1]
+                    
+                    # Pad to 1536 dimensions
+                    if len(simple_embedding) < 1536:
+                        simple_embedding.extend([0.0] * (1536 - len(simple_embedding)))
+                    
+                    return simple_embedding
+            except:
+                logger.error("Failed to parse embedding from response")
+                return None
+        except Exception as e:
+            logger.error(f"Error getting embedding: {e}")
+            return None
+    
+    def load_question_file(self, file_path):
+        """
+        Load a question file and extract its content.
+        
+        Parameters:
+        - file_path: Path to the question file
+        
+        Returns:
+        - Dictionary with question information
+        """
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            # Extract metadata from filename
+            filename = os.path.basename(file_path)
+            match = os.path.splitext(filename)[0].split('_')
+            
+            if len(match) >= 4:
+                year, level, paper_number, question_number = match
+            else:
+                # Handle case where filename doesn't match expected format
+                year, level, paper_number, question_number = "XX", "XX", "X", "X"
+            
+            # Split content into question and mark scheme
+            parts = content.split("MARK SCHEME:")
+            if len(parts) == 2:
+                question_text = parts[0].replace("QUESTION:", "").strip()
+                mark_scheme = parts[1].strip()
+            else:
+                question_text = content
+                mark_scheme = ""
+            
+            # Extract marks if available
+            marks_match = content.find("MARKS:")
+            marks = None
+            if marks_match != -1:
+                marks_line = content[marks_match:].split("\n")[0]
+                try:
+                    marks = int(marks_line.replace("MARKS:", "").strip())
+                except:
+                    pass
+            
+            return {
+                "id": f"{year}_{level}_{paper_number}_{question_number}",
+                "year": year,
+                "level": level,
+                "paper_number": paper_number,
+                "question_number": question_number,
+                "question_text": question_text,
+                "mark_scheme": mark_scheme,
+                "marks": marks,
+                "file_path": file_path
+            }
+        except Exception as e:
+            logger.error(f"Error loading question file {file_path}: {e}")
+            return None
+    
+    def create_database(self):
+        """
+        Create the RAG database by processing all question files and storing them in Pinecone.
+        
+        Returns:
+        - Number of questions processed
+        """
+        # Get all question files
+        question_files = glob.glob(os.path.join(self.questions_dir, "*.txt"))
+        
+        if not question_files:
+            logger.warning(f"No question files found in {self.questions_dir}")
+            return 0
+        
+        logger.info(f"Found {len(question_files)} question files to process")
+        
+        # Process each question file
+        processed_count = 0
+        batch_size = 100  # Process in batches to avoid rate limits
+        
+        for i in tqdm(range(0, len(question_files), batch_size), desc="Processing question batches"):
+            batch_files = question_files[i:i+batch_size]
+            vectors_to_upsert = []
+            
+            for file_path in batch_files:
+                # Load question data
+                question_data = self.load_question_file(file_path)
+                if not question_data:
+                    continue
+                
+                # Get embeddings for question text
+                question_embedding = self.get_embedding(question_data["question_text"])
+                if not question_embedding:
+                    logger.warning(f"Failed to get embedding for {file_path}")
+                    continue
+                
+                # Prepare vector for Pinecone
+                vector = {
+                    "id": question_data["id"],
+                    "values": question_embedding,
+                    "metadata": {
+                        "year": question_data["year"],
+                        "level": question_data["level"],
+                        "paper_number": question_data["paper_number"],
+                        "question_number": question_data["question_number"],
+                        "marks": question_data["marks"],
+                        "question_text": question_data["question_text"][:1000],  # Truncate for metadata
+                        "mark_scheme": question_data["mark_scheme"][:1000],  # Truncate for metadata
+                        "file_path": question_data["file_path"]
+                    }
+                }
+                
+                vectors_to_upsert.append(vector)
+            
+            # Upsert vectors to Pinecone
+            if vectors_to_upsert:
+                try:
+                    self.index.upsert(vectors=vectors_to_upsert)
+                    processed_count += len(vectors_to_upsert)
+                    logger.info(f"Upserted {len(vectors_to_upsert)} vectors to Pinecone")
+                except Exception as e:
+                    logger.error(f"Error upserting vectors to Pinecone: {e}")
+            
+            # Sleep to avoid rate limits
+            time.sleep(1)
+        
+        logger.info(f"Processed {processed_count} questions in total")
+        return processed_count
+    
+    def search_similar_questions(self, query, top_k=5, filter_params=None):
+        """
+        Search for similar questions in the database.
+        
+        Parameters:
+        - query: Query text
+        - top_k: Number of results to return
+        - filter_params: Dictionary of filter parameters (e.g., {"level": "AS"})
+        
+        Returns:
+        - List of similar questions with metadata
+        """
+        # Get embedding for query
+        query_embedding = self.get_embedding(query)
+        if not query_embedding:
+            logger.error("Failed to get embedding for query")
+            return []
+        
+        # Prepare filter if provided
+        filter_dict = {}
+        if filter_params:
+            for key, value in filter_params.items():
+                if key in ["year", "level", "paper_number", "question_number", "marks"]:
+                    filter_dict[key] = value
+        
+        # Search Pinecone
+        try:
+            results = self.index.query(
+                vector=query_embedding,
+                top_k=top_k,
+                include_metadata=True,
+                filter=filter_dict if filter_dict else None
+            )
+            
+            # Format results
+            formatted_results = []
+            for match in results.matches:
+                formatted_results.append({
+                    "id": match.id,
+                    "score": match.score,
+                    "metadata": match.metadata
+                })
+            
+            return formatted_results
+        except Exception as e:
+            logger.error(f"Error searching Pinecone: {e}")
+            return []
+    
+    def get_question_by_id(self, question_id):
+        """
+        Get a question by its ID.
+        
+        Parameters:
+        - question_id: Question ID
+        
+        Returns:
+        - Question data or None if not found
+        """
+        try:
+            # Fetch from Pinecone
+            result = self.index.fetch(ids=[question_id])
+            
+            if question_id in result.vectors:
+                vector = result.vectors[question_id]
+                
+                # Load full question from file
+                file_path = vector.metadata.get("file_path")
+                if file_path and os.path.exists(file_path):
+                    return self.load_question_file(file_path)
+                else:
+                    # Return metadata if file not found
+                    return {
+                        "id": question_id,
+                        "year": vector.metadata.get("year"),
+                        "level": vector.metadata.get("level"),
+                        "paper_number": vector.metadata.get("paper_number"),
+                        "question_number": vector.metadata.get("question_number"),
+                        "question_text": vector.metadata.get("question_text"),
+                        "mark_scheme": vector.metadata.get("mark_scheme"),
+                        "marks": vector.metadata.get("marks")
+                    }
+            else:
+                logger.warning(f"Question ID {question_id} not found in database")
+                return None
+        except Exception as e:
+            logger.error(f"Error fetching question {question_id}: {e}")
+            return None
+
+def create_rag_database():
+    """
+    Create a RAG database from the extracted questions.
+    """
+    logger.info("Creating RAG database from extracted questions")
+    rag = PhysicsQuestionRAG(questions_dir="examples/questions")
+    processed_count = rag.create_database()
+    
+    logger.info(f"Created RAG database with {processed_count} questions")
+    return processed_count
+
 def main():
-    """Main function to demonstrate usage"""
-    processor = PhysicsExamProcessor()
+    """Main function to create and query the RAG database"""
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(description="Create and query a RAG database for physics questions")
+    parser.add_argument("--create", action="store_true", help="Create the RAG database")
+    parser.add_argument("--query", type=str, help="Query to search for similar questions")
+    parser.add_argument("--top_k", type=int, default=5, help="Number of results to return")
+    parser.add_argument("--filter", type=str, help="Filter parameters in JSON format (e.g., '{\"level\": \"AS\"}')")
     
-    # Process all files in the examples directory
-    processor.process_directory()
-    processor.save_to_csv()
+    args = parser.parse_args()
     
-    # Build search index
-    processor.build_search_index()
+    start_time = time.time()
     
-    # Example: Search for questions about momentum
-    results = processor.search_similar_questions("Calculate the momentum of a particle", n=3)
-    print("\nSearch results for 'momentum':")
-    for i, result in enumerate(results):
-        print(f"\nResult {i+1} (Similarity: {result['similarity']:.2f}):")
-        print(f"Topic: {result['detected_topic']}")
-        print(f"Question: {result['question_text'][:200]}...")
+    # Initialize RAG
+    rag = PhysicsQuestionRAG(questions_dir="examples/questions")
     
-    # Example: Get questions by topic
-    mechanics_questions = processor.get_questions_by_topic("Mechanics - Forces")
-    print(f"\nFound {len(mechanics_questions)} questions on Mechanics - Forces")
+    # Create database if requested
+    if args.create:
+        processed_count = rag.create_database()
+        logger.info(f"Created RAG database with {processed_count} questions")
     
-    # Example: Get a random question
-    random_q = processor.get_random_question(topic="Particle Physics")
-    if random_q:
-        print("\nRandom question on Waves:")
-        print(f"Question: {random_q['question_text'][:200]}...")
-        print(f"Mark Scheme: {random_q['mark_scheme'][:200]}...")
+    # Query if requested
+    if args.query:
+        filter_params = None
+        if args.filter:
+            try:
+                filter_params = json.loads(args.filter)
+            except json.JSONDecodeError:
+                logger.error(f"Invalid filter JSON: {args.filter}")
+        
+        results = rag.search_similar_questions(args.query, top_k=args.top_k, filter_params=filter_params)
+        
+        print(f"\nTop {len(results)} similar questions for query: '{args.query}'")
+        for i, result in enumerate(results):
+            print(f"\n{i+1}. Score: {result['score']:.4f}")
+            print(f"   ID: {result['id']}")
+            print(f"   Year: {result['metadata']['year']}, Level: {result['metadata']['level']}")
+            print(f"   Question: {result['metadata']['question_text'][:200]}...")
     
-    # Example: Format examples for a prompt
-    if results:
-        prompt_examples = processor.format_examples_for_prompt(results[:2])
-        print("\nFormatted examples for prompt:")
-        print(prompt_examples)
+    end_time = time.time()
+    
+    logger.info(f"Total processing time: {end_time - start_time:.2f} seconds")
 
 if __name__ == "__main__":
     main() 
